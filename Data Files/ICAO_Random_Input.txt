@@ -1,0 +1,4046 @@
+SVSP%SNF%San Felipe%Sub Teniente Nestor Arias%Venezuela
+ENDU%BDU%Bardufoss%Bardufoss Airport%Norway
+FMND%ZWA%Andapa%Andapa%Madagascar
+VNGK%GKH%Gorkha%Gorkha%Nepal
+CYGX%YGX%Gillam, Manitoba%Gillam%Canada
+LFDH%AUC%Auch%Auch - Lamothe Airport%France
+ZBLA%HLD%Hailar%Hailar Dongshan Airport%China - Peoples Republic
+YWWL%WWA%West Wyalong%West Wyalong Airport%Australia
+LBGO%GOZ%Gorna Oryahovitsa%Gorna Oryahovitsa Airport%Bulgaria
+HEGN%HRG%Hurghada%Hurghada Intl Airport%Egypt
+GUSB%SBI%Koundara%Sambailo%Guinea
+MMGL%GDL%Guadalajara%Don Miguel Hidalgo y Costilla Intl Airport%Mexico
+KDSM%DSM%Des Moines, Iowa%Des Moines Intl Airport%USA
+KSBP%SBP%San Luis Obispo, California%San Luis Obispo County Regional Airport (McChesney Field)%USA
+SVMD%MRD%Merida%Alberto Carnevalli%Venezuela
+VEZO%ZER%Zero (Arunachal Pradesh)%Zero Airport%India
+OICS%SDG%Sanandaj%Sanandaj Airport%Iran
+EDDV%HAJ%Hannover%Hannover-Langenhagen%Germany
+NZPM%PMR%Palmerston North%Palmerston North%New Zealand
+WAJJ%DJJ%Jayapura, Papua%Sentani Airport%Indonesia
+CYSJ%YSJ%Saint John, New Brunswick%Saint John%Canada
+KPDT%PDT%Pendleton, Oregon%Eastern Oregon Regional Airport at Pendleton%USA
+KSBN%SBN%South Bend, Indiana%South Bend Regional Airport%USA
+DAAD%BUJ%Bou Saada%Bou Saada Airport%Algeria
+KABI%ABI%Abilene, Texas%Abilene Regional Airport%USA
+FWCM%CMK%Club Makokola%Club Makokola%Malawi
+MRLM%LIO%Limon%Limon Intl Airport%Costa Rica
+NZHK%HKK%Hokitika%Hokitika%New Zealand
+FNBG%BUG%Benguela%Benguela - 17th Of November%Angola
+YTNG%THG%Thangool%Thangool Airport%Australia
+SCES%ESR%El Salvador%El Salvador Bajo%Chile
+VNVT%BIR%Biratnagar%Biratnagar%Nepal
+CNK4%YPD%Parry Sound, Ontario%Georgian Bay%Canada
+ESGT%THN%Trollhattan - Vanersborg%Trollhattan - Vanersborg%Sweden
+SBRF%REC%Recife%Guararapes Intl Airport%Brazil
+LFLU%VAF%Valence%Valence - Chabeuil Airport%France
+DNJO%JOS%Jos%Jos%Nigeria
+HADC%DSE%Dessie%Combolcha%Ethiopia
+VYMO%MOE%Momeik%Momeik%Myanmar (Burma)
+ZYTX%SHE%Shenyang%Shenyang Taoxian Intl Airport%China - Peoples Republic
+RPUV%VRC%Virac%Virac Airport%Philippines
+KHRL%HRL%Harlingen, Texas%Valley Intl Airport%USA
+OERF%RAH%Rafha%Rafha Domestic Airport%Saudi Arabia
+MYAF%ASD%Andros Town%Andros Town Intl Airport%Bahamas
+ZBSJ%SJW%Shijiazhuang%Shijiazhuang Daguocun Intl Airport%China - Peoples Republic
+WBGM%MUR%Marudi%Marudi%Malaysia
+CYKF%YKF%Kitchener, Ontario%Kitchener/Waterloo Regl%Canada
+RPML%CGY%Cagayan de Oro%Lumbia Airport%Philippines
+USNN%NJC%Nizhnevartovsk%Nizhnevartovsk Airport%Russia
+FLKL%KLB%Kalabo%Kalabo%Zambia
+LFAB%DPE%Dieppe%Dieppe - Saint-Aubin Airport%France
+ZBCF%CIF%Chifeng%Chifeng Airport%China - Peoples Republic
+TFFA%DSD%Grande-Anse, La D%Grande Anse Airport%Guadeloupe - French Antilles
+VEKR%IXH%Kailashahar (Tripura)%Kailashahar Airport%India
+NZOH%OHA%Ohakea%Ohakea(Military)%New Zealand
+ZYMD%MDG%Mudanjiang%Mudanjiang Airport%China - Peoples Republic
+LGKP%AOK%Karpathos%Karpathos Island National Airport%Greece
+HAMM%ETE%Metema%Metema%Ethiopia
+ROMY%MMY%Okinawa%Miyako Airport%Japan
+VILK%LKO%Lucknow (Uttar Pradesh)%Chaudhary Charan Singh International Airport%India
+TAPA%ANU%Saint John's, Antigua%VC Bird Intl Airport%Antigua and Barbuda
+ZBYN%TYN%Taiyuan%Taiyuan Wusu Airport%China - Peoples Republic
+CYCQ%YCQ%Chetwynd, British Columbia%Chetwynd%Canada
+KCMH%CMH%Columbus, Ohio%Port Columbus Intl Airport%USA
+MYAK%COX%Congo Town%Congo Town Airport%Bahamas
+ZSQD%TAO%Qingdao%Qingdao Liuting Intl Airport%China - Peoples Republic
+KHTS%HTS%Huntington, West Virginia%Tri-State Airport (Milton J. Ferguson Field)%USA
+LKMT%OSR%Ostrava%Ostrava-Mosnov Intl Airport%Czech Republic
+PGSN%SPN%Saipan%Obyan Intl%Northern Mariana Islands
+OAIX%BPM%Charikar%Bagram Air Base%Afghanistan
+FQIN%INH%Inhambane%Inhambane%Mozambique
+LGBL%VOL%Aghialos%Aghialos National Airport%Greece
+EGNM%LBA%West Yorkshire%Leeds Bradford Intl Airport%United Kingdom
+NWWR%MEE%Mare%La Roche Aero%New Caledonia (France)
+ULKK%KSZ%Kotlas%Kotlas Airport%Russia
+KDLH%DLH%Duluth, Minnesota%Duluth Intl Airport%USA
+OAUZ%UND%Kunduz%Kunduz%Afghanistan
+SCAN%LOB%Los Andes%San Rafael%Chile
+CYWP%YWP%Webequie, Ontario%Webequie%Canada
+VNRB%RJB%Rajbiraj%Rajbiraj%Nepal
+CYCY%YCY%Clyde River, Northwest Territories%Clyde River%Canada
+CYEY%YEY%Amos, Quebec%Amos Mun%Canada
+MMNL%NLD%Nuevo Laredo%Quetzalcoatl Intl Airport%Mexico
+KLMT%LMT%Klamath Falls, Oregon%Klamath Falls Airport (Kingsley Field)%USA
+GOGS%CSK%Cap Skiring%Cap Skiring%Senegal
+FAHR%HRS%Harrismith%Harrismith%South Africa
+YMNE%WME%Mount Keith%Mount Keith Airport%Australia
+MYCI%CRI%Colonial Hill%Colonial Hill Airport%Bahamas
+FZQG%KEC%Kasenga%Kasenga%Congo, Democratic Republic of the
+GFLL%FNA%Freetown%Lungi%Sierra Leone
+KRNO%RNO%Reno, Nevada%Reno/Tahoe Intl Airport%USA
+EKTS%TED%Thisted%Thisted Airport%Denmark
+YPLC%PLO%Port Lincoln%Port Lincoln Airport%Australia
+USCM%MQF%Magnitogorsk%Magnitogorsk Airport%Russia
+CYSN%YCM%St Catharines, Ontario%St Catharines/Niagra District%Canada
+LFRG%DOL%Deauville%Deauville - Saint-Gatien Airport%France
+SBRP%RAO%Ribeirao Preto%Leite Lopes Airport%Brazil
+FLKE%ZKP%Kasompe%Kasompe%Zambia
+YBRM%BME%Broome%Broome Intl Airport%Australia
+KISP%ISP%Islip, New York%Long Island MacArthur Airport%USA
+GLCP%CPA%Harper%Cape Palmas%Liberia
+NVVV%VLI%Port Vila%Bauerfield%Vanuatu
+OEJN%JED%Jeddah%King Abdulaziz Intl Airport%Saudi Arabia
+KSPS%SPS%Wichita Falls, Texas%Wichita Falls Municipal Airport / Sheppard Air Force Base%USA
+VYTL%THL%Tachilek%Tachilek%Myanmar (Burma)
+KYUM%YUM%Yuma, Arizona%Yuma Intl Airport / MCAS Yuma%USA
+FEFO%BOP%Bouar%Bouar%Central Africa
+LIQL%LCV%Lucca%Tassignano Airport%Italy
+LEBA%ODB%Cordoba%Cordoba Airport%Spain
+SMZO%ORG%Paramaribo%Zorg En Hoop%Suriname
+FNUE%LUO%Luena%Luena%Angola
+SYLP%LUB%Lumid Pau%Lumid Pau%Guyana
+MUNC%ICR%Nicaro%Nicaro Airport%Cuba
+PADQ%ADQ%Kodiak, Alaska%Kodiak Airport%USA
+VTUU%UBP%Ubon Ratchathani%Ubon Ratchathani Airport%Thailand
+SPQU%AQP%Arequipa%Rodriguez Ballon%Peru
+YCBB%COJ%Coonabarabran%Coonabarabran Airport%Australia
+PAKN%AKN%King Salmon, Alaska%King Salmon Airport%USA
+SLSI%SNG%San Ignacio De Velasco%Cap. Av. Juan Cochamanidis Sa*%Bolivia
+UATT%AKX%Aktyubinsk%Aktyubinsk%Kazakhstan
+CYTF%YTF%Alma, Quebec%Alma%Canada
+VORY%RJA%Rajahmundry (Andhra Pradesh)%Rajahmundry Airport%India
+LIRZ%PEG%Perugia%San Egidio Airport%Italy
+SBBV%BVB%Boa Vista%Boa Vista Intl Airport%Brazil
+FAPI%PTG%Pietersburg%Pietersburg%South Africa
+KSDY%SDY%Sidney, Montana%Sidney-Richland Municipal Airport%USA
+EPWR%WRO%Wroclaw%Copernicus Airport Wroclaw%Poland
+NZMA%MTA%Matamata%Matamata%New Zealand
+CYER%YER%Ft Severn, Ontario%Ft Severn%Canada
+KLNK%LNK%Lincoln, Nebraska%Lincoln Airport%USA
+UWOO%REN%Orenburg%Tsentralny Airport%Russia
+CYKO%AKV%Akulivik, Quebec%Akulivik%Canada
+ENAL%AES%Alesund%Alesund Airport%Norway
+WRBB%BDJ%Banjarmasin, South Kalimantan%Syamsudin Noor Airport%Indonesia
+FCOB%BOE%Boundji%Boundji%Congo, Republic of
+DIDL%DJO%Daloa%Daloa%Ivory Coast
+MDPC%PUJ%Punta Cana%Punta Cana Intl Airport%Dominican Republic
+ROMD%MMD%Okinawa%Minami-Daito Airport (New Minamidaito)%Japan
+UNOO%OMS%Omsk%Tsentralny Airport%Russia
+FARS%ROD%Robertson%Robertson%South Africa
+FOGQ%OKN%Okondja%Okondja%Gabon
+DFOD%DGU%Dedougou%Dedougou%Burkina Faso
+OACC%CCN%Charkhcharan%Charkhcharan%Afghanistan
+HRYU%RHG%Ruhengeri%Ruhengeri%Rwanda
+SPIL%UMI%Quincemil%Quincemil%Peru
+UIAA%HTA%Chita%Kadala Airport%Russia
+MGRT%RER%Retalhuleu%Retalhuleu Airport (Civil/Mil.)%Guatemala
+VTSS%HDY%Hat Yai / Songkhla%Hat Yai Intl Airport%Thailand
+KPSM%PSM%Portsmouth, New Hampshire%Pease Intl Tradeport Airport%USA
+KLYH%LYH%Lynchburg, Virginia%Lynchburg Regional Airport (Preston Glenn Field)%USA
+CYGT%YGT%Igloolik, Northwest Territories%Igloolik%Canada
+VNSR%FEB%Sanfebagar%Sanfebagar%Nepal
+TAPH%BBQ%Codrington, Barbuda%Codrington Airport%Antigua and Barbuda
+KMDW%MDW%Chicago, Illinois%Chicago Midway Intl Airport%USA
+VNBJ%BHP%Bhojpur%Bhojpur%Nepal
+BIRK%RKV%Reykjavik%Reykjavik Airport%Iceland
+CYFA%YFA%Ft Albany, Ontario%Ft Albany%Canada
+YCNM%CNB%Coonamble%Coonamble Airport%Australia
+RPMR%GES%General Santos%General Santos Intl Airport (Tambler Airport)%Philippines
+FAFB%FCB%Ficksburg%Sentra Oes%South Africa
+CYCT%YCT%Coronation, Alberta%Coronation%Canada
+RJCR%RBJ%Hokkaido%Rebun Airport%Japan
+KRST%RST%Rochester, Minnesota%Rochester Intl Airport%USA
+OOKB%KHS%Khasab%Khasab AB%Oman
+KBOS%BOS%Boston, Massachusetts%Gen. Edward Lawrence Logan Intl Airport%USA
+VEPU%PUI%Purnia (Bihar)%Purnea Airport%India
+LTCL%SXZ%Siirt%Siirt Airport%Turkey
+FQAG%ANO%Angoche%Angoche%Mozambique
+SEGU%GYE%Guayaquil%Simon Bolivar Intl%Ecuador
+SVVP%VDP%Valle De La Pascua%Valle De La Pascua%Venezuela
+KPFN%PFN%Panama City, Florida%Panama City-Bay County Intl Airport%USA
+KCOD%COD%Cody, Wyoming%Yellowstone Regional Airport%USA
+SLAP%APB%Apolo%Apolo%Bolivia
+AYMH%HGU%Mount Hagen%Mount Hagen%Papua New Guinea
+OEKK%HBT%King Khaled Military City%Hafr al-Batin Domestic Airport%Saudi Arabia
+RJAA%NRT%Chiba%Narita Intl Airport%Japan
+BIHN%HFN%Hofn%Hornafjorour Airport%Iceland
+FMCN%YVA%Moroni%Iconi%Comoros
+HRYI%BTQ%Butare%Butare%Rwanda
+LEST%SCQ%Santiago de Compostela%Santiago Airport%Spain
+ENRM%RVK%Rorvik%Rorvik Airport%Norway
+SAWG%RGL%Rio Gallegos%Piloto Civil N. Fernandez Airport%Argentina
+FAUL%ULD%Ulundi%Prince M.Buthelezi%South Africa
+CYKZ%YKZ%Toronto, Ontario%Toronto - Buttonville Mun%Canada
+ZGSY%SYX%Sanya%Sanya Fenghuang Intl Airport%China - Peoples Republic
+DNMA%MIU%Maiduguri%Maiduguri%Nigeria
+EKKA%KRP%Karup%Karup Airport (Civil/Mil.)%Denmark
+CYRL%YRL%Red Lake, Ontario%Red Lake%Canada
+ZBHH%HET%Hohhot%Hohhot Baita Intl Airport%China - Peoples Republic
+EGKR%KRH%Redhill%Redhill Airport%United Kingdom
+RKPC%CJU%Cheju%Cheju Intl%South Korea
+ENST%SSJ%Sandnessjoen%Sandnessjoen Airport%Norway
+GLRB%ROB%Monrovia%Roberts Intl%Liberia
+YQLP%ULP%Quilpie%Quilpie Airport%Australia
+MDHE%HEX%Santo Domingo%Herrera Intl Airport%Dominican Republic
+MMQT%QRO%Queretaro%Ing. Fernando Espinoza Gutierrez Intl Airport%Mexico
+ENLK%LKN%Leknes%Leknes Airport%Norway
+TNCS%SAB%Saba%Juancho E. Yrausquin Airport%Netherlands Antilles
+SPBB%MBP%Moyobamba%Moyobamba%Peru
+RPMU%CDY%Mapun%Cagayan de Sulu Airport%Philippines
+UHHH%KHV%Khabarovsk%Novy Airport%Russia
+WBGK%MKM%Mukah%Mukah%Malaysia
+LTAI%AYT%Antalya%Antalya Airport%Turkey
+UWKD%KZN%Kazan%Kazan Airport%Russia
+LLBS%BEV%Beer Sheba%Teyman Airport%Israel
+MKJS%MBJ%Montego Bay%Sangster Intl%Jamaica
+SPSO%PIO%Pisco%Pisco%Peru
+CYXT%YXT%Terrace, British Columbia%Terrace%Canada
+FOON%MVB%Franceville%M'vengue%Gabon
+EEPU%EPU%Parnu%Parnu Airport%Estonia
+MHTE%TEA%Tela%Tela%Honduras
+HTTB%TBO%Tabora%Tabora%Tanzania
+SYCJ%GEO%Georgetown%Cheddi Jagan Intl%Guyana
+YLIS%LSY%Lismore%Lismore Airport%Australia
+GOOY%DKR%Dakar%Leopold Sedar Senghor%Senegal
+LFBX%PGX%Perigueux%Perigueux - Bassillac Airport%France
+GUMA%MCA%Macenta%Macenta%Guinea
+CYWA%YWA%Petawawa, Ontario%Petawawa%Canada
+YCAR%CVQ%Carnarvon%Carnarvon Airport%Australia
+CEV4%YRA%Rae Lakes, Northwest Territories%Rae Lakes%Canada
+FMSR%MXM%Morombe%Morombe%Madagascar
+KGCC%GCC%Gillette, Wyoming%Gillette-Campbell County Airport%USA
+EIDW%DUB%Dublin%Dublin Intl Airport%Ireland
+OYSH%SYE%Saadah%Saadah%Yemen
+ZSWX%WUX%Wuxi%Wuxi Airport%China - Peoples Republic
+LJMB%MBX%Maribor%Maribor Airport%Slovenia
+VIBN%VNS%Varanasi (Uttar Pradesh)%Lal Bahadur Shastri Intl Airport%India
+KPIE%PIE%St. Petersburg, Florida%St. Petersburg-Clearwater Intl Airport%USA
+YMRY%MYA%Moruya%Moruya Airport%Australia
+FMMN%ZVA%Miandrivazo%Miandrivazo%Madagascar
+ZSNJ%NKG%Nanjing%Nanjing Lukou Intl Airport%China - Peoples Republic
+DGLE%TML%Tamale%Tamale%Ghana
+FBFT%FRW%Francistown%Francistown%Botsuana
+FAEL%ELS%East London%East London%South Africa
+SYMD%MHA%Mahdia%Mahdia%Guyana
+KCKB%CKB%Clarksburg, West Virginia%Harrison/Marion Regional Airport%USA
+WBKD%LDU%Lahad Datu%Lahad Datu%Malaysia
+EGPM%SCS%Lerwick%Scatsta Airport%United Kingdom
+CYFH%YFH%Ft Hope, Ontario%Ft Hope%Canada
+UHMD%PVS%Provideniya%Provideniya Bay Airport%Russia
+MPTO%PTY%Panama City%Tocumen Intl%Panama
+GLMR%MLW%Monrovia%Spriggs Payne%Liberia
+KSLC%SLC%Salt Lake City, Utah%Salt Lake City Intl Airport%USA
+ZMUB%ULN%Ulaanbaatar%Buyant-Ukhaa%Mongolia
+EDXB%HEI%Busum%Heide-Busum%Germany
+SGEN%ENO%Encarnacion%Quiteria%Paraguay
+GUSI%GII%Siguir%Siguiri%Guinea
+SLRB%RBO%Robore%Robore%Bolivia
+VTUI%SNO%Sakon Nakhon%Sakon Nakhon Airport%Thailand
+BIVM%VEY%Vestmannaeyjar%Vestmannaeyjar Airport%Iceland
+LFST%SXB%Strasbourg%Strasbourg Airport%France
+CYDB%YDB%Burwash, Yukon Territory%Burwash%Canada
+VERK%RRK%Rourkela (Orissa)%Rourkela Airport%India
+YBTI%BRT%Bathurst Island%Bathurst Island Airport%Australia
+OIZC%ZBR%Chah Bahar%Konarak Airport%Iran
+FARB%RCB%Richards Bay%Richards Bay%South Africa
+ENVD%VDS%Vadso%Vadso Airport%Norway
+DIFK%FEK%Ferkessedougou%Ferkessedougou%Ivory Coast
+FMMH%VVB%Mahanoro%Mahanoro%Madagascar
+VABO%BDQ%Vadodara (Gujarat)%Vadodara Airport / Civil Airport Harni (Mil./Civil)%India
+SBMQ%MCP%Macapa%Macapa Intl Airport%Brazil
+GQNA%AEO%Aioun-El-Atrouss%Aioun-El-Atrouss%Mauritania
+VTPP%PHS%Phitsanulok%Phitsanulok Airport%Thailand
+CZSJ%ZSJ%Sandy Lake, Ontario%Sandy Lake%Canada
+SVBM%BRM%Barquisimeto%Barquisimeto%Venezuela
+RPUN%WNP%Naga / Pili%Naga Airport%Philippines
+KILM%ILM%Wilmington, North Carolina%Wilmington Intl Airport%USA
+MYLD%LGI%Deadman's Cay%Deadman's Cay Airport%Bahamas
+MUVR%VRA%Varadero%Juan Gualberto Gomez Intl Airport%Cuba
+CYBL%YBL%Campbell River, British Columbia%Campbell River%Canada
+SYKM%KAR%Kamarang%Kamarang%Guyana
+OPMT%MUX%Multan%Multan Intl Airport%Pakistan
+YPJT%JAD%Jandakot%Jandakot Airport%Australia
+SVVL%VLV%Valera%Dr. Antonio Nicolas Briceno%Venezuela
+VAKS%IXK%Keshod (Gujarat)%Keshod Junagadh Airport%India
+YBKE%BRK%Bourke%Bourke Airport%Australia
+FLKO%KMZ%Kaoma%Kaoma%Zambia
+KBUR%BUR%Burbank, California%Bob Hope Airport%USA
+TNCC%CUR%Curacao%Hato Intl Airport%Netherlands Antilles
+BGUM%UMD%Uummannaq%Uummannaq Airport%Greenland (Denmark)
+HCMO%CMO%Obbia%Obbia%Somalia
+SBJV%JOI%Joinville%Joinville-Lauro Carneiro de Loyola Airport%Brazil
+ZGKL%KWL%Guilin%Guilin Liangjiang Intl Airport%China - Peoples Republic
+LEBL%BCN%Barcelona%Barcelona Intl Airport (El Prat)%Spain
+LIBC%CRV%Crotone%Crotone Airport (S. Anna Airport)%Italy
+YMEN%MEB%Essendon North%Essendon Airport%Australia
+GMMS%SFI%Safi%Safi%Morocco
+KBPT%BPT%Beaumont, Texas%Southeast Texas Regional Airport%USA
+FQMA%MPM%Maputo%Maputo%Mozambique
+KEWB%EWB%New Bedford, Massachusetts%New Bedford Regional Airport%USA
+SKNV%NVA%Neiva%Benito Salas%Colombia
+CYRM%YRM%Rocky Mountain House, Alberta%Rocky Mountain House%Canada
+LROD%OMR%Oradea%Oradea Intl Airport%Romania
+LRSM%SUJ%Satu Mare%Satu Mare Intl Airport%Romania
+FTTJ%NDJ%N'Djamena%N'Djamena%Chad
+LTFH%SZF%Samsun%Samsun Carsamba Airport%Turkey
+YPAD%ADL%Adelaide%Adelaide Intl Airport%Australia
+MRCC%OTR%Coto 47%Coto 47 Airport%Costa Rica
+SCTL%TLX%Talca%Panguilemo%Chile
+FMNR%WMN%Maroantsetra%Maroantsetra%Madagascar
+OPMF%MFG%Muzaffarabad%Muzaffarabad Airport%Pakistan
+SCCI%PUQ%Punta Arenas%Carlos Ibanez Del Campo Intl%Chile
+MMZC%ZCL%Zacatecas%La Calera Airport%Mexico
+VNSK%SKH%Surkhet%Surkhet%Nepal
+KDAB%DAB%Daytona Beach, Florida%Daytona Beach Intl Airport%USA
+CYUB%YUB%Tuktoyaktuk, Northwest Territories%Tuktoyaktuk%Canada
+LGTS%SKG%Thessaloniki%Thessaloniki Intl Airport (Makedonia)%Greece
+OAFZ%FBD%Faizabad%Faizabad%Afghanistan
+HCMS%CMS%Scusciuban%Scusciuban%Somalia
+SVCN%CAJ%Canaima%Canaima%Venezuela
+VEGT%GAU%Guwahati (Assam)%Lokpriya Gopinath Bordoloi Intl Airport (Mil./Civil)%India
+GQNF%KFA%Kiffa%Kiffa%Mauritania
+DNIL%ILR%Ilorin%Ilorin%Nigeria
+LGAV%ATH%Athens (Athina)%Athens Intl Airport (Eleftherios Venizelos)%Greece
+VRMM%MLE%Male%Male Intl%Maldives
+CYZX%YZX%Greenwood, Nova Scotia%Greenwood%Canada
+VEJT%JRH%Jorhat (Assam)%Jorhat Airport (Mil./Civil)%India
+HSNL%UYL%Nyala%Nyala%Sudan
+CYQS%YQS%St Thomas, Ontario%St Thomas Mun%Canada
+YKMB%KRB%Karumba%Karumba Airport%Australia
+KRKD%RKD%Rockland, Maine%Knox County Regional Airport%USA
+KRHI%RHI%Rhinelander, Wisconsin%Rhinelander-Oneida County Airport%USA
+UAKK%KGF%Karaganda%Karaganda%Kazakhstan
+CYYH%YYH%Taloyoak, Northwest Territories%Taloyoak%Canada
+NFNA%SUV%Nausori%Nausori Intl%Fiji
+OPDI%DSK%Dera Ismail Khan%Dera Ismail Khan Airport%Pakistan
+EDXY%OHR%Wyk%Wyk%Germany
+SBPA%POA%Porto Alegre%Salgado Filho Intl Airport%Brazil
+SESA%SNC%Salinas%Gen Ulpiano Paez%Ecuador
+KGEG%GEG%Spokane, Washington%Spokane Intl Airport (Geiger Field)%USA
+EDDT%TXL%Berlin%Berlin Tegel (Otto Lilienthal)%Germany
+CYCE%YCE%Centralia, Ontario%Huron%Canada
+SPCL%PCL%Pucallpa%David Abenzur Rengifo%Peru
+SVTM%TMO%Tumeremo%Tumeremo%Venezuela
+YMCO%XMC%Mallacoota%Mallacoota Airport%Australia
+EGHH%BOH%Bournemouth%Bournemouth Airport%United Kingdom
+UKFF%SIP%Simferopol%Simferopol Airport%Ukraine
+SLCB%CBB%Cochabamba%Jorge Wilsterman%Bolivia
+FAHL%HLW%Hluhluwe%Hluhluwe%South Africa
+CZEE%KES%Kelsey, Manitoba%Kelsey%Canada
+PAFA%FAI%Fairbanks, Alaska%Fairbanks Intl Airport%USA
+CYBD%QBC%Bella Coola, British Columbia%Bella Coola%Canada
+LEBB%BIO%Bilbao, Biscay%Bilbao Airport%Spain
+SCAS%WPA%Puerto Aysen%Cabo Juan Roman%Chile
+LPHR%HOR%Faial Island (Horta)%Horta Airport%Portugal
+LEZL%SVQ%Sevilla%Seville Airport%Spain
+TFFR%PTP%Pointe-a-Pitre%Pointe-a-Pitre Intl Airport%Guadeloupe - French Antilles
+NZGS%GIS%Gisborne%Gisborne%New Zealand
+RJER%RIS%Hokkaido%Rishiri Airport%Japan
+KHGR%HGR%Hagerstown, Maryland%Hagerstown Regional Airport (Richard A. Henson Field)%USA
+EGAB%ENK%Enniskillen%Enniskillen/St Angelo Airport%United Kingdom
+ZMAH%AVK%Arvaikheer%Arvaikheer%Mongolia
+ESTA%AGH%Angelholm%Angelholm%Sweden
+CYGK%YGK%Kingston, Ontario%Kingston%Canada
+YPOD%PTJ%Portland%Portland Airport%Australia
+FAKM%KIM%Kimberley%Kimberley%South Africa
+KICT%ICT%Wichita, Kansas%Wichita Mid-Continent Airport%USA
+MHPL%PEU%Puerto Lempira%Puerto Lempira%Honduras
+LFLA%AUF%Auxerre%Auxerre - Branches Airport%France
+FCOM%MKJ%Makoua%Makoua%Congo, Republic of
+HTKI%KIY%Kilwa Masoko%Kilwa Masoko%Tanzania
+ESDF%RNB%Ronneby%Ronneby%Sweden
+HADD%DEM%Dembi Dollo%Dembi Dollo%Ethiopia
+LIMC%MXP%Milan%Malpensa Intl Airport%Italy
+KROA%ROA%Roanoke, Virginia%Roanoke Regional Airport (Woodrum Field)%USA
+CYPA%YPA%Prince Albert, Saskatchewan%Prince Albert%Canada
+GLGE%SNI%Greenville%Sinoe%Liberia
+VTUD%UTH%Udon Thani%Udon Thani Airport%Thailand
+DIGL%GGO%Guiglo%Guiglo%Ivory Coast
+KAEX%AEX%Alexandria, Louisiana%Alexandria Intl Airport%USA
+VABV%BHU%Bhavnagar (Gurajat)%Bhavnagar Airport%India
+UATG%GUW%Atyrau%Atyrau%Kazakhstan
+HEKG%UVL%El Kharga%El Kharga Airport%Egypt
+VGJR%JSR%Jessore%Jessore Airport%Bangladesh
+DFEE%DOR%Dori%Dori Ville%Burkina Faso
+VNLK%LUA%Lukla%Lukla%Nepal
+ZSNB%NGB%Ningbo%Ningbo Lishe Intl Airport%China - Peoples Republic
+FTTC%AEH%Abeche%Abeche%Chad
+DNAA%ABV%Abuja%Nnamdi Azikiwe%Nigeria
+HAMT%MTF%Mizan Teferi%Mizan Teferi%Ethiopia
+CYSE%YSE%Squamish, British Columbia%Squamish%Canada
+EPSY%SZY%Szczytno%Szczytno-Szymany Intl Airport%Poland
+SVSR%SFD%San Fernando De Apure%San Fernando De Apure%Venezuela
+CYKC%YKC%Collins Bay, Saskatchewan%Collins Bay%Canada
+DFOG%XGA%Amilcar Cabral De Gaoua%Amilcar Cabral De Gaoua%Burkina Faso
+KDAL%DAL%Dallas, Texas%Dallas Love Field%USA
+EGEP%PPW%Papa Westray%Papa Westray Airport%United Kingdom
+FBKR%KHW%Khwai River%Khwai River%Botsuana
+ESSB%BMA%Stockholm%Bromma%Sweden
+LFPN%TNF%Toussus-Le-Noble%Toussus - le Noble Airport%France
+YTRE%TRO%Taree%Taree Airport%Australia
+CZUM%ZUM%Churchill Falls, Newfoundland%Churchill Falls%Canada
+CYRV%YRV%Revelstoke, British Columbia%Revelstoke%Canada
+DTTF%GAF%Gafsa%Ksar%Tunesia
+VNBR%BJU%Bajura%Bajura%Nepal
+RPVJ%MBT%Masbate%Masbate Airport%Philippines
+SVAN%AAO%Anaco%Anaco%Venezuela
+RJOK%KCZ%Kochi%Kochi Airport%Japan
+MPBO%BOC%Bocas Del Toro%Bocas Del Toro Intl%Panama
+YLTV%LTB%Morwell%Latrobe Valley Airport%Australia
+CYCC%YCC%Cornwall, Ontario%Cornwall Regl%Canada
+KMCI%MCI%Kansas City, Missouri%Kansas City Intl Airport%USA
+KFLG%FLG%Flagstaff, Arizona%Flagstaff Pulliam Airport%USA
+CYYR%YYR%Goose Bay, Newfoundland%Goose%Canada
+MMLT%LTO%Loreto%Loreto Intl Airport%Mexico
+FAGG%GRJ%George%George%South Africa
+KLBE%LBE%Latrobe, Pennsylvania%Arnold Palmer Regional Airport%USA
+VAAU%IXU%Aurangabad (Maharashtra)%Aurangabad Airport%India
+NCRG%RAR%Rarotonga%Rarotonga Intl%Cook Islands
+VNJL%JUM%Jumla%Jumla%Nepal
+NZHN%HLZ%Hamilton%Hamilton Intl Airport%New Zealand
+UHMA%DYR%Anadyr%Ugolny Airport%Russia
+UKOO%ODS%Odessa%Odessa Airport%Ukraine
+DIMN%MJC%Man%Man%Ivory Coast
+HSSS%KRT%Khartoum%Khartoum%Sudan
+CYME%YME%Matane, Quebec%Matane%Canada
+SKCZ%CZU%Corozal%Las Brujas%Colombia
+WBGZ%BBN%Bario%Bario%Malaysia
+RPVD%DGT%Dumaguete%Sibulan Airport%Philippines
+YORB%RBS%Orbost%Orbost Airport%Australia
+OIBV%LVP%Lavan Island%Lavan Airport%Iran
+LFLV%VHY%Vichy%Vichy - Charmeil Airport%France
+ENKA%QKX%Kautokeino%Kautokeino Airport%Norway
+GCXO%TFN%La Laguna, Tenerife%Tenerife Los Rodeos Airport%Spain
+OIFM%IFN%Esfahan%Isfahan Intl Airport%Iran
+LGMK%JMK%Mykonos (Mikonos)%Mykonos Island National Airport%Greece
+CYTZ%YTZ%Toronto, Ontario%Toronto - City Centre%Canada
+CYSF%YSF%Stony Rapids, Saskatchewan%Stony Rapids%Canada
+GQNS%SEY%Selibabi%Selibabi%Mauritania
+VGBR%BZL%Barisal%Barisal Airport%Bangladesh
+LGSK%JSI%Skiathos%Skiathos Island National Airport%Greece
+SAAR%ROS%Rosario%Rosario Intl Airport%Argentina
+CYQZ%YQZ%Quesnel, British Columbia%Quesnel%Canada
+NGTU%BBG%Butaritari%Butaritari%Kiribati
+OIMM%MHD%Mashhad%Mashhad Intl Airport%Iran
+RKTU%CJJ%Chongju%Chongju Intl%South Korea
+VYMN%MGU%Manaung%Manaung%Myanmar (Burma)
+EICA%NNR%Inverin%Connemara Regional Airport%Ireland
+NZTH%TMZ%Thames%Thames%New Zealand
+CYTL%YTL%Big Trout Lake, Ontario%Big Trout Lake%Canada
+SKAR%AXM%Armenia%El Eden%Colombia
+VEKU%IXS%Silchar (Assam)%Silchar Airport (Mil./Civil)%India
+DABB%AAE%Annaba%Annaba - El Mellah Airport%Algeria
+YARM%ARM%Armidale%Armidale Airport%Australia
+TJVQ%VQS%Isla de Vieques%Vieques Airport%Puerto Rico
+FAKZ%KLZ%Kleinsee%Kleinsee%South Africa
+SKPI%PTX%Pitalito%Pitalito%Colombia
+ZPZT%ZAT%Zhaotong%Zhaotong Airport%China - Peoples Republic
+OEAB%AHB%Abha%Abha Regional Airport%Saudi Arabia
+KSMF%SMF%Sacramento, California%Sacramento Intl Airport%USA
+SCLL%VLR%Vallenar%Vallenar%Chile
+RKJK%KUV%Kunsan%Kunsan Ab%South Korea
+KPUW%PUW%Pullman, Washington%Pullman-Moscow Regional Airport%USA
+CYCW%YCW%Chilliwack, British Columbia%Chilliwack%Canada
+SBTE%THE%Teresina%Senador Petronio Portella Airport%Brazil
+VLLB%LPQ%Luang Prabang%Luang Prabang%Laos
+PTPN%PNI%Pohnpei I%Pohnpei Intl%Micronesia, Federated States of
+YCBR%CRB%Collarenebri%Collarenebri Airport%Australia
+GUXD%KNN%Kankan%Kankan%Guinea
+SCNT%PNT%Puerto Natales%Teniente Julio Gallardo%Chile
+VYME%MGZ%Myeik%Myeik%Myanmar (Burma)
+MDBH%BRX%Barahona%Maria Montez Intl Airport%Dominican Republic
+SCVM%KNA%Vina Del Mar%Vina Del Mar%Chile
+UKDE%OZH%Zaporizhzhia%Zaporizhzhia Intl Airport%Ukraine
+HKJK%NBO%Nairobi%Jomo Kenyatta%Kenya
+EGLC%LCY%London%London City Airport%United Kingdom
+HSWW%WUU%Wau%Wau%Sudan
+LFGJ%DLE%Dole%Dole - Tavaux Airport%France
+DIDK%DIM%Dimbokro%Dimbokro Ville%Ivory Coast
+FAPM%PZB%Pietermaritzburg%Pietermaritzburg%South Africa
+CYNL%YNL%Points North Landing, Saskatchewan%Points North Landing%Canada
+RORS%SHI%Okinawa%Shimojishima Airport%Japan
+FIMP%MRU%Mauritius%Mauritius Intl%Mauritius
+CYPC%YPC%Paulatuk, Northwest Territories%Paulatuk%Canada
+ZPPP%KMG%Kunming%Kunming Wujiaba Intl Airport%China - Peoples Republic
+VYKP%KYP%Kyaukpyu%Kyaukpyu%Myanmar (Burma)
+CYLW%YLW%Kelowna, British Columbia%Kelowna%Canada
+CYGH%YGH%Ft Good Hope, Northwest Territories%Ft Good Hope%Canada
+SUCA%CYR%Colonia%Colonia International%Uruguay
+PCIS%CIS%Canton I%Canton Afld%Kiribati
+YPIR%PPI%Port Pirie%Port Pirie Airport%Australia
+LPVR%VRL%Vila Real%Vila Real Airport%Portugal
+LRSV%SCV%Suceava%Suceava Airport%Romania
+LFMQ%CTT%Le Castellet%Le Castellet Airport%France
+FKKF%MMF%Mamfe%Mamfe%Cameroon
+EGHD%PLH%Plymouth%Plymouth City Airport%United Kingdom
+FAGC%GCJ%Grand Central%Grand Central%South Africa
+EGPR%BRR%Barra%Barra Airport%United Kingdom
+WPMN%MPT%Maliana%Maliana Airport%East Timor (Timor-Leste)
+FLLI%LVI%Livingstone%Livingstone%Zambia
+CYAZ%YAZ%Tofino, British Columbia%Tofino%Canada
+WIII%CGK%Cengkareng, Banten / Jakarta%Soekarno-Hatta Intl Airport%Indonesia
+CYZE%YZE%Gore Bay, Ontario%Gore Bay-Manitoulin%Canada
+CYMA%YMA%Mayo, Yukon Territory%Mayo%Canada
+CZTM%ZTM%Shamattawa, Manitoba%Shamattawa%Canada
+CYYY%YYY%Mont-Joli, Quebec%Mont-Joli%Canada
+RKTN%TAE%Taegu%Taegu Aero%South Korea
+DBBP%PKO%Parakou%Parakou%Benin
+RKSW%SWU%Suwon%Suwon%South Korea
+VIJR%JSA%Jaisalmer (Rajasthan)%Jaisalmer Airport (Mil./Civil)%India
+YGDH%GUH%Gunnedah%Gunnedah Airport%Australia
+LWSK%SKP%Skopje%Skopje Airport%Macedonia
+KOKC%OKC%Oklahoma City, Oklahoma%Will Rogers World Airport%USA
+FVMU%UTA%Mutare%Mutare%Zimbabwe
+YBBN%BNE%Brisbane%Brisbane Airport%Australia
+LFPG%CDG%Paris%Paris - Roissy Charles de Gaulle Airport%France
+LRCS%CSB%Caransebes - Resita%Caransebes Airport%Romania
+RJFF%FUK%Fukuoka%Fukuoka Airport%Japan
+FAQT%UTW%Queenstown%Queenstown%South Africa
+FZOK%KGN%Kasongo%Kasongo%Congo, Democratic Republic of the
+CYYZ%YYZ%Toronto, Ontario%Toronto - Pearson Intl%Canada
+GOSS%XLS%St Louis%St Louis%Senegal
+FZBA%INO%Inongo%Inongo%Congo, Democratic Republic of the
+LNMC%MCM%MONACO%Monaco Heliport%Monaco
+KPKB%PKB%Parkersburg, West Virginia%Mid-Ohio Valley Regional Airport%USA
+KVCT%VCT%Victoria, Texas%Victoria Regional Airport%USA
+VNMA%NGX%Manang%Manang%Nepal
+MUTD%TND%Trinidad%Alberto Delgado Airport%Cuba
+LDPL%PUY%Pula%Pula Airport%Croatia
+FOOE%MKB%Mekambo%Mekambo%Gabon
+RORA%AGJ%Okinawa%Aguni Airport%Japan
+EPKT%KTW%Pyrzowice%Katowice Intl Airport%Poland
+OIAM%MRX%Mahshahr%Mahshahr Airport%Iran
+SKVV%VVC%Villavicencio%Vanguardia%Colombia
+LICA%SUF%Lamezia Terme, Catanzaro%Lamezia Terme Intl Airport%Italy
+SUMO%MLZ%Melo%Cerro Largo Intl%Uruguay
+SKLT%LET%Leticia%Alfredo Vasquez Cobo%Colombia
+YWKB%WKB%Warracknabeal%Warracknabeal Airport%Australia
+CYXU%YXU%London, Ontario%London%Canada
+CZPB%ZPB%Sachigo Lake, Ontario%Sachigo Lake%Canada
+SKCU%CAQ%Caucasia%Caucasia%Colombia
+FACD%CDO%Cradock%Cradock%South Africa
+SBNF%NVT%Navegantes%Ministro Victor Konder Intl Airport%Brazil
+CYIB%YIB%Atikokan, Ontario%Atikokan Mun%Canada
+KMCN%MCN%Macon, Georgia%Middle Georgia Regional Airport%USA
+ENFG%VDB%Fagernes%Fagernes Airport%Norway
+USPP%PEE%Perm%Bolshoye Savino Airport%Russia
+NWWW%NOU%Noumea%Tontouta%New Caledonia (France)
+FASZ%SZK%Skukuza%Skukuza%South Africa
+VYPP%PPU%Hpapun%Hpapun%Myanmar (Burma)
+HTKA%TKQ%Kigoma%Kigoma%Tanzania
+GAYE%EYL%Yelimane%Yelimane%Mali
+UHWW%VVO%Vladivostok%Vladivostok Intl Airport%Russia
+SPHZ%ATA%Anta%Comandante German Arias Grazz*%Peru
+EGAC%BHD%Belfast%George Best Belfast City Airport%United Kingdom
+LFQG%NVS%Nevers%Nevers - Fourchambault Airport%France
+HELX%LXR%Luxor%Luxor Intl Airport%Egypt
+EGPI%ILY%Islay%Islay Airport%United Kingdom
+KRAP%RAP%Rapid City, South Dakota%Rapid City Regional Airport%USA
+YTNK%TCA%Tennant Creek%Tennant Creek Airport%Australia
+RPVU%TBH%Tablas%Tugdan Airport%Philippines
+FASB%SBU%Springbok%Springbok%South Africa
+FKKS%DSC%Dschang%Dschang%Cameroon
+YMBA%MRG%Mareeba%Mareeba Airport%Australia
+SCLN%ZLR%Linares%Linares%Chile
+RJSY%SYO%Yamagata%Shonai Airport%Japan
+TXKF%BDA%Hamilton%Hamilton Bermuda Intl%Bermuda
+CYVZ%YVZ%Deer Lake, Ontario%Deer Lake%Canada
+CYHD%YHD%Dryden, Ontario%Dryden Regl%Canada
+FMCH%HAH%Moroni%Prince Said Ibrahim%Comoros
+MHCA%CAA%Catacamas%Catacamas%Honduras
+EFKA%KAU%Kauhava%Kauhava Airport%Finland
+EGSS%STN%London%London Stansted Airport%United Kingdom
+MMCZ%CZM%Cozumel%Cozumel Intl Airport%Mexico
+OPBW%BHV%Bahawalpur%Bahawalpur Airport%Pakistan
+OKBK%KWI%Kuwait%Kuwait Intl%Kuwait
+UMII%VTB%Vitebsk%Vitebsk%Belarus
+HSGF%GSU%Gedaref%Gedaref%Sudan
+CZGR%ZGR%Little Grand Rapids, Manitoba%Little Grand Rapids%Canada
+VOSM%SXV%Salem (Tamil Nadu)%Salem Airport%India
+KFAR%FAR%Fargo, North Dakota%Hector Intl Airport%USA
+KPVD%PVD%Providence, Rhode Island%Theodore Francis Green State Airport%USA
+LIEO%OLB%Olbia%Olbia - Costa Smeralda Airport%Italy
+HKKL%ILU%Kilaguni%Kilaguni%Kenya
+OYSY%GXF%Sayun%Sayun%Yemen
+HLON%HUQ%Hon%Hon%Libya
+CYSC%YSC%Sherbrooke, Quebec%Sherbrooke%Canada
+HESN%ASW%Aswan%Aswan Intl Airport%Egypt
+SKSM%SMR%Santa Marta%Simon Bolivar%Colombia
+CYPX%YPX%Puvirnituq, Quebec%Puvirnituq%Canada
+LFBI%PIS%Poitiers%Poitiers-Biard Airport%France
+LFQQ%LIL%Lille%Lille-Lesquin Airport%France
+SBGL%GIG%Rio de Janeiro%Galeao - Antonio Carlos Jobim Intl Airport%Brazil
+EGEC%CAL%Campbeltown%Campbeltown Airport%United Kingdom
+KCMI%CMI%Champaign / Urbana, Illinois%University of Illinois - Willard Airport%USA
+LIPR%RMI%Rimini%Federico Fellini Intl Airport%Italy
+FAAB%ALJ%Alexander Bay%Alexander Bay%South Africa
+FCBS%SIB%Sibiti%Sibiti%Congo, Republic of
+LBPD%PDV%Plovdiv%Plovdiv Intl Airport%Bulgaria
+YMMB%MBW%Moorabbin%Moorabbin Airport%Australia
+CZBB%YDT%Boundary Bay, British Columbia%Boundary Bay%Canada
+SLOR%ORU%Oruro%Juan Mendoza%Bolivia
+LFLP%NCY%Annecy%Annecy - Haute Savoie Airport%France
+UNWW%NOZ%Novokuznetsk%Novokuznetsk Spichenkovo Airport%Russia
+FQBR%BEW%Beira%Beira%Mozambique
+CNZ3%XCM%Chatham, Ontario%Chatham%Canada
+YMOG%MMG%Mount Magnet%Mount Magnet Airport%Australia
+FOOH%OMB%Omboue%Omboue Hospital%Gabon
+VYKI%KHM%Kanti%Kanti%Myanmar (Burma)
+FZWT%KBN%Kabinda%Tunta%Congo, Democratic Republic of the
+KMFE%MFE%McAllen,, Texas%McAllen-Miller Intl Airport%USA
+KPHF%PHF%Newport News, Virginia%Newport News/Williamsburg Intl Airport%USA
+VTSR%UNN%Ranong%Ranong Airport%Thailand
+EFHV%HYV%Hyvinkaa%Hyvinkaa Airport%Finland
+HTZA%ZNZ%Zanzibar%Kisauni%Tanzania
+YRTI%RTS%Rottnest Island%Rottnest Island Airport%Australia
+SVMC%MAR%Maracaibo%La Chinita Intl%Venezuela
+KPAH%PAH%Paducah, Kentucky%Barkley Regional Airport%USA
+RPUK%CPP%Calapan%Calapan Airport%Philippines
+EEKA%KDL%Kardla%Kardla Airport%Estonia
+VVPQ%PQC%Phu Quoc%Duong Dong Airport%Vietnam
+FLKS%KAA%Kasama%Kasama%Zambia
+LIDR%RAN%Ravenna%Ravenna Airport%Italy
+ZBOW%BAV%Baotou%Baotou Airport%China - Peoples Republic
+YLST%LER%Leinster%Leinster Airport%Australia
+FTTM%MVO%Mongo%Mongo%Chad
+EGHE%ISC%St. Mary's%St. Mary's Airport%United Kingdom
+ENCN%KRS%Kristiansand%Kristiansand Airport%Norway
+LZSL%SLD%Sliac%Sliac Airport%Slovakia
+VIDN%DED%Dehradun (Uttrakhand)%Jolly Grant Airport%India
+CYZP%YZP%Sandspit, British Columbia%Sandspit%Canada
+UTST%TMJ%Termez%Termez%Uzbekistan
+HLMB%LMQ%Marsa Brega%Marsa Brega%Libya
+SBPS%BPS%Porto Seguro%Porto Seguro Airport%Brazil
+PHMK%MKK%Kaunakakai, Hawaii%Molokai Airport%USA
+FMCI%NWA%Moheli%Moheli%Comoros
+ENAT%ALF%Alta%Alta Airport%Norway
+EFJO%JOE%Joensuu%Joensuu Airport%Finland
+LOWL%LNZ%Hoersching%Linz%Austria
+NZNV%IVC%Invercargill%Invercargill%New Zealand
+GOTT%TUD%Tambacounda%Tambacounda%Senegal
+DAUH%HME%Hassi Messaoud%Hassi Messaoud - Oued Irara - Krim Belkacem Airport%Algeria
+PHLI%LIH%Lihue, Hawaii%Lihue Airport%USA
+FMNA%DIE%Antsiranana%Arrachart%Madagascar
+FVTL%GWE%Gweru%Thornhill%Zimbabwe
+MPJE%JQE%Jaque%Jaque%Panama
+YREN%RMK%Renmark%Renmark Airport%Australia
+CYXD%YXD%Edmonton, Alberta%Edmonton City Center%Canada
+FQNP%APL%Nampula%Nampula%Mozambique
+OEGT%URY%Gurayat%Gurayat Domestic Airport%Saudi Arabia
+UEEE%YKS%Yakutsk%Yakutsk Airport%Russia
+PTYA%YAP%Yap I%Yap Intl%Micronesia, Federated States of
+ZSYW%YIW%Yiwu%Yiwu Airport%China - Peoples Republic
+LKKV%KLV%Karlovy Vary%Karlovy Vary Intl Airport%Czech Republic
+RJCN%SHB%Hokkaido%Nakashibetsu Airport%Japan
+CYJQ%ZEL%Bella Bella, British Columbia%Bella Bella (Denny I)%Canada
+DTTR%EBM%El Borma%El Borma%Tunesia
+TUPW%VIJ%Virgin Gorda%Virgin Gorda%British Virgin Islands
+FNSA%VHC%Saurimo%Saurimo%Angola
+LFMN%NCE%Nice%Nice - Cote d'Azur Airport%France
+HADT%DBT%Debre Tabor%Debre Tabor%Ethiopia
+CYFT%YMN%Makkovik, Newfoundland%Makkovik%Canada
+RPMA%AAV%Surallah%Allah Valley Airport%Philippines
+OAFR%FAH%Farah%Farah%Afghanistan
+ENKR%KKN%Kirkenes%Kirkenes Airport%Norway
+VIJU%IXJ%Jammu (Jammu & Kashmir)%Jammu Airport%India
+SADF%FDO%San Fernando%San Fernando Airport%Argentina
+LTFD%EDO%Balikesir%Edremit Korfez Airport%Turkey
+GFHA%HGS%Hastings%Hastings%Sierra Leone
+ESMS%MMX%Malmo%Sturup%Sweden
+SVSO%STD%Santo Domingo%Mayor Buenaventura Vivas Intl%Venezuela
+TISX%STX%St Croix I%Henry E Rohlsen%US Virgin Islands
+HAML%MZX%Masslo%Masslo%Ethiopia
+FOOD%MFF%Moanda%Moanda%Gabon
+ESST%TYF%Torsby%Fryklanda%Sweden
+PANC%ANC%Anchorage, Alaska%Ted Stevens Anchorage Intl Airport%USA
+LTCI%VAN%Van%Van Ferit Melen Airport%Turkey
+CYJT%YJT%Stephenville, Newfoundland%Stephenville%Canada
+FAPE%PLZ%Port Elizabeth%Port Elizabeth%South Africa
+EGDQ%NQY%Newquay%Newquay Cornwall Intl Airport%United Kingdom
+LTAU%ASR%Kayseri%Kayseri Erkilet Intl Airport%Turkey
+OYSQ%SCT%Socotra%Moori%Yemen
+MMCB%CVJ%Cuernavaca%General Mariano Matamoros Airport%Mexico
+BINF%NOR%Norofjorour%Norofjorour Airport%Iceland
+WIIB%BDO%Bandung, West Java%Husein Sastranegara Airport%Indonesia
+CYEK%YEK%Arviat, Northwest Territories%Arviat%Canada
+GCHI%VDE%El Hierro%El Hierro Airport%Spain
+GMAD%AGA%Agadir%Al-Massira%Morocco
+EIKY%KIR%Farranfore%Kerry Airport%Ireland
+LRCV%CRA%Craiova%Craiova Airport%Romania
+LPPT%LIS%Portela, Loures%Portela Airport (Lisbon Airport)%Portugal
+EDDL%DUS%Dusseldorf%Flughafen Dusseldorf International%Germany
+EGNC%CAX%Carlisle%Carlisle Airport%United Kingdom
+FTTD%MQQ%Moundou%Moundou%Chad
+SEPV%PVO%Portoviejo%Reales Tamarindos%Ecuador
+VETJ%TEI%Tezu (Arunachal Pradesh)%Tezu Airport%India
+PAGA%GAL%Galena, Alaska%Edward G. Pitka Sr. Airport%USA
+RKNW%WJU%Wonju%Wonju%South Korea
+OLKA%KYE%Kleyate%Rene Mouawad AB%Lebanon
+MMSD%SJD%Los Cabos%Los Cabos Intl Airport%Mexico
+OAZJ%ZAJ%Zaranj%Zaranj%Afghanistan
+RPUQ%VGN%Vigan%Mindoro Airport%Philippines
+CYAW%YAW%Halifax, Nova Scotia%Halifax-Shearwater%Canada
+MUCL%CYO%Cayo Largo del Sur%Vilo Acuna Airport%Cuba
+CYEN%YEN%Estevan, Saskatchewan%Estevan%Canada
+ZLDH%DNH%Dunhuang%Dunhuang Airport%China - Peoples Republic
+GMFK%ERH%Er Rachidia%Moulay Ali Cherif%Morocco
+URKA%AAQ%Anapa%Vityazevo Airport%Russia
+EKSB%SGD%Soenderborg%Soenderborg Airport%Denmark
+WAML%PLW%Palu, Central Sulawesi%Mutiara Airport%Indonesia
+SVLF%LFR%La Fria%La Fria%Venezuela
+CZGF%ZGF%Grand Forks, British Columbia%Grand Forks%Canada
+ESSU%EKT%Eskilstuna%Eskilstuna%Sweden
+LIRP%PSA%Pisa%Galileo Galilei Airport (Pisa Intl Airport)%Italy
+VYMT%MGK%Mong Tong%Mong Tong%Myanmar (Burma)
+EGKK%LGW%London%London Gatwick Airport%United Kingdom
+FMNG%WPB%Port Berge%Port Berge%Madagascar
+FZCE%LUS%Lusanga%Lusanga%Congo, Democratic Republic of the
+FAKU%KMH%Kuruman%Johan Pienaar%South Africa
+EGNJ%HUY%Kingston upon Hull%Humberside Airport%United Kingdom
+ROKJ%UEO%Okinawa%Kumejima Airport%Japan
+FMMK%JVA%Ankavandra%Ankavandra%Madagascar
+MRDK%DRK%Drake Bay%Drake Bay Airport%Costa Rica
+CAT5%YMP%Port Mc Neill, British Columbia%Port Mc Neill%Canada
+FABL%BFN%Bloemfontein%Bloemfontein%South Africa
+MHRO%RTB%Roatan%Roatan Intl%Honduras
+ESNY%SOO%Soderhamn%Soderhamn%Sweden
+EBBR%BRU%Brussels%Brussels National Airport%Belgium
+YCWR%CWT%Cowra%Cowra Airport%Australia
+HKML%MYD%Malindi%Malindi%Kenya
+CYYQ%YYQ%Churchill, Manitoba%Churchill%Canada
+WIKN%TNJ%Tanjung Pinang, Riau Islands%Kijang Airport%Indonesia
+ENKL%GLL%Gol%Gol Airport%Norway
+RPVE%MPH%Boracay / Malay%Godofredo P. Ramos Airport (Caticlan Airport)%Philippines
+SBCR%CMG%Corumba%Corumb%Brazil
+NFTP%NTT%Niuatoputapu%Niuatoputapu%Tonga
+CYAQ%XKS%Kasabonika, Ontario%Kasabonika%Canada
+LFLJ%CVF%Courchevel%Courchevel Airport%France
+LFRI%EDM%La Roche sur Yon%La Roche sur Yon - Rene Couzinet Airport%France
+YBCK%BKQ%Blackall%Blackall Airport%Australia
+MRBA%BAI%Buenos Aires%Buenos Aires Airport%Costa Rica
+MYAN%SAQ%Andros%San Andros Airport%Bahamas
+SVPR%CGU%Ciudad Guayana%Manuel Carlos Piar%Venezuela
+NFFN%NAN%Nadi%Nadi Intl%Fiji
+SKCR%CUO%Caruru%Caruru%Colombia
+UUYH%UCT%Ukhta%Ukhta Airport%Russia
+EVRA%RIX%Riga%Riga Intl Airport%Latvia
+SVCU%CUM%Cumana%Antonio Jose De Sucre%Venezuela
+OEHL%HAS%Ha'il%Hail Regional Airport%Saudi Arabia
+ESNS%SFT%Skelleftea%Skelleftea%Sweden
+VABB%BOM%Mumbai (Maharashtra)%Chhatrapati Shivaji Intl Airport%India
+SKCG%CTG%Cartagena%Rafael Nunez%Colombia
+PKMA%ENT%Enewetak Atoll%Enewetak Aux Af%Marshall Islands
+KABQ%ABQ%Albuquerque, New Mexico%Albuquerque Intl Sunport%USA
+DAUE%ELG%El Golea%El Golea Airport%Algeria
+OPSS%SDT%Saidu Sharif%Saidu Sharif Airport%Pakistan
+HSKI%KST%Kosti%Kosti%Sudan
+LWOH%OHD%Ohrid%Ohrid%Macedonia
+YSGE%SGO%Saint George%Saint George Airport%Australia
+SAVV%VDM%Viedma%Gobernador Castello Airport%Argentina
+DAAE%BJA%Bejaia%Bejaia - Soummam-Abane Ramdane Airport%Algeria
+RPVC%CYP%Calbayog%Calbayog Airport%Philippines
+MUSC%SNU%Santa Clara%Abel Santa Maria Airport%Cuba
+VYDW%TVY%Dawei%Dawei%Myanmar (Burma)
+KPLN%PLN%Pellston, Michigan%Pellston Regional Airport of Emmet County%USA
+KLBB%LBB%Lubbock, Texas%Lubbock Preston Smith Intl Airport%USA
+FZOP%PUN%Punia%Punia%Congo, Democratic Republic of the
+OPKH%KDD%Khuzdar%Khuzdar Airport%Pakistan
+LELN%LEN%Leon%Leon Airport (Mil./Civil)%Spain
+ZBBB%NAY%Beijing%Beijing Nanyuan Airport%China - Peoples Republic
+BGGH%GOH%Nuuk (Godthab)%Nuuk Airport%Greenland (Denmark)
+LIPX%VRN%Verona%Verona Airport ( Valerio Catullo)%Italy
+SGAS%ASU%Asuncion%Asuncion Silvio Pettirossi Int%Paraguay
+CYHO%YHO%Hopedale, Newfoundland%Hopedale%Canada
+HKNK%NUU%Nakuru%Nakuru%Kenya
+VNBW%BWA%Bhairahawa%Bhairahawa%Nepal
+OIBQ%KHK%Khark Island%Khark Airport%Iran
+HASK%SKR%Shakiso%Shakiso%Ethiopia
+CYRJ%YRJ%Roberval, Quebec%Roberval%Canada
+SLSM%SNM%San Ignacio De Moxos%San Ignacio De Moxos%Bolivia
+VLSN%NEU%Sam Neua%Sam Neua%Laos
+EDXW%GWT%Westerland%Sylt%Germany
+LOWS%SZG%Salzburg%Salzburg%Austria
+SBSV%SSA%Salvador%Deputado Luis Eduardo Magalhaes Intl Airport%Brazil
+KJST%JST%Johnstown, Pennsylvania%John Murtha Johnstown-Cambria County Airport%USA
+SKRG%MDE%Rionegro%Jose Maria Cordova%Colombia
+KCVX%CVX%Charlevoix, Michigan%Charlevoix Municipal Airport%USA
+CYMX%YMX%Montreal, Quebec%Montreal Intl (Mirabel)%Canada
+FZQC%PWO%Pweto%Pweto%Congo, Democratic Republic of the
+DNEN%ENU%Enugu%Enugu%Nigeria
+CYCN%YCN%Cochrane, Ontario%Cochrane%Canada
+CYNM%YNM%Matagami, Quebec%Matagami%Canada
+OIZH%ZAH%Zahedan%Zahedan Intl Airport%Iran
+KMKG%MKG%Muskegon, Michigan%Muskegon County Airport%USA
+EKRN%RNN%Ronne%Ronne Bornholm Airport%Denmark
+LFKS%SOZ%Solenzara%Solenzara - Ventiseri Airport%France
+ZWAK%AKU%Aksu%Aksu Airport%China - Peoples Republic
+FCBM%MUY%Mouyondzi%Mouyondzi%Congo, Republic of
+EGJJ%JER%Jersey%Jersey Airport%United Kingdom
+URRR%ROV%Rostov-na-Donu%Rostov-na-Donu Airport%Russia
+HAWC%WAC%Wacca%Wacca%Ethiopia
+EKEB%EBJ%Esbjerg%Esbjerg Airport%Denmark
+LFPB%LBG%Paris%Paris - Le Bourget Airport%France
+FKKU%BFX%Bafoussam%Bafoussam%Cameroon
+YMRB%MOV%Moranbah%Moranbah Airport%Australia
+CYRB%YRB%Resolute Bay, Northwest Territories%Resolute Bay%Canada
+KASE%ASE%Aspen, Colorado%Aspen-Pitkin County Airport (Sardy Field)%USA
+OIAW%AWZ%Ahwaz%Ahwaz Airport%Iran
+MRUP%UPL%Upala%Upala Airport%Costa Rica
+NZAS%ASG%Ashburton%Ashburton%New Zealand
+SKCM%CIM%Cimitarra%Cimitarra%Colombia
+LEPA%PMI%Palma de Mallorca%Palma de Mallorca Airport (Son Sant Joan)%Spain
+FLLS%LUN%Lusaka%Lusaka Intl%Zambia
+MMCS%CJS%Ciudad Juarez%Abraham Gonzalez Intl Airport%Mexico
+CYWK%YWK%Wabush, Newfoundland%Wabush%Canada
+RPMO%OZC%Ozamis%Labo Airport%Philippines
+MDLI%SLI%Santo Domingo%La Isabela Intl Airport%Dominican Republic
+SBGO%GYN%Goiania%Santa Genoveva Airport%Brazil
+CZFN%ZFN%Ft Norman, Northwest Territories%Tulita%Canada
+KDAY%DAY%Dayton, Ohio%James M. Cox Dayton Intl Airport%USA
+ZYJL%JIL%Jilin%Jilin Airport%China - Peoples Republic
+NWWV%UVE%Ouvea%Ouloup%New Caledonia (France)
+FBJW%JWA%Jwaneng%Jwaneng%Botsuana
+CYQM%YQM%Moncton, New Brunswick%Moncton%Canada
+YMEK%MKR%Meekatharra%Meekatharra Airport%Australia
+FMMI%TNR%Antananarivo%Ivato%Madagascar
+VOCB%CJB%Coimbatore (Tamil Nadu)%Coimbatore Airport%India
+TFFS%LSS%Terre-de-Haut, Les Saintes%Les Saintes Airport%Guadeloupe - French Antilles
+NZMC%MON%Mount Cook%Mount Cook%New Zealand
+VERU%RUP%Rupsi (Assam)%Rupsi Airport%India
+SUTR%TYT%Treinta Y Tres%Treinta Y Tres%Uruguay
+CZWH%XLB%Lac Brochet, Manitoba%Lac Brochet%Canada
+LGST%JSH%Sitia, Crete%Sitia Public Airport%Greece
+LSZS%SMV%Samedan%Samedan Airport%Switzerland
+KCIC%CIC%Chico, California%Chico Municipal Airport%USA
+YCCY%CNJ%Cloncurry%Cloncurry Airport%Australia
+EDAC%AOC%Nobitz%Altenburg-Nobitz%Germany
+KBFI%BFI%Seattle, Washington%King County Intl Airport (Boeing Field)%USA
+FMNS%SVB%Sambava%Sambava South%Madagascar
+TJBQ%BQN%Aguadilla%Rafael Hernandez Airport%Puerto Rico
+HKMA%NDE%Mandera%Mandera%Kenya
+GQPZ%OUZ%Zoueratt%Tazadit%Mauritania
+SANC%CTC%Catamarca%Coronel Felipe Varela Airport%Argentina
+BGBW%UAK%Narssarssuaq%Narssarssuaq Airport%Greenland (Denmark)
+HLKF%AKF%Kufra%Kufra%Libya
+ZGHY%HNY%Hengyang%Hengyang Airport%China - Peoples Republic
+CYCL%YCL%Charlo, New Brunswick%Charlo%Canada
+HUMI%KCU%Masindi%Masindi%Uganda
+EFHF%HEM%Helsinki%Helsinki-Malmi Airport%Finland
+VEMZ%MZU%Muzzafarpur (Bihar)%Muzzafarpur Airport%India
+DGSI%KMS%Kumasi%Kumasi%Ghana
+PKWA%KWA%Kwajalein Atoll%Bucholz Aaf%Marshall Islands
+PAYA%YAK%Yakutat, Alaska%Yakutat Airport%USA
+LEMD%MAD%Madrid%Madrid Barajas Intl Airport%Spain
+MDLR%LRM%La Romana%La Romana Intl Airport%Dominican Republic
+VEBG%RGH%Balurghat (West Bengal)%Balurghat Airport%India
+MMLC%LZC%Lazaro Cardenas%Lazaro Cardenas Airport%Mexico
+LFJL%ETZ%Metz (Goin)%Metz-Nancy-Lorraine Airport%France
+MMZO%ZLO%Manzanillo%Playa de Oro Intl Airport%Mexico
+RPMD%DVO%Davao%Francisco Bangoy Intl Airport (Davao Intl Airport)%Philippines
+MDSD%SDQ%Punta Caucedo%Las Americas-JFPG Intl Airport%Dominican Republic
+CYYN%YYN%Swift Current, Saskatchewan%Swift Current%Canada
+KGFK%GFK%Grand Forks, North Dakota%Grand Forks Intl Airport%USA
+ENNM%OSY%Namsos%Namsos Airport%Norway
+RPLP%LGP%Legazpi%Legazpi Airport%Philippines
+YROM%RMA%Roma%Roma Airport%Australia
+SAVC%CRD%Comodoro Rivadavia%General Enrique Mosconi Airport%Argentina
+RJCH%HKD%Hokkaido%Hakodate Airport%Japan
+VNKT%KTM%Kathmandu%Tribhuvan Intl%Nepal
+KHDN%HDN%Hayden, Colorado%Yampa Valley Airport%USA
+OLBA%BEY%Beirut%Beirut Intl%Lebanon
+YKOW%KWM%Kowanyama%Kowanyama Airport%Australia
+SARP%PSS%Posadas%General Jose de San Martin Airport%Argentina
+SAWE%RGA%Rio Grande%Hermes Quijada Airport%Argentina
+SAMM%LGS%Malarg%Comodoro Ricardo Salomon Airport%Argentina
+ZSHC%HGH%Hangzhou%Hangzhou Xiaoshan Intl Airport%China - Peoples Republic
+RCTP%TPE%Taipei%Chiang Kai-shek Intl Airport%Taiwan, Republic of China
+KCLT%CLT%Charlotte, North Carolina%Charlotte/Douglas Intl Airport%USA
+SAZM%MDQ%Mar del Plata%Mar Del Plata Intl Airport%Argentina
+FEFI%IRO%Birao%Birao%Central Africa
+SVMT%MUN%Maturin%Maturin Intl%Venezuela
+ZSWF%WEF%Weifang%Weifang Airport%China - Peoples Republic
+ESSF%HLF%Hultsfred%Hultsfred%Sweden
+LGIO%IOA%Ioannina%Ioannina National Airport%Greece
+FNMA%MEG%Malange%Malange%Angola
+CYDA%YDA%Dawson, Yukon Territory%Dawson%Canada
+FMSM%MNJ%Mananjary%Mananjary%Madagascar
+YTMU%TUM%Tumut%Tumut Airport%Australia
+SLAG%MHW%Monteagudo%Monteagudo%Bolivia
+CYVC%YVC%La Ronge, Saskatchewan%La Ronge%Canada
+VGSG%TKR%Thakuragaon%Thakuragaon Airport%Bangladesh
+KFHR%FHR%Friday Harbor, Washington%Friday Harbor Airport%USA
+CYVT%YVT%Buffalo Narrows, Saskatchewan%Buffalo Narrows%Canada
+YSMI%SIO%Smithton%Smithton Airport%Australia
+KSRQ%SRQ%Sarasota / Bradenton, Florida%Sarasota-Bradenton Intl Airport%USA
+TTPP%POS%Port Of Spain%Piarco Intl%Trinidad & Tobago
+YBTR%BLT%Blackwater%Blackwater Airport%Australia
+SAMR%AFA%San Rafael%Suboficial Aytes Germano Airport%Argentina
+LGIR%HER%Heraklion (Iraklion), Crete%Heraklion Intl Airport (Nikos Kazantzakis)%Greece
+VNBL%BGL%Baglung%Baglung%Nepal
+RPMI%IGN%Iligan%Maria Cristina Airport%Philippines
+CYPM%YPM%Pikangikum, Ontario%Pikangikum%Canada
+FZUA%KGA%Kananga%Kananga%Congo, Democratic Republic of the
+SCBE%TOQ%Tocopilla%Barriles%Chile
+FNKU%SVP%Kuito%Bie%Angola
+LYVA%QWV%Valjevo%Valjevo Airport%Serbia
+LMML%MLA%Malta%Luqa - Malta Intl Airport%Malta
+MYEF%GGT%Great Exuma Island%Exuma Intl Airport%Bahamas
+KSTL%STL%St. Louis, Missouri%Lambert-St. Louis Intl Airport%USA
+FTTI%ATV%Ati%Ati%Chad
+KPSC%PSC%Pasco, Washington%Tri-Cities Airport%USA
+LTFC%ISE%Isparta%Suleyman Demirel Airport%Turkey
+SAOU%LUQ%San Luis%San Luis Airport%Argentina
+EGKB%BQH%London%London Biggin Hill Airport%United Kingdom
+UNKL%KJA%Krasnoyarsk%Krasnoyarsk Yemelyanovo Airport%Russia
+CYBE%YBE%Uranium City, Saskatchewan%Uranium City%Canada
+LDZA%ZAG%Zagreb%Zagreb Airport%Croatia
+FMEE%RUN%Saint-Denis%St Denis Gillot%Reunion
+WMKJ%JHB%Johor Bahru%Sultan Ismail%Malaysia
+DFEL%XKA%Kantchari%Kantchari%Burkina Faso
+VOML%IXE%Mangalore (Karnataka)%Mangalore Airport%India
+YCDU%CED%Ceduna%Ceduna Airport%Australia
+CYTR%YTR%Trenton, Ontario%Trenton%Canada
+FAKD%KXE%Klerksdorp%Klerksdorp%South Africa
+LGLM%LXS%Lemnos (Limnos)%Lemnos Intl Airport%Greece
+ESNV%VHM%Vilhelmina%Vilhelmina%Sweden
+DXXX%LFW%Lome%Tokoin%Togo
+VYLS%LSH%Lashio%Lashio%Myanmar (Burma)
+VNRT%RUM%Rumjatar%Rumjatar%Nepal
+HRYR%KGL%Kigali%Gregoire Kayibanda%Rwanda
+UHMP%PWE%Pevek%Pevek Airport%Russia
+FZAJ%BOA%Boma%Boma%Congo, Democratic Republic of the
+CYRQ%YRQ%Trois-Rivieres, Quebec%Trois-Rivieres%Canada
+CYMJ%YMJ%Moose Jaw, Saskatchewan%Moose Jaw%Canada
+LFRO%LAI%Lannion%Lannion - Cote de Granit Airport%France
+ESSW%VVK%Vastervik%Vastervik%Sweden
+HLLT%TIP%Tripoli%Tripoli International Airport%Libya
+YPLM%LEA%Exmouth%Learmonth Airport%Australia
+CYTJ%YTJ%Terrace Bay, Ontario%Terrace Bay%Canada
+KBWI%BWI%Baltimore, Maryland%Baltimore-Washington Intl Thurgood Marshall Airport%USA
+VEGY%GAY%Gaya (Bihar)%Gaya Airport%India
+ZHXF%XFN%Xiangfan%Xiangfan Airport%China - Peoples Republic
+SBPJ%PMW%Palmas%Palmas Airport%Brazil
+FWKA%KGJ%Karonga%Karonga%Malawi
+KMGM%MGM%Montgomery, Alabama%Montgomery Regional Airport (Dannelly Field)%USA
+MPCH%CHX%Changuinola%Cap. Manuel Nino Intl%Panama
+EGNR%CEG%Chester%Hawarden Airport%United Kingdom
+FZCB%IDF%Idiofa%Idiofa%Congo, Democratic Republic of the
+GOTK%KGG%Kedougou%Kedougou%Senegal
+SCAC%ZUD%Ancud%Pupelde%Chile
+CYAT%YAT%Attawapiskat, Ontario%Attawapiskat%Canada
+LFOU%CET%Cholet%Cholet Lepontreau Airport%France
+OPMA%XJM%Mangla%Mangla Airport%Pakistan
+SPPY%CHH%Chachapoyas%Chachapoyas%Peru
+SKSO%SOX%Sogamoso%Alberto Lieras Camargo%Colombia
+VVTS%SGN%Ho Chi Minh City%Tan Son Nhat Intl Airport%Vietnam
+YPAG%PUG%Port Augusta%Port Augusta Airport%Australia
+VIAL%IXD%Allahabad (Uttar Pradesh)%Allahabad Airport (Mil./Civil)%India
+YBHI%BHQ%Broken Hill%Broken Hill Airport%Australia
+HBBA%BJM%Bujumbura%Bujumbura Intl%Burundi
+KONT%ONT%Ontario, California%Ontario Intl Airport%USA
+VLTK%THK%Thakhek%Thakhek%Laos
+FZRF%FMI%Kalemie%Kalemie%Congo, Democratic Republic of the
+CYTH%YTH%Thompson, Manitoba%Thompson%Canada
+SKBU%BUN%Buenaventura%Buenaventura%Colombia
+PAEN%ENA%Kenai, Alaska%Kenai Municipal Airport%USA
+UBBG%KVD%Gyandzha%Gyandzha%Azerbaijan
+TVSV%SVD%St Vincent%E T Joshua%St. Vincent & Grenadines
+VAKJ%HJR%Khajuraho (Madhya Pradesh)%Khajuraho Airport%India
+FPST%TMS%Sao Tom%Sao Tom%Sao Tome and Principe
+LFOI%XAB%Abbeville%Abbeville - Buigny - Saint Maclou Airport%France
+FMMX%WTS%Tsiroanomandidy%Tsiroanomandidy%Madagascar
+BGSF%SFJ%Kangerlussuaq (Sondre Stromfjord)%Kangerlussuaq Airport%Greenland (Denmark)
+KAGS%AGS%Augusta, Georgia%Augusta Regional Airport at Bush Field%USA
+GUFA%FIG%Fria%Katourou%Guinea
+MRGP%GPL%Guapiles%Guapiles Airport%Costa Rica
+KEUG%EUG%Eugene, Oregon%Eugene Airport (Mahlon Sweet Field)%USA
+EGMH%MSE%Canterbury%Kent Intl Airport%United Kingdom
+KCAK%CAK%Akron, Ohio%Akron-Canton Regional Airport%USA
+FOGB%BGB%Booue%Booue%Gabon
+KIAH%IAH%Houston, Texas%George Bush Intercontinental Airport%USA
+EPRZ%RZE%Rzeszow%Rzeszow-Jasionka Airport%Poland
+NZRA%RAG%Raglan%Raglan%New Zealand
+YMOR%MRZ%Moree%Moree Airport%Australia
+LIPH%TSF%Treviso%Treviso Airport (Sant'Angelo Airport)%Italy
+EDWB%BRV%Bremerhaven%Bremerhaven%Germany
+ETNU%FNB%Trollenhagen%Neubrandenburg (Mil./Civ.)%Germany
+SVUM%URM%Uriman%Uriman%Venezuela
+LFLO%RNE%Roanne%Roanne - Renaison Airport%France
+KMHT%MHT%Manchester, New Hampshire%Manchester-Boston Regional Airport%USA
+VNDH%DHI%Dhangadhi%Dhangadhi%Nepal
+URKK%KRR%Krasnodar%Pashkovsky Airport%Russia
+KLNS%LNS%Lancaster, Pennsylvania%Lancaster Airport%USA
+CBM5%YTX%Telegraph Creek, British Columbia%Telegraph Creek%Canada
+HETR%ELT%El Tor%El Tor Airport%Egypt
+YBMK%MKY%Mackay%Mackay Airport%Australia
+FBOR%ORP%Orapa%Orapa%Botsuana
+CYLR%YLR%Leaf Rapids, Manitoba%Leaf Rapids%Canada
+ENFL%FRO%Floro%Floro Airport%Norway
+DITM%TOZ%Touba%Mahana%Ivory Coast
+LRTR%TSR%Timisoara%Timisoara (Traian Vuia) Intl Airport%Romania
+CYUL%YUL%Montreal, Quebec%Montreal Intl (Dorval)%Canada
+ZLIC%INC%Yinchuan%Yinchuan Helanshan Airport%China - Peoples Republic
+CYPZ%YPZ%Burns Lake, British Columbia%Burns Lake%Canada
+MYEH%ELH%North Eleuthera%North Eleuthera Airport%Bahamas
+FVBU%BUQ%Bulawayo%Bulawayo%Zimbabwe
+LTCF%KSY%Kars%Kars Airport%Turkey
+SLCO%CIJ%Cobija%Cobija%Bolivia
+ENSB%LYR%Longyearbyen%Svalbard Airport%Norway
+YMIA%MQL%Mildura%Mildura Airport%Australia
+KMHK%MHK%Manhattan, Kansas%Manhattan Regional Airport%USA
+MGQZ%AAZ%Quezaltenango%Quezaltenango Airport%Guatemala
+ESMK%KID%Kristianstad%Kristianstad%Sweden
+FQLC%VXC%Lichinga%Lichinga%Mozambique
+CYLQ%YLQ%La Tuque, Quebec%La Tuque%Canada
+YSWH%SWH%Swan Hill%Swan Hill Airport%Australia
+ZSTX%TXN%Huangshan%Huangshan Tunxi Intl Airport%China - Peoples Republic
+CYET%YET%Edson, Alberta%Edson%Canada
+EGEN%NRL%North Ronaldsay%North Ronaldsay Airport%United Kingdom
+FYOO%OKF%Okaukuejo%Okaukuejo%Namibia
+KRDD%RDD%Redding, California%Redding Municipal Airport%USA
+LFPT%POX%Pontoise%Pontoise - Cormeilles Airport%France
+ESNG%GEV%Gallivare%Gallivare%Sweden
+CYYT%YYT%St John's, Newfoundland%St John's Intl%Canada
+KBHM%BHM%Birmingham, Alabama%Birmingham Intl Airport%USA
+HTMB%MBI%Mbeya%Mbeya%Tanzania
+FCBL%LCO%Lague%Lague%Congo, Republic of
+VLPS%PKZ%Pakse%Pakse%Laos
+OPCL%CHB%Chilas%Chilas Airport%Pakistan
+OSLK%LTK%Latakia%Bassel Al-Assad Intl%Syria
+LELC%MJV%Murcia%Murcia-San Javier Airport%Spain
+CYHR%YHR%Chevery, Quebec%Chevery%Canada
+LFAT%LTQ%Le Touquet%Le Touquet - Cote d'Opale Airport%France
+AYMD%MAG%Madang%Madang%Papua New Guinea
+NZWR%WRE%Whangarei%Whangarei%New Zealand
+LFSZ%VTL%Vittel%Vittel - Champ de Courses Airport%France
+SVBI%BNS%Barinas%Barinas%Venezuela
+LFEY%IDY%Ile d'Yeu%d'Yeu - Grand Phare Airport%France
+EDWG%AGE%Wangerooge%Wangerooge%Germany
+VTPO%THS%Sukhothai%Sukhothai Airport%Thailand
+CYGL%YGL%La Grande Riviere, Quebec%La Grande Riviere%Canada
+SASA%SLA%Salta%El Aybal Airport%Argentina
+CYWY%YWY%Wrigley, Northwest Territories%Wrigley%Canada
+CYNE%YNE%Norway House, Manitoba%Norway House%Canada
+FCBD%DJM%Djambala%Djambala%Congo, Republic of
+HAAB%ADD%Addis Abeba%Addis Abeba Bole Intl Airport%Ethiopia
+EDNY%FDH%Friedrichshafen%Friedrichshafen%Germany
+MMTM%TAM%Tampico%General Francisco Javier Mina Intl Airport%Mexico
+NFNL%LBS%Labasa%Labasa%Fiji
+YFTZ%FIZ%Fitzroy Crossing%Fitzroy Crossing Airport%Australia
+SETH%TSC%Taisha%Taisha%Ecuador
+LFRC%CER%Cherbourg%Cherbourg - Maupertus Airport%France
+WIMM%MES%Medan, North Sumatra%Polonia Intl Airport%Indonesia
+SBPP%PMG%Ponta Pora%Ponta Pora Intl Airport%Brazil
+SBFI%IGU%Foz do Iguacu%Foz do Iguacu Intl Airport%Brazil
+YKER%KRA%Kerang%Kerang Airport%Australia
+RJSA%AOJ%Aomori%Aomori Airport%Japan
+DBBN%NAE%Natitingou%Natitingou%Benin
+SABE%AEP%Buenos Aires%Aeroparque Jorge Newbery%Argentina
+FZSK%KAP%Kapanga%Kapanga%Congo, Democratic Republic of the
+SUPU%PDU%Paysandu%Tydeo Larre Borges Intl%Uruguay
+UKCC%DOK%Donetsk%Donetsk Airport%Ukraine
+LZTT%TAT%Poprad%Tatry Airport%Slovakia
+SCFM%WPR%Porvenir%Capitan Fuentes Martinez%Chile
+TNCM%SXM%Sint Maarten%Princess Juliana Intl Airport%Netherlands Antilles
+VTUK%KKC%Khon Kaen%Khon Kaen Airport%Thailand
+VAKP%KLH%Kolhapur (Maharashtra)%Kolhapur Airport%India
+LGPZ%PVK%Preveza%Aktion National Airport%Greece
+FVCZ%BFO%Chiredzi%Buffalo Range%Zimbabwe
+SKCL%CLO%Cali%Alfonso Bonilla Aragon Intl%Colombia
+LFSF%MZM%Metz%Metz - Frescaty Airport,%France
+OMAL%AAN%Al Ain%Al Ain Intl%United Arab Emirates
+VANP%NAG%Nagpur (Maharashtra)%Dr. Babasaheb Ambedkar Intl Airport (Mil./Civil)%India
+FAGM%QRA%Johannesburg%Rand%South Africa
+GOSP%POD%Podor%Podor%Senegal
+OITT%TBZ%Tabriz%Tabriz Intl Airport%Iran
+MDSJ%SJM%San Juan de la Maguana%San Juan de la Maguana Airport%Dominican Republic
+OIZB%ACZ%Zabol%Zabol Airport%Iran
+UWWW%KUF%Samara%Kurumoch Airport%Russia
+LFOP%URO%Rouen%Rouen - Vallee de Seine Airport%France
+FMSF%WFI%Fianarantsoa%Fianarantsoa%Madagascar
+FOGE%KDN%Ndende%Ndende%Gabon
+LICD%LMP%Lampedusa%Lampedusa Airport%Italy
+YFLI%FLS%Flinders Island%Flinders Island Airport%Australia
+MMAA%ACA%Acapulco%General Juan N. Alvarez Intl Airport%Mexico
+HTMI%XMI%Masasi%Masasi%Tanzania
+SYIB%IMB%Imbaimadai%Imbaimadai%Guyana
+ESPC%OSD%Ostersund%Froson%Sweden
+PKMJ%MAJ%Majuro Atoll%Marshall Is Intl%Marshall Islands
+SKFL%FLA%Florencia%Gustavo Artunduaga P%Colombia
+GAMB%MZI%Mopti%Barbe%Mali
+MMTP%TAP%Tapachula%Tapachula Intl Airport%Mexico
+FEFF%BGF%Bangui%M'poko%Central Africa
+EDOP%SZW%Parchim%Schwerin - Parchim%Germany
+MRAN%FON%La Fortuna%La Fortuna Airport%Costa Rica
+PAKT%KTN%Ketchikan, Alaska%Ketchikan Intl Airport%USA
+HABE%BEI%Beica%Beica%Ethiopia
+MHTG%TGU%Tegucigalpa%Toncontin Intl%Honduras
+LEGE%GRO%Girona%Girona-Costa Brava Airport%Spain
+HSPN%PZU%Port Sudan%Port Sudan%Sudan
+ESUE%IDB%Idre%Idre%Sweden
+NZAP%TUO%Taupo%Taupo%New Zealand
+VTUD%UTP%Udon Thani%Udon Thani Intl Airport%Thailand
+LFBK%MCU%Montlucon-Gueret%Montlucon-Gueret Airport%France
+EGNS%IOM%Isle of Man%Isle of Man Airport%United Kingdom
+EGNV%MME%Tees Valley%Durham Tees Valley Airport%United Kingdom
+FQPB%POL%Pemba%Pemba%Mozambique
+PGRO%ROP%Rota%Rota Island%Northern Mariana Islands
+YNBR%NAA%Narrabri%Narrabri Airport%Australia
+SCJO%ZOS%Osorno%Canal Bajo/Carlos H Siebert%Chile
+LOWK%KLU%Klagenfurt%Klagenfurt%Austria
+CYSY%YSY%Sachs Harbour, Northwest Territories%Sachs Harbour%Canada
+KMKE%MKE%Milwaukee, Wisconsin%General Mitchell Intl Airport%USA
+MUCF%CFG%Cienfuegos%Jaime Gonzalez Airport%Cuba
+MUBY%BYM%Bayamo%Carlos Manuel de Cespedes Airport%Cuba
+DBBB%COO%Cotonou%Cadjehoun%Benin
+LIBG%TAR%Taranto%Grottaglie Airport%Italy
+LFRQ%UIP%Quimper%Quimper - Cornouaille Airport%France
+UAKD%DZN%Zhezkazgan%Zhezkazgan%Kazakhstan
+YNWN%ZNE%Newman%Newman Airport%Australia
+VIKO%KTU%Kota (Rajasthan)%Kota Airport%India
+DNAK%AKR%Akure%Akure%Nigeria
+EGAE%LDY%Derry%City of Derry Airport%United Kingdom
+EGPF%GLA%Glasgow%Glasgow Intl Airport%United Kingdom
+ENHD%HAU%Haugesund%Haugesund Airport%Norway
+CYGQ%YGQ%Geraldton, Ontario%Greenstone Regl%Canada
+VNDP%DOP%Dolpa%Dolpa%Nepal
+SLPS%PSZ%Puerto Suarez%Salvador Ogaya%Bolivia
+SKMP%MMP%Mompos%San Bernardo%Colombia
+CYNH%YNH%Hudson's Hope, British Columbia%Hudson's Hope%Canada
+MMCE%CME%Ciudad del Carmen%Ciudad del Carmen Intl Airport%Mexico
+VGCB%CXB%Cox's Bazar%Cox's Bazar Airport%Bangladesh
+SLMG%MGD%Magdalena%Magdalena%Bolivia
+NZPP%PPQ%Paraparaumu%Paraparaumu%New Zealand
+KAHN%AHN%Athens, Georgia%Athens-Ben Epps Airport%USA
+DNKN%KAN%Kano%Mallam Aminu Kano%Nigeria
+MYAM%MHH%Marsh Harbour (Abaco)%Marsh Harbour Airport%Bahamas
+KCIU%CIU%Sault Ste. Marie, Michigan%Chippewa County Intl Airport%USA
+MMPN%UPN%Uruapan%Lic. y Gen. Ignacio Lopez Rayon Airport%Mexico
+CYHY%YHY%Hay River, Northwest Territories%Hay River%Canada
+KDEN%DEN%Denver, Colorado%Denver Intl Airport%USA
+HEMM%MUH%Mersa Matruh%Mersa Matruh Airport%Egypt
+LFRV%VNE%Vannes%Vannes - Meucon Airport%France
+SEAM%ATF%Ambato%Chachoan%Ecuador
+MMOX%OAX%Oaxaca%Xoxocotlan Intl Airport%Mexico
+SKQU%MQU%Mariquita%Mariquita%Colombia
+YNTN%NTN%Normanton%Normanton Airport%Australia
+GQNN%NKC%Nouakchott%Nouakchott%Mauritania
+FMNT%TTS%Tsaratanana%Tsaratanana%Madagascar
+CYOO%YOO%Oshawa, Ontario%Oshawa%Canada
+CZGI%ZGI%Gods River, Manitoba%Gods River%Canada
+CYEU%YEU%Eureka, Northwest Territories%Eureka%Canada
+HTDO%DOD%Dodoma%Dodoma%Tanzania
+LEMH%MAH%Menorca%Menorca Airport%Spain
+RJCW%WKJ%Hokkaido%Wakkanai Airport%Japan
+KMOD%MOD%Modesto, California%Modesto City-County Airport (Harry Sham Field)%USA
+RPUM%MBO%Mamburao%Mamburao Airport%Philippines
+GECT%JCU%Ceuta%Ceuta Heliport%Spain
+CYSK%YSK%Sanikiluaq, Northwest Territories%Sanikiluaq%Canada
+RJKI%KKX%Kagoshima%Kikai Airport%Japan
+MTJA%JAK%Jacmel%Jacmel%Haiti
+LICJ%PMO%Palermo / Punta Raisi%Palermo Intl Airport%Italy
+SETI%TPN%Tiputini%Tiputini%Ecuador
+KDEC%DEC%Decatur, Illinois%Decatur Airport%USA
+RJEB%MBE%Hokkaido%Monbetsu Airport (Okhotsk-Monbetsu)%Japan
+FZQA%FBM%Lubumbashi%Lubumbashi Intl%Congo, Democratic Republic of the
+FVFA%VFA%Victoria Falls%Victoria Falls%Zimbabwe
+CYOD%YOD%Cold Lake, Alberta%Cold Lake%Canada
+EPWA%WAW%Warsaw%Warsaw Frederic Chopin Airport%Poland
+FOGM%MJL%Mouila%Mouila Ville%Gabon
+KLAX%LAX%Los Angeles, California%Los Angeles Intl Airport%USA
+MGMM%MCR%Melchor de Mencos%Melchor de Mencos Airport%Guatemala
+DNCA%CBQ%Calabar%Calabar%Nigeria
+SYLT%LTM%Lethem%Lethem%Guyana
+CYPE%YPE%Peace River, Alberta%Peace River%Canada
+SAVE%EQS%Esquel%Esquel Airport%Argentina
+OPZB%PZH%Zhob%Zhob Airport%Pakistan
+FMMR%TVA%Morafenobe%Morafenobe%Madagascar
+LTCA%EZS%Elazig%Elazig Airport%Turkey
+EDWE%EME%Emden%Emden%Germany
+FQQL%UEL%Quelimane%Quelimane%Mozambique
+LTBA%IST%Istanbul%Istanbul Ataturk Intl Airport%Turkey
+SUTB%TAW%Tacuarembo%Tacuarembo%Uruguay
+UTTT%TAS%Tashkent%Tashkent Yuzhny%Uzbekistan
+CBX7%TUX%Tumbler Ridge, British Columbia%Tumbler Ridge%Canada
+EFMA%MHQ%Mariehamn%Mariehamn Airport%Finland
+KBUF%BUF%Buffalo, New York%Buffalo Niagara Intl Airport%USA
+ROAH%OKA%Okinawa%Naha Airport%Japan
+SVPC%PBL%Puerto Cabello%Gen. Bartolome Salom%Venezuela
+CZTA%YDV%Bloodvein River, Manitoba%Bloodvein River%Canada
+LFPO%ORY%Paris%Paris - Orly Airport%France
+LIET%TTB%Tortoli%Tortoli - Arbatax Airport%Italy
+LRAR%ARW%Arad%Arad Intl Airport%Romania
+VOBG%BLR%Bangalore (Karnataka)%Bengaluru Intl Airport%India
+LFAC%CQF%Calais%Calais - Dunkerque Airport%France
+HCMA%ALU%Alula%Alula%Somalia
+MMAS%AGU%Aguascalientes%Lic. Jesus Teran Peredo Intl Airport%Mexico
+EVVA%VTS%Ventspils%Ventspils Intl Airport%Latvia
+ZSQZ%JJN%Quanzhou%Quanzhou Jinjiang Airport%China - Peoples Republic
+RJNW%NTQ%Ishikawa%Noto Airport%Japan
+CYOJ%YOJ%High Level, Alberta%High Level%Canada
+UOOO%NSK%Norilsk%Norilsk Airport%Russia
+NZMF%MFN%Milford Sound%Milford Sound%New Zealand
+MDSB%SNX%Sabana de la Mar%Sabana de la Mar Airport%Dominican Republic
+FMMC%WML%Malaimbandy%Malaimbandy%Madagascar
+LFRT%SBK%St Brieuc%Saint-Brieuc - Armor Airport%France
+EGPD%ABZ%Aberdeen%Aberdeen Airport%United Kingdom
+EGNX%EMA%East Midlands%Nottingham East Midlands Airport%United Kingdom
+KOMA%OMA%Omaha, Nebraska%Eppley Airfield%USA
+KPCW%PCW%Port Clinton, Ohio%Erie-Ottawa Regional Airport (Carl R. Keller Field)%USA
+MGCR%CMM%Carmelita%Carmelita Airport%Guatemala
+MMTJ%TIJ%Tijuana%General Abelardo L. Rodriguez Intl Airport%Mexico
+SYOR%ORJ%Orinduik%Orinduik%Guyana
+ZYAS%AOG%Anshan%Anshan Airport%China - Peoples Republic
+BGKA%QPW%Kangaatsiaq%Kangaatsiaq Airport%Greenland (Denmark)
+ZLGM%GOQ%Golmud%Golmud Airport%China - Peoples Republic
+GQND%TIY%Tidjikja%Tidjikja%Mauritania
+HABD%BJR%Bahir Dar%Bahir Dar%Ethiopia
+MGRB%RUV%Rubelsanto%Rubelsanto Airport%Guatemala
+KPIT%PIT%Pittsburgh, Pennsylvania%Pittsburgh Intl Airport%USA
+CCE4%YBI%Black Tickle, Newfoundland%Black Tickle%Canada
+UNBB%BAX%Barnaul%Barnaul Airport%Russia
+MRQP%XQP%Quepos%La Managua Airport%Costa Rica
+RJSF%FKS%Fukushima%Fukushima Airport%Japan
+ENHV%HVG%Honningsvag%Honningsvag Airport%Norway
+SVPM%SCI%San Cristobal%Paramillo%Venezuela
+PADU%DUT%Unalaska, Alaska%Unalaska Airport%USA
+CYHU%YHU%St-Hubert, Quebec%Montreal - St-Hubert%Canada
+FAUT%UTT%Umtata%K.D. Matanzima%South Africa
+LFSR%RHE%Reims%Reims - Champagne Airport%France
+NZRO%ROT%Rotorua%Rotorua%New Zealand
+LTCD%ERC%Erzincan%Erzincan Airport%Turkey
+RPMV%IPE%Ipil%Ipil Airport%Philippines
+KBIS%BIS%Bismarck, North Dakota%Bismarck Municipal Airport%USA
+OESK%AJF%al-Jouf%al-Jouf Domestic Airport%Saudi Arabia
+BGCO%CNP%Nerlerit Inaat%Constable Pynt Airport%Greenland (Denmark)
+VNBG%BJH%Bajhang%Bajhang%Nepal
+LYUZ%ZZE%Uzice%Uzice Airport%Serbia
+SLTR%TDD%Trinidad%Jorge Henrich Arauz%Bolivia
+LPSJ%SJZ%Sao Jorge Island%Sao Jorge Airport%Portugal
+ZYTL%DLC%Dalian%Dalian Zhoushuizi Intl Airport%China - Peoples Republic
+YBCV%CTL%Charleville%Charleville Airport%Australia
+FEFG%BGU%Bangassou%Bangassou%Central Africa
+DTKA%TBJ%Tabarka%Tabarka 7 Novembre%Tunesia
+LFBL%LIG%Limoges%Limoges Airport%France
+LPCO%CBP%Coimbra%Coimbra Airport%Portugal
+SCGE%LSQ%Los Angeles%Maria Dolores%Chile
+FMME%ATJ%Antsirabe%Antsirabe%Madagascar
+DNKA%KAD%Kaduna%New Kaduna%Nigeria
+FMMQ%ILK%Ilaka%Atsinanana%Madagascar
+SKPD%PDA%Puerto Inirida%Obando%Colombia
+RJTH%HAC%Tokyo%Hachijojima Airport%Japan
+PALH%LHD%Anchorage, Alaska%Lake Hood Seaplane Base%USA
+KBIL%BIL%Billings, Montana%Billings Logan Intl Airport%USA
+KHPN%HPN%White Plains, New York%Westchester County Airport%USA
+FBSW%SWX%Shakawe%Shakawe%Botsuana
+LTFJ%SAW%Istanbul%Istanbul Sabiha Gokcen Intl Airport%Turkey
+FLSW%SLI%Solwezi%Solwezi%Zambia
+LGPL%JTY%Astypalaia%Astypalaia Island National Airport%Greece
+GQPF%FGD%F'derik%F'derik%Mauritania
+UAFM%FRU%Bishkek%Manas%Kyrgyzstan
+YKSC%KGC%Kingscote, Kangaroo Island%Kingscote Airport%Australia
+KBQK%BQK%Brunswick, Georgia%Brunswick Golden Isles Airport%USA
+CYDF%YDF%Deer Lake, Newfoundland%Deer Lake%Canada
+CYBV%YBV%Berens River, Manitoba%Berens River%Canada
+MMDO%DGO%Durango%General Guadalupe Victoria Intl Airport%Mexico
+ZWHM%HMI%Hami%Hami Airport%China - Peoples Republic
+HAMA%MKS%Mekane Salam%Mekane Salam%Ethiopia
+SKSA%RVE%Saravena%Los Colonizadores%Colombia
+SKMF%MFS%Miraflores%Miraflores%Colombia
+LRBS%BBU%Bucharest - Baneasa%Bucharest (Aurel Vlaicu) Intl Airport%Romania
+KSBA%SBA%Santa Barbara, California%Santa Barbara Municipal Airport%USA
+SAOR%VME%Villa Reynolds%Villa Reynolds Airport%Argentina
+KORH%ORH%Worcester, Massachusetts%Worcester Regional Airport%USA
+EGPN%DND%Dundee%Dundee Airport%United Kingdom
+KSCK%SCK%Stockton, California%Stockton Metropolitan Airport%USA
+HCMI%BBO%Berbera%Berbera%Somalia
+KOAK%OAK%Oakland, California%Metropolitan Oakland Intl Airport%USA
+EDHL%LBC%Lubeck%Lubeck-Blankensee%Germany
+VIJO%JDH%Jodhpur (Rajasthan)%Jodhpur Airport (Mil./Civil)%India
+GOTS%SMY%Simenti%Simenti%Senegal
+VIDP%DEL%New Delhi (Delhi)%Indira Gandhi Intl Airport%India
+EIKN%NOC%Knock%Knock Intl Airport%Ireland
+PTKK%TKK%Weno I%Chuuk Intl%Micronesia, Federated States of
+TQPF%AXA%Anguilla%Anguilla Wallblake%Anguilla
+ZWKC%KCA%Kuqa%Kuqa Airport%China - Peoples Republic
+FXSM%SOK%Semonkong%Semonkong%Lesotho
+OMFJ%FJR%Fujairah%Fujairah Intl%United Arab Emirates
+LGKZ%KZI%Kozani%Kozani National Airport (Filippos)%Greece
+MRIA%PBP%Punta Islita%Punta Islita Airport%Costa Rica
+GANK%NRM%Nara%Keibane%Mali
+FATZ%LTA%Tzaneen%Tzaneen%South Africa
+WSSS%SIN%Changi%Singapore Changi Intl Airport%Singapore
+MRPM%PMZ%Palmar Sur%Palmar Sur Airport%Costa Rica
+ORSU%ISU%Sulaymaniyah%Sulaymaniyah Intl%Iraq
+CYZR%YZR%Sarnia, Ontario%Sarnia (Hadfield)%Canada
+UKLU%UDJ%Uzhhorod%Uzhhorod Airport%Ukraine
+HUJI%JIN%Jinja%Jinja%Uganda
+FKKN%NGE%N'gaoundere%N'gaoundere%Cameroon
+FBMN%MUB%Maun%Maun%Botsuana
+MUHG%HOG%Holguin%Frank Pais Airport%Cuba
+KABR%ABR%Aberdeen, South Dakota%Aberdeen Regional Airport%USA
+RPMC%CBO%Cotabato%Awang Airport%Philippines
+UGGG%TBS%Tbilisi%Tbilisi Intl Airport%Georgia
+KPSP%PSP%Palm Springs, California%Palm Springs Intl Airport%USA
+YWRN%QRR%Warren%Warren Airport%Australia
+SMPA%OEM%Paloemeu%Vincent Faiks%Suriname
+EDLP%PAD%Buren-Ahden%Paderborn-Lippstadt%Germany
+CYFR%YFR%Ft Resolution, Northwest Territories%Ft Resolution%Canada
+LATI%TIA%Tirane (Tirana)%Tirana Intl Airport Mother Teresa%Albania
+ENNA%LKL%Lakselv%Lakselv Airport%Norway
+HUGU%ULU%Gulu%Gulu%Uganda
+KRDG%RDG%Reading, Pennsylvania%Reading Regional Airport (Carl A. Spaatz Field)%USA
+KTEX%TEX%Telluride, Colorado%Telluride Regional Airport%USA
+FSSD%DEI%Denis Island%Denis Island%Seychelles
+DNBE%BNI%Benin%Benin%Nigeria
+FZWA%MJM%Mbuji-Mayi%Mbuji-Mayi%Congo, Democratic Republic of the
+EFHK%HEL%Helsinki - Vantaa%Helsinki-Vantaa Airport%Finland
+KCLM%CLM%Port Angeles, Washington%William R. Fairchild Intl Airport%USA
+CYKA%YKA%Kamloops, British Columbia%Kamloops%Canada
+FZRA%MNO%Manono%Manono%Congo, Democratic Republic of the
+HKMY%OYL%Moyale Lower%Oda%Kenya
+LFQT%HZB%Merville%Merville - Calonne Airport%France
+KLSE%LSE%La Crosse, Wisconsin%La Crosse Municipal Airport%USA
+ZYJZ%JNZ%Jinzhou%Jinzhou Airport%China - Peoples Republic
+LFNB%MEN%Mende%Mende-Brenoux Airport%France
+SBCY%CGB%Cuiaba%Marechal Rondon Airport%Brazil
+CYVP%YVP%Kuujjuaq, Quebec%Kuujjuaq%Canada
+TFFG%SFG%Saint-Martin%Grand Case Airport%Guadeloupe - French Antilles
+YMML%MEL%Tullamarine%Melbourne Intl Airport%Australia
+HKFG%FER%Kalokol%Ferguson's Gulf%Kenya
+ZUNC%NAO%Nanchong%Nanchong Airport%China - Peoples Republic
+CYUT%YUT%Repulse Bay, Northwest Territories%Repulse Bay%Canada
+SLTJ%TJA%Tarija%Capt Oriel Lea Plaza%Bolivia
+LFOH%LEH%Le Havre%Le Havre - Octeville Airport%France
+EGJB%GCI%Guernsey%Guernsey Airport%United Kingdom
+KLIT%LIT%Little Rock, Arkansas%Little Rock National Airport (Adams Field)%USA
+VNTR%TMI%Tumlingtar%Tumlingtar%Nepal
+RPVH%HIL%Hilongos%Hilongos Airport%Philippines
+DRZR%ZND%Zinder%Zinder%Niger
+SCSE%LSC%La Serena%La Florida%Chile
+LROP%OTP%Bucharest - Otopeni%Bucharest (Henri Coanda) Intl Airport%Romania
+OIKK%KER%Kerman%Kerman Airport%Iran
+CYGM%YGM%Gimli, Manitoba%Gimli Industrial Park%Canada
+KMLU%MLU%Monroe, Louisiana%Monroe Regional Airport%USA
+MYPI%PID%Paradise Island%New Providence Airport%Bahamas
+VABJ%BHJ%Bhuj (Gujarat)%Shyamji Krishna Verma, Bhuj Airport%India
+UUDD%DME%Moscow%Domodedovo Intl Airport%Russia
+CPV8%KEW%Keewaywin, Ontario%Keewaywin%Canada
+SAZB%BHI%Bahia Blanca%Comandante Espora Airport%Argentina
+EDQD%BYU%Bayreuth%Bayreuth%Germany
+EGBB%BHX%Birmingham%Birmingham Intl Airport%United Kingdom
+LFKF%FSC%Figari%Figari - Sud Corse Airport%France
+HUKS%KSE%Kasese%Kasese%Uganda
+KLAN%LAN%Lansing, Michigan%Capital City Airport%USA
+UNNT%OVB%Novosibirsk%Novosibirsk Tolmachevo Airport%Russia
+FNSO%SZA%Soyo%Soyo%Angola
+OPNH%WNS%Nawabshah%Nawabshah Airport%Pakistan
+FQVL%VNX%Vilankulu%Vilankulu%Mozambique
+FTTN%AMC%Am-Timan%Am-Timan%Chad
+OINR%RZR%Ramsar%Ramsar Airport%Iran
+MYNN%NAS%Nassau%Nassau Intl Airport%Bahamas
+SBSP%CGH%Sao Paulo%Congonhas Intl Airport%Brazil
+KIPT%IPT%Williamsport, Pennsylvania%Williamsport Regional Airport%USA
+HTNA%NCH%Nachingwea%Nachingwea%Tanzania
+LLET%ETH%Eilat%Eilat Airport (J. Hozman Airport)%Israel
+RKTH%KPO%Pohang%Pohang Aero%South Korea
+LFRS%NTE%Nantes%Nantes Atlantique Airport%France
+CYGZ%YGZ%Grise Fiord, Northwest Territories%Grise Fiord%Canada
+FWUU%ZZU%Mzuzu%Mzuzu%Malawi
+LPPR%OPO%Porto%Francisco Sa Carneiro Airport%Portugal
+LSZA%LUG%Lugano%Lugano Airport%Switzerland
+LFRZ%SNR%St Nazaire%Saint-Nazaire - Montoir Airport%France
+LTFG%GZP%Gazipasa%Gazipasa (Alanya) Airport%Turkey
+YABA%ALH%Albany%Albany Airport%Australia
+DATM%BMW%Bordj Mokhtar%Bordj Mokhtar Airport%Algeria
+DAUI%INZ%In Salah%In Salah Airport%Algeria
+CNM5%KIF%Kingfisher Lake, Ontario%Kingfisher Lake%Canada
+HEOW%GSQ%Shark El Oweinat%Shark El Oweinat Intl Airport%Egypt
+FMMV%MOQ%Morondava%Morondava%Madagascar
+KCSG%CSG%Columbus, Georgia%Columbus Metropolitan Airport%USA
+ZSSZ%SZV%Suzhou%Suzhou Guangfu Airport%China - Peoples Republic
+TLPL%UVF%St Lucia%Hewanorra Intl%Saint Lucia
+OAGZ%GRG%Gardez%Gardez%Afghanistan
+CYOW%YOW%Ottawa, Ontario%Ottawa - Macdonald-Cartier Intl%Canada
+DAAJ%DJG%Djanet%Djanet - Tiska Airport%Algeria
+KEYW%EYW%Key West, Florida%Key West Intl Airport%USA
+CYZV%YZV%Sept-Iles, Quebec%Sept-Iles%Canada
+ZBTJ%TSN%Tianjin%Tianjin Binhai Intl Airport%China - Peoples Republic
+KLEX%LEX%Lexington, Kentucky%Blue Grass Airport%USA
+HCMR%GLK%Galcaio%Galcaio%Somalia
+CYGB%YGB%Texada, British Columbia%Gillies Bay%Canada
+TJIG%SIG%San Juan%Isla Grande Airport%Puerto Rico
+HTMW%MWZ%Mwanza%Mwanza%Tanzania
+UERP%PYJ%Polyarny (Polyarnyj)%Polyarny Airport%Russia
+OAKB%KBL%Kabul%Kabul Intl%Afghanistan
+LFQM%QBQ%Besacon%Besancon - La Veze Airport%France
+EDTL%LHA%Lahr%Lahr (Black Forest Airport)%Germany
+VAAH%AMD%Ahmedabad (Gujarat)%Sardar Vallabhbhai Patel Intl Airport%India
+GOGG%ZIG%Ziguinchor%Ziguinchor%Senegal
+SLLP%LPB%La Paz%El Alto Intl%Bolivia
+VYMW%MWQ%Magway%Magway%Myanmar (Burma)
+FABE%BIY%Bisho%Bisho%South Africa
+YNGU%RPM%Roper River%Ngukurr Airport%Australia
+UAUU%KSN%Kostanay%Narimanovka%Kazakhstan
+CYML%YML%Charlevoix, Quebec%Charlevoix%Canada
+BISI%SIJ%Siglufjorour%Siglufjordur Airport%Iceland
+MUHA%HAV%Havana%Jose Marti Intl Airport%Cuba
+BGHB%JHS%Sisimiut (Holsteinsborg)%Holsteinsborg Airport%Greenland (Denmark)
+YDBY%DRB%Derby%Derby Airport%Australia
+LYBE%BEG%Belgrade%Belgrade Nikola Tesla Airport%Serbia
+YWHA%WYA%Whyalla%Whyalla Airport%Australia
+FADN%DUR%Durban%Durban Intl%South Africa
+HTDA%DAR%Dar-Es-Salaam%Dar-Es-Salaam Intl%Tanzania
+HTTG%TGT%Tanga%Tanga%Tanzania
+GFKB%KBA%Kabala%Kabala%Sierra Leone
+LICG%PNL%Pantelleria, Trapani%Pantelleria Airport%Italy
+HSGN%EGN%Geneina%Geneina%Sudan
+KSFB%SFB%Orlando, Florida%Orlando Sanford Intl Airport%USA
+RPUS%SFE%San Fernando%San Fernando Airport%Philippines
+RPMM%MLP%Malabang%Malabang Airport%Philippines
+RPUD%DTE%Daet%Daet Airport%Philippines
+DRRN%NIM%Niamey%Diori Hamani%Niger
+YGTE%GTE%Groote Eylandt%Groote Eylandt Airport%Australia
+KUIN%UIN%Quincy, Illinois%Quincy Regional Airport (Baldwin Field)%USA
+ESGJ%JKG%Jonkoping%Jonkoping%Sweden
+RJDT%TSJ%Nagasaki%Tsushima Airport%Japan
+EGMC%SEN%Southend-on-Sea%London Southend Airport%United Kingdom
+CYLB%YLB%Lac La Biche, Alberta%Lac La Biche%Canada
+ZSSS%SHA%Shanghai%Shanghai Hongqiao Airport%China - Peoples Republic
+OYMB%MYN%Marib%Marib%Yemen
+LTAJ%GZT%Gaziantep%Oguzeli Airport%Turkey
+SKVG%VGZ%Villagarzon%Villagarzon%Colombia
+HADM%DBM%Debre Marcos%Debre Marcos%Ethiopia
+YLRE%LRE%Longreach%Longreach Airport%Australia
+SPJJ%JAU%Jauja%Jauja%Peru
+GAGO%GAQ%Gao%Korogoussou%Mali
+OPGD%GWD%Gwadar%Gwadar Intl Airport%Pakistan
+MGPP%PON%Poptun%Poptun Airport%Guatemala
+CYVQ%YVQ%Norman Wells, Northwest Territories%Norman Wells%Canada
+KBLI%BLI%Bellingham, Washington%Bellingham Intl Airport%USA
+CYHI%YHI%Holman, Northwest Territories%Holman%Canada
+SPEO%CHM%Chimbote%Teniente Jaime A De Montreuil%Peru
+SVTC%TUV%Tucupita%Tucupita%Venezuela
+SKBG%BGA%Bucaramanga%Palonegro%Colombia
+SAZR%RSA%Santa Rosa%Santa Rosa Airport%Argentina
+FMNW%WAI%Antsohihy%Ambalabe%Madagascar
+SKEB%EBG%El Bagre%El Bagre%Colombia
+UELL%CNN%Chulman%Chulman Airport%Russia
+SVCP%CUP%Carupano%Gen Jose Francisco Bermudez%Venezuela
+LRIA%IAS%Iasi%Iasi Intl Airport%Romania
+KAVP%AVP%Wilkes-Barre, Pennsylvania%Wilkes-Barre/Scranton Intl Airport%USA
+VTBU%UTP%Pattaya / Rayong%U-Tapao Intl Airport%Thailand
+AYLA%LAE%Lae%Nadzab%Papua New Guinea
+NVSS%SON%Luganville%Santo-Pekoa%Vanuatu
+OITL%ADU%Ardabil%Ardabil Airport%Iran
+BIRG%RFN%Raufarhofn%Raufarhofn Airport%Iceland
+PADL%DLG%Dillingham, Alaska%Dillingham Airport%USA
+BGNN%JNN%Nanortalik%Nanortalik Airport%Greenland (Denmark)
+DTTX%SFA%Sfax%Thyna%Tunesia
+CZBF%ZBF%Bathurst, New Brunswick%Bathurst%Canada
+VVPC%UIH%Qui Nhon%Phu Cat Airport%Vietnam
+VEBI%SHL%Shillong (Meghalaya)%Shillong Airport%India
+HKWJ%WJR%Wajir%Waghala%Kenya
+MDCR%CBJ%Pedernales%Cabo Rojo Airport%Dominican Republic
+KRDM%RDM%Redmond, Oregon%Redmond Municipal Airport (Roberts Field)%USA
+ZSWZ%WNZ%Wenzhou%Wenzhou Intl Airport%China - Peoples Republic
+SUDU%DZO%Durazno%Santa Bernardina Intl%Uruguay
+KBZN%BZN%Bozeman, Montana%Gallatin Field Airport%USA
+TJFA%FAJ%Fajardo%Diego Jimenez Torres Airport%Puerto Rico
+YORG%OAG%Orange%Orange Airport%Australia
+RKSS%SEL%Seoul%Kimpo Intl%South Korea
+OPLA%LHE%Lahore%Allama Iqbal Intl Airport%Pakistan
+VYPK%PAU%Pauk%Pauk%Myanmar (Burma)
+FZUK%TSH%Tshikapa%Tshikapa%Congo, Democratic Republic of the
+FZUG%LZA%Luiza%Luiza%Congo, Democratic Republic of the
+YBTL%TSV%Townsville%Townsville Intl Airport%Australia
+KEWR%EWR%Newark, New Jersey%Newark Liberty Intl Airport%USA
+GBYD%BJL%Banjul%Banjul Intl Airport%Gambia
+FXLR%LRB%Leribe%Leribe%Lesotho
+YGEL%GET%Geraldton%Geraldton Airport%Australia
+OAMN%MMZ%Maimama%Maimama%Afghanistan
+KCAE%CAE%Columbia, South Carolina%Columbia Metropolitan Airport%USA
+VELR%IXI%North Lakhimpur (Assam)%Lilabari Airport%India
+RJKB%OKE%Kagoshima%Okinoerabu Airport%Japan
+FQMP%MZB%Mocimboa Da Praia%Mocimboa Da Praia%Mozambique
+EDXH%HGL%Helgoland%Helgoland-Dune%Germany
+ENVA%TRD%Stjordal%Trondheim Airport%Norway
+EHAM%AMS%Amsterdam%Amsterdam Schiphol Airport%Netherlands
+EDDP%LEJ%Leipzig%Leipzig-Halle%Germany
+MYLS%SML%Long Island%Stella Maris Airport%Bahamas
+VNDL%DAP%Darchula%Darchula%Nepal
+FEFS%BSN%Bossangoa%Bossangoa%Central Africa
+KAVL%AVL%Asheville, North Carolina%Asheville Regional Airport%USA
+VTCN%NNT%Nan%Nan Airport%Thailand
+SUAG%ATI%Artigas%Artigas Intl%Uruguay
+GANR%NIX%Nioro%Nioro%Mali
+UUOB%EGO%Belgorod%Belgorod Airport%Russia
+LELO%RJL%Logrono%Logrono-Agoncillo Airport%Spain
+FDMS%MTS%Manzani%Matsapha Airport%Swaziland
+CYBF%YBY%Bonnyville, Alberta%Bonnyville%Canada
+BGGN%JGO%Qeqertarsuaq (Godhavn)%Godhavn Airport%Greenland (Denmark)
+OAMS%MZR%Mazar-I-Sharif%Mazar-I-Sharif%Afghanistan
+GUOK%BKJ%Boke%Baralande%Guinea
+OPBN%BNP%Bannu%Bannu Airport%Pakistan
+KMDT%MDT%Harrisburg, Pennsylvania%Harrisburg Intl Airport%USA
+EGEH%WHS%Whalsay%Whalsay Airport%United Kingdom
+VOCP%CDP%Kadapa (Andhra Pradesh)%Cuddapah Airport%India
+YCEE%CVC%Cleve%Cleve Airport%Australia
+MYIG%IGA%Matthew Town%Inagua Airport (Matthew Town Airport)%Bahamas
+MZBZ%BZE%Belize%Philip S W Goldson Intl Airport%Belize
+HSMR%MWE%Merowe%Merowe%Sudan
+SEGS%GPS%Baltra (Galapagos)%Seymour Airport%Ecuador
+DBBK%KDC%Kandi%Kandi%Benin
+MGGT%GUA%Guatemala City%Guatemala La Aurora Intl Airport%Guatemala
+LFBO%TLS%Toulouse%Toulouse - Blagnac Airport%France
+LGKA%KSO%Kastoria%Kastoria National Airport (Aristotelis)%Greece
+GVSV%VXE%S. Pedro%S. Pedro%Cape Verde
+FCBK%KNJ%Kindamba%Kindamba%Congo, Republic of
+FNCA%CAB%Cabinda%Cabinda%Angola
+OIBL%BDH%Bandar Lengeh%Bandar Lengeh Airport%Iran
+SPJN%SJA%San Juan De Marcona%San Juan De Marcona%Peru
+VEIM%IMF%Imphal (Manipur)%Imphal Airport (Tulihal Airport)%India
+GEML%MLN%Melilla%Melilla Airport%Spain
+FNHU%NOV%Huambo%Albano Machado%Angola
+RJDC%UBJ%Yamaguchi%Yamaguchi Ube Airport%Japan
+LETO%TOJ%Madrid%Madrid Torrejon Airport%Spain
+YDPO%DPO%Devonport%Devonport Airport%Australia
+GAKY%KYS%Kayes%Kayes%Mali
+LFBT%LDE%Tarbes%Tarbes-Lourdes-Pyrenees Airport%France
+LHPR%QGY%Gyor-Per%Gyor-P%Hungary
+VYTD%SNW%Thandwe%Mazin%Myanmar (Burma)
+KSEA%SEA%Seattle-Tacoma, Washington%Seattle-Tacoma Intl Airport%USA
+CYHA%YQC%Quaqtaq, Quebec%Quaqtaq%Canada
+FMNC%WMR%Mananara%Avaratra%Madagascar
+ENRO%RRS%Roros%Roros Airport%Norway
+ZPSM%SYM%Simao%Simao Airport%China - Peoples Republic
+VO80%TCR%Thoothukudi (Tamil Nadu)%Tuticorin Airport%India
+FAPK%PRK%Prieska%Prieska%South Africa
+LGKR%CFU%Corfu (Kerkyra, Kerkira)%Corfu Intl Airport (Ioannis Kapodistrias)%Greece
+ZSJD%JDZ%Jingdezhen%Jingdezhen Airport%China - Peoples Republic
+CYHN%YHN%Hornepayne, Ontario%Hornepayne Mun%Canada
+ZHNY%NNY%Nanyang%Nanyang Airport%China - Peoples Republic
+EFLP%LPP%Lappeenranta%Lappeenranta Airport%Finland
+BGNS%JNS%Narsaq%Narssaq Airport%Greenland (Denmark)
+ZLXN%XNN%Xining%Xining Airport%China - Peoples Republic
+LFQF%XXG%Autun%Autun - Bellevue Airport%France
+VOPN%BEK%Puttaparthi (Andhra Pradesh)%Sri Sathya Sai Airport%India
+FZOA%KND%Kindu%Kindu%Congo, Democratic Republic of the
+VVBM%BMV%Buon Ma Thuot%Buon Ma Thuot Airport%Vietnam
+OESH%ESH%Sharorah%Sharorah Domestic Airport%Saudi Arabia
+OIMN%BJB%Bojnord%Bojnord Airport%Iran
+ESOW%VST%Vasteras%Hasslo%Sweden
+EINN%SNN%Shannon%Shannon Airport%Ireland
+FZWC%GDJ%Gandajika%Gandajika%Congo, Democratic Republic of the
+EETU%TAY%Tartu%Tartu Airport%Estonia
+YWDH%WNR%Windorah%Windorah Airport%Australia
+LEVD%VLL%Valladolid%Valladolid Airport%Spain
+WIKB%BTH%Batam, Riau Islands%Hang Nadim Airport%Indonesia
+RJAF%MMJ%Nagano%Matsumoto Airport%Japan
+EDLV%NRN%Weeze%Airport Weeze%Germany
+MYES%TYM%Staniel Cay%Staniel Cay Airport%Bahamas
+HCMV%BUO%Burao%Burao%Somalia
+GQNC%THI%Tichit%Tichit%Mauritania
+SCGZ%WPU%Puerto Williams%Guardiamarina Zanartu%Chile
+LHBP%BUD%Budapest%Budapest Ferihegy Intl Airport%Hungary
+GFBO%KBS%Bo%Bo%Sierra Leone
+HKLU%LAU%Lamu/Manda%Lamu/Manda%Kenya
+ZWYN%YIN%Yining%Yining Airport%China - Peoples Republic
+SLVM%VLM%Villamontes%Rafael Pabon%Bolivia
+GQNB%OTL%Boutilimit%Boutilimit%Mauritania
+EFOU%OUL%Oulunsalo%Oulu Airport%Finland
+YBLN%BQB%Busselton%Busselton Regional Airport%Australia
+SLCP%CEP%Concepcion%Concepcion%Bolivia
+LHDC%DEB%Debrecen%Debrecen Intl Airport%Hungary
+SUMU%MVD%Montevideo%Carrasco Intl/Gen C L Berisso%Uruguay
+SLSB%SRJ%San Borja%Capitan German Quiroga Guardi*%Bolivia
+SKCV%CVE%Covenas%Covenas%Colombia
+RJSS%SDJ%Miyagi%Sendai Airport%Japan
+LTCN%KCM%Kahramanmaras%Kahramanmaras Airport%Turkey
+FMNF%WBD%Befandriana%Avaratra%Madagascar
+YLHR%IRG%Lockhart River%Lockhart River Airport%Australia
+OYQN%IHN%Qishn%Qishn%Yemen
+VCCA%ADP%Anuradhapura%Anuradhapura%Sri Lanka
+SYAH%AHL%Aishalton%Aishalton%Guyana
+CAP3%YHS%Sechelt-Gibsons, British Columbia%Sechelt-Gibsons%Canada
+HKHO%HOA%Hola%Hola%Kenya
+LIMW%AOT%Aosta%Aosta Airport (Corrado Gex Airport)%Italy
+MULM%LCL%Pinar del Rio%La Coloma Airport%Cuba
+KLGA%LGA%New York, New York%LaGuardia Airport%USA
+CNE3%XBE%Bearskin Lake, Ontario%Bearskin Lake%Canada
+RPVS%EUQ%San Jose%Evelio Javier Airport (Antique Airport)%Philippines
+VYCZ%MDL%Mandalay%Chanmyathazi%Myanmar (Burma)
+CYOH%YOH%Oxford House, Manitoba%Oxford House%Canada
+DTTA%TUN%Tunis%Carthage%Tunesia
+MMMD%MID%Merida%Manuel Crescencio Rej%Mexico
+KMEI%MEI%Meridian, Mississippi%Meridian Regional Airport (Key Field)%USA
+KGNV%GNV%Gainesville, Florida%Gainesville Regional Airport%USA
+KSWF%SWF%Newburgh, New York%Stewart Intl Airport%USA
+LPBG%BGC%Braganca%Braganca Airport%Portugal
+VCBI%CMB%Colombo%Bandaranaike Intl%Sri Lanka
+EKVG%FAE%FAROE%Vagar Airprot%Faroe Islands (Denmark)
+SCSF%SSD%San Felipe%Victor Lafon%Chile
+GMMF%SII%Sidi Ifni%Sidi Ifni%Morocco
+NTTG%RGI%Tuamotu Island%Rangiroa Airport%French Polynesia
+FIMR%RRG%Rodrigues%Plaine Corail%Mauritius
+FLKY%ZKB%Kasaba Bay%Kasaba Bay%Zambia
+YMLT%LST%Launceston%Launceston Airport%Australia
+VAID%IDR%Indore (Madhya Pradesh)%Devi Ahilyabai Holkar Intl Airport%India
+FMMO%MXT%Maintirano%Maintirano%Madagascar
+TFFF%FDF%Ft De France%Le Lamentin%Martinique - French Antilles
+CYXY%YXY%Whitehorse, Yukon Territory%Whitehorse Intl%Canada
+LFRD%DNR%Dinard%Dinard - Pleurtuit-Saint Malo Airport%France
+YSTH%HLS%St Helens%St Helens Airport%Australia
+RJTT%HND%Tokyo%Tokyo Intl Airport (Haneda)%Japan
+FBTS%TBY%Tshabong%Tshabong%Botsuana
+LEVX%VGO%Vigo, Pontevedra%Vigo Airport%Spain
+YELD%ELC%Elcho Island%Elcho Island Airport%Australia
+KJAX%JAX%Jacksonville, Florida%Jacksonville Intl Airport%USA
+SARI%IGR%Puerto Iguazu%Cataratas del Iguazu Intl Airport%Argentina
+LPSI%SIE%Sines%Sines Airport%Portugal
+KMEM%MEM%Memphis, Tennessee%Memphis Intl Airport%USA
+FAGI%GIY%Giyani%Giyani%South Africa
+RPVR%RXS%Roxas City%Roxas Airport%Philippines
+HUEN%EBB%Entebbe%Entebbe Intl%Uganda
+FMSD%FTU%Tolagnaro%Tolagnaro%Madagascar
+GUKU%KSI%Kissidougoui%Kissi%Guinea
+LFSG%EPL%Epinal%Epinal - Mirecourt Airport%France
+KMLI%MLI%Moline, Illinois%Quad City Intl Airport%USA
+UKLL%LWO%Lviv%Lviv Airport%Ukraine
+LZKZ%KSC%Kosice%Kosice Airport%Slovakia
+OAHN%KWH%Khwahan%Khwahan%Afghanistan
+FSDR%DES%Desroches%Desroches%Seychelles
+FMSG%RVA%Farafangana%Farafangana%Madagascar
+WALL%BPN%Balikpapan, East Kalimantan%Sepinggan Intl Airport%Indonesia
+UEAA%ADH%Aldan%Aldan Airport%Russia
+SAWH%USH%Ushuaia%Ushuaia Intl Airport%Argentina
+EGET%LWK%Lerwick%Tingwall Airport%United Kingdom
+BGUP%JUV%Upernavik%Upernavik Airport%Greenland (Denmark)
+LRBM%BAY%Baia Mare%Baia Mare Airport%Romania
+CYKL%YKL%Schefferville, Quebec%Schefferville%Canada
+CYNC%YNC%Wemindji, Quebec%Wemindji%Canada
+RKND%SHO%Sokcho%Sokcho Aero%South Korea
+YKRY%KGY%Kingaroy%Kingaroy Airport%Australia
+DRRM%MFQ%Maradi%Maradi%Niger
+LYNI%INI%Nis%Nis Constantine the Great Intl Airport%Serbia
+LIPY%AOI%Ancona%Ancona Falconara Airport (Raffaello Sanzio Airport)%Italy
+HUSO%SRT%Soroti%Soroti%Uganda
+EGKA%ESH%Shoreham-by-Sea%Shoreham Airport%United Kingdom
+OPPG%PJG%Panjgur%Panjgur Airport%Pakistan
+MNPC%PUZ%Puerto Cabezas%Puerto Cabezas%Nicaragua
+MMMX%MEX%Mexico City%Mexico City Intl Airport%Mexico
+DAOO%ORN%Oran%Ouran - Es Senia Airport%Algeria
+FLNA%ZGM%Ngoma%Ngoma%Zambia
+FAPG%PBZ%Plettenberg Bay%Plettenberg Bay%South Africa
+HKKT%KTL%Kitale%Kitale%Kenya
+FTTH%LTC%Lai%Lai%Chad
+CEC4%YJA%Hinton, Alberta%Jasper-Hinton%Canada
+FMNE%AMB%Ambilobe%Ambilobe%Madagascar
+FAVG%VIR%Durban%Virginia%South Africa
+VVCM%CAH%Ca Mau%Ca Mau Airport%Vietnam
+NGFU%FUN%Funafuti%Funafuti Intl Airport%Tuvalu
+SPJA%RIJ%Rioja%Rioja%Peru
+FLLK%LXU%Lukulu%Lukulu%Zambia
+DGSN%NYI%Sunyani%Sunyani%Ghana
+ZGZH%LZH%Liuzhou%Liuzhou Airport%China - Peoples Republic
+ZHAY%AYN%Anyang%Anyang Airport%China - Peoples Republic
+CYXR%YXR%Earlton, Ontario%Earlton (Timiskaming Reg'l)%Canada
+RPMG%DPL%Dipolog%Dipolog Airport%Philippines
+LHSM%SOB%Sarmellek%S%Hungary
+ENBN%BNN%Bronnoysund%Bronnoysund Airport%Norway
+FZBO%FDU%Bandundu%Bandundu%Congo, Democratic Republic of the
+FMMT%TMM%Toamasina%Toamasina%Madagascar
+LLBG%TLV%Tel Aviv%Ben Gurion Intl Airport%Israel
+YNAR%NRA%Narrandera%Narrandera Airport%Australia
+CYZT%YZT%Port Hardy, British Columbia%Port Hardy%Canada
+EBCI%CRL%Charleroi%Brussels South Charleroi Airport%Belgium
+EGPC%WIC%Wick%Wick Airport%United Kingdom
+ZBDT%DAT%Datong%Datong Airport%China - Peoples Republic
+FZAM%MAT%Matadi-Tshimpi%Matadi-Tshimpi%Congo, Democratic Republic of the
+TVSU%UNI%Union I.%Union I. Intl%St. Vincent & Grenadines
+FAWB%PRY%Pretoria%Wonderboom%South Africa
+FOGG%MBC%Mbigou%Mbigou%Gabon
+GCTS%TFS%Granadilla de Abona, Tenerife%Tenerife Reina Sofia Airport%Spain
+VASL%SSE%Solapur (Maharashtra)%Sholapur Airport%India
+WMKM%MKZ%Malacca%Malacca%Malaysia
+YROI%RBC%Robinvale%Robinvale Airport%Australia
+MMBT%HUX%Huatulco%Bah%Mexico
+UMGG%GME%Gomel%Gomel%Belarus
+BGCH%JCH%Qasigiannguit (Christiansh%Christianshab Airport%Greenland (Denmark)
+VNSI%SIF%Simara%Simara%Nepal
+NTTR%RFP%Raiatea Island%Raiatea Airport%French Polynesia
+FMNV%VOH%Vohimarina%Vohimarina%Madagascar
+ENMS%MJF%Mosjoen%Mosjoen Airport%Norway
+GQNI%EMN%Nema%Nema%Mauritania
+FOOK%MKU%Makokou%Makokou%Gabon
+SBCZ%CZS%Cruzeiro do Sul%Cruzeiro do Sul Intl Airport%Brazil
+EKBI%BLL%Billund%Billund Airport%Denmark
+EDDN%NUE%Nurnberg (Nuremberg)%Nurnberg%Germany
+CYVR%YVR%Vancouver, British Columbia%Vancouver Intl%Canada
+HASO%ASO%Asosa%Asosa%Ethiopia
+CYAL%YAL%Alert Bay, British Columbia%Alert Bay%Canada
+TJAB%ABO%Arecibo%Antonio Juarbe Pol Airport%Puerto Rico
+SPIM%LIM%Lima-Callao%Jorge Chavez Intl%Peru
+LIBR%BDS%Brindisi%Casale Airport%Italy
+ROIG%ISG%Okinawa%Ishigaki Airport%Japan
+CJV7%SUR%Summer Beaver, Ontario%Summer Beaver%Canada
+SCCY%GXQ%Coyhaique%Teniente Vidal%Chile
+LGNX%JNX%Naxos%Naxos Island National Airport%Greece
+CYBK%YBK%Baker Lake, Northwest Territories%Baker Lake%Canada
+LFBG%CNG%Cognac%Cognac - Chateaubernard Airport%France
+YBMC%MCY%Maroochydore%Sunshine Coast Airport%Australia
+KFAY%FAY%Fayetteville, North Carolina%Fayetteville Regional Airport (Grannis Field)%USA
+KEKO%EKO%Elko, Nevada%Elko Regional Airport (J.C. Harris Field)%USA
+LTBJ%ADB%Izmir%Izmir Adnan Menderes Airport%Turkey
+PASI%SIT%Sitka, Alaska%Sitka Rocky Gutierrez Airport%USA
+CYDP%YDP%Nain, Newfoundland%Nain%Canada
+KCVG%CVG%Covington, Kentucky%Cincinnati/Northern Kentucky Intl Airport%USA
+OMDB%DXB%Dubai%Dubai Intl%United Arab Emirates
+NZLX%ALR%Alexandra%Alexandra%New Zealand
+FCOT%BTB%Betou%Betou%Congo, Republic of
+OEAH%HOF%al-Ahsa%al-Ahsa Domestic Airport%Saudi Arabia
+RJNA%NKM%Aichi%Nagoya Airport (Komaki)%Japan
+KPIR%PIR%Pierre, South Dakota%Pierre Regional Airport%USA
+VHHH%HKG%Hong Kong%Hong Kong Intl Airport - Chep Lap Kok%China - Peoples Republic
+EGBK%ORM%Northampton%Sywell Aerodrome%United Kingdom
+LTFE%BJV%Milas%Milas-Bodrum Airport%Turkey
+LZPP%PZY%Piestany%Piestany Airport%Slovakia
+RJFU%NGS%Nagasaki%Nagasaki Airport%Japan
+OPGT%GIL%Gilgit%Gilgit Airport%Pakistan
+SBJP%JPA%Joao Pessoa%Presidente Castro Pinto Intl Airport%Brazil
+SLJO%SJB%San Joaquin%San Joaquin%Bolivia
+MYAP%AXP%Spring Point (Acklins)%Spring Point Airport%Bahamas
+EFIL%SJY%Sein%Seinajoki Airport%Finland
+YWSL%SXE%Sale%West Sale Airport%Australia
+FWKG%KBQ%Kasungu%Kasungu%Malawi
+OABT%BST%Bost%Bost%Afghanistan
+SKGI%GIR%Girardot%Santiago Vila%Colombia
+BGAM%AGM%Ammassalik%Angmagssalik Airport%Greenland (Denmark)
+BIKR%SAK%Sauoarkrokur%Alexander Airport%Iceland
+CAJ4%YAA%Anahim Lake, British Columbia%Anahim Lake%Canada
+CYQY%YQY%Sydney, Nova Scotia%Sydney%Canada
+KDHN%DHN%Dothan, Alabama%Dothan Regional Airport%USA
+KORD%ORD%Chicago, Illinois%Chicago O'Hare Intl Airport%USA
+HSKA%KSL%Kassala%Kassala%Sudan
+VYHH%HEH%Heho%Heho%Myanmar (Burma)
+HFFF%JIB%Djibouti%Djibouti Ambouli%Djibouti
+SCDA%IQQ%Iquique%Diego Aracena Intl%Chile
+EGPE%INV%Inverness%Inverness Airport%United Kingdom
+ESNQ%KRN%Kiruna%Kiruna%Sweden
+ESSL%LPI%Linkoping%Saab%Sweden
+ESNN%SDL%Sundsvall%Sundsvall - Harnosand%Sweden
+SKGP%GPI%Guapi%Guapi%Colombia
+LUKK%KIV%Chisinau%Chisinau%Moldova
+YHAY%HXX%Hay%Hay Airport%Australia
+FMCV%AJN%Anjouan%Ouani%Comoros
+SLVG%VAH%Vallegrande%Vallegrande%Bolivia
+KABE%ABE%Allentown, Pennsylvania%Lehigh Valley Intl Airport%USA
+KMCO%MCO%Orlando, Florida%Orlando Intl Airport%USA
+YCOE%CUQ%Coen%Coen Airport%Australia
+VAPR%PBD%Porbandar (Gurajat)%Porbandar Airport%India
+LIPK%FRL%Forl%Forli Airport (L. Ridolfi Airport)%Italy
+ESSA%ARN%Stockholm%Arlanda%Sweden
+SKBS%BSC%Bahia Solano%Jose Celestino Mutis%Colombia
+HEBA%HBE%Alexandria%Borg El Arab Intl Airport%Egypt
+RKPE%CHF%Chinhae%R-813%South Korea
+DIOD%KEO%Odienne%Odienne%Ivory Coast
+SPOV%SYC%Leon Velarde%Shiringayoc O Hda Mejia%Peru
+FTTY%FYT%Faya Largeau%Faya Largeau%Chad
+ORER%EBL%Arbil (Erbil)%Erbil Intl%Iraq
+KSHR%SHR%Sheridan, Wyoming%Sheridan County Airport%USA
+SAVY%PMY%Puerto Madryn%El Tehuelche Airport%Argentina
+UWGG%GOJ%Nizhny Novgorod%Strigino Airport (Gorkij Airport)%Russia
+CYXJ%YXJ%Ft St John, British Columbia%Ft St John%Canada
+LGPA%PAS%Paros%Paros National Airport%Greece
+YSHT%SHT%Shepparton%Shepparton Airport%Australia
+SVST%SOM%San Tome%San Tome%Venezuela
+SESC%SUQ%Sucua%Sucua%Ecuador
+HTSY%SHY%Shinyanga%Shinyanga%Tanzania
+PAHO%HOM%Homer, Alaska%Homer Airport%USA
+ZSWY%WUS%Wuyishan, Nanping%Nanping Wuyishan Airport%China - Peoples Republic
+KSGF%SGF%Springfield, Missouri%Springfield-Branson Regional Airport%USA
+KLCH%LCH%Lake Charles, Louisiana%Lake Charles Regional Airport%USA
+LKPR%PRG%Prague%Prague Ruzyne Intl Airport%Czech Republic
+YAVV%AVV%Avalon%Avalon Airport%Australia
+SCRG%QRC%Rancagua%De La Independencia%Chile
+EDAH%HDF%Heringsdorf%Heringsdorf%Germany
+SESV%BHA%San Vicente%Los Perales%Ecuador
+CYQA%YQA%Muskoka Lakes, Ontario%Muskoka%Canada
+OERR%RAE%Arar%Arar Domestic Airport%Saudi Arabia
+DTTZ%TOE%Tozeur%Nefta%Tunesia
+FAMM%MBD%Mafikeng%Mafikeng Intl%South Africa
+YSDU%DBO%Dubbo%Dubbo Airport%Australia
+VTPM%MAQ%Mae Sot%Mae Sot Airport%Thailand
+MMMA%MAM%Matamoros%General Servando Canales Intl Airport%Mexico
+ENKB%KSU%Kristiansund%Kristiansund Airport%Norway
+FKKC%TKC%Tiko%Tiko%Cameroon
+KMVY%MVY%Vineyard Haven, Massachusetts%Martha's Vineyard Airport%USA
+LFBP%PUF%Pau%Pau - Pyrenees Airport%France
+KEFD%EFD%Houston, Texas%Ellington Field%USA
+CYGP%YGP%Gaspe, Quebec%Gaspe%Canada
+MRAO%TTQ%Tortuguero%Tortuguero Airport%Costa Rica
+RJDB%IKI%Nagasaki%Iki Airport%Japan
+ENSN%SKE%Skien%Skien Airport%Norway
+ESMT%HAD%Halmstad%Halmstad%Sweden
+HSDN%DOG%Dongola%Dongola%Sudan
+RJOB%OKJ%Okayama%Okayama Airport%Japan
+CYBC%YBC%Baie-Comeau, Quebec%Baie-Comeau%Canada
+VDSR%REP%Siem Reap Cambodia%Siem Reap%Cambodia
+VVRG%VKG%Rach Gia%Rach Gia Airport%Vietnam
+HUTO%TRY%Tororo%Tororo%Uganda
+HBBO%KRE%Kirundo%Kirundo%Burundi
+LTCH%SFQ%Sanliurfa%Sanliurfa Airport%Turkey
+YBHM%HTI%Hamilton Island%Hamilton Island Airport%Australia
+SCCF%CJC%Calama%El Loa%Chile
+EDWJ%JUI%Juist%Juist%Germany
+KBHB%BHB%Bar Harbor, Maine%Hancock County-Bar Harbor Airport%USA
+ZLAN%LHW%Lanzhou%Lanzhou Airport%China - Peoples Republic
+CYQQ%YQQ%Comox, British Columbia%Comox%Canada
+HKSB%UAS%Samburu South%Buffalo Spring%Kenya
+SKCC%CUC%Cucuta%Camilo Daza Intl%Colombia
+EFET%ENF%Enontekio%Enontekio Airport%Finland
+KIFP%IFP%Bullhead City, Arizona%Laughlin/Bullhead Intl Airport%USA
+EGHJ%BBP%Sandown%Bembridge Airport%United Kingdom
+KFLO%FLO%Florence, South Carolina%Florence Regional Airport%USA
+RJTQ%MYE%Tokyo%Miyakejima Airport%Japan
+LEJR%XRY%Jerez de la Frontera%Jerez Airport%Spain
+FAVB%VRU%Vryburg%Vryburg%South Africa
+CYJN%YJN%St-Jean, Quebec%St-Jean%Canada
+WPDL%DIL%Dili%Comoro (komoro) Airport%East Timor (Timor-Leste)
+CZNG%XPP%Poplar River, Manitoba%Poplar River%Canada
+YPGV%GOV%Nhulunbuy%Gove Airport%Australia
+LGKO%KGS%Kos%Kos Island Intl Airport (Ippokratis)%Greece
+YSNF%NLK%Norfolk Island%Norfolk Island Airport%Australia
+ZPJH%JHG%Jinghong%Jinghong Gasa Airport%China - Peoples Republic
+VNDG%DNP%Dang%Dang%Nepal
+SBSL%SLZ%Sao Luis%Marechal Cunha Machado Intl Airport%Brazil
+SCHA%CPO%Copiapo%Chamonate%Chile
+SBAR%AJU%Aracaju%Santa Maria Airport%Brazil
+HTMD%MWN%Mwadui%Mwadui%Tanzania
+LKPD%PED%Pardubice%Pardubice Airport%Czech Republic
+SKEJ%EJA%Barrancabermeja%Yariguies%Colombia
+CYHE%YHE%Hope, British Columbia%Hope%Canada
+RJFR%KKJ%Fukuoka%New Kitakyushu Airport%Japan
+GUFH%FAA%Faranah%Badala%Guinea
+ESKN%NYO%Stockholm%Skavsta%Sweden
+HKLO%LOK%Lodwar%Lodwar%Kenya
+HEDK%DAK%Dakhla%Dakhla Airport%Egypt
+ZLLL%ZGC%Lanzhou%Lanzhou Zhongchuan Airport%China - Peoples Republic
+LFLB%CMF%Chambery%Chambery-Savoie Airport%France
+LEAB%ABC%Albacete%Albacete Airport (Mil./Civil)%Spain
+LGKS%KSJ%Kasos (Kassos)%Kassos Island Public Airport%Greece
+CYNA%YNA%Natashquan, Quebec%Natashquan%Canada
+LBBG%BOJ%Burgas%Burgas Intl Airport (Sarafovo Airport)%Bulgaria
+EKCH%CPH%Copenhagen%Copenhagen Kastrup Intl Airport%Denmark
+EDBH%BBH%Barth%Ostseeflughafen Stralsund-Barth%Germany
+HEPS%PSD%Port Said%Port Said Airport%Egypt
+KGSP%GSP%Greer, South Carolina%Greenville-Spartanburg Intl Airport%USA
+FCOU%OUE%Ouesso%Ouesso%Congo, Republic of
+VILH%IXL%Leh (Jammu & Kashmir)%Kushok Bakula Rimpochee Airport%India
+HTAR%ARK%Arusha%Arusha%Tanzania
+EFKE%KEM%Kemi%Kemi-Tornio Airport%Finland
+MYBC%CCZ%Chub Cay%Chub Cay Intl Airport%Bahamas
+UUWW%VKO%Moscow%Vnukovo Airport%Russia
+OJAQ%AQJ%Aqaba%Aqaba Intl%Jordan
+FCMM%MSX%Mossendjo%Mossendjo%Congo, Republic of
+OMAD%AZI%Abu Dhabi%Bateen%United Arab Emirates
+LIRA%CIA%Rome%Ciampino Airport (Giovan Battista Pastine)%Italy
+MYCB%CAT%New Bight%New Bight Airport%Bahamas
+OIBK%KIH%Kish Island%Kish Airport%Iran
+FTTS%OUT%Bousso%Bousso%Chad
+MMTC%TRC%Torreon%Torreon Intl Airport%Mexico
+KBOI%BOI%Boise, Idaho%Boise Air Terminal (Gowen Field)%USA
+ZLQY%IQN%Qingyang%Qingyang Airport%China - Peoples Republic
+VIAG%AGR%Agra (Uttar Pradesh)%Agra Airport (Mil./Civil)%India
+TLPC%SLU%Castries%George F.L. Charles%Saint Lucia
+ENSG%SOG%Sogndal%Sogndal Airport%Norway
+FMNH%ANM%Antalaha%Antsirabato%Madagascar
+LFMV%AVN%Avignon%Avignon Airport%France
+VNBP%BHR%Bharatpur%Bharatpur%Nepal
+NTTB%BOB%Bora Bora%Bora Bora Airport%French Polynesia
+CYJF%YJF%Ft Liard, Northwest Territories%Ft Liard%Canada
+WMSA%SZB%Kuala Lumpur%Sultan Abdul Aziz Shah-Subang%Malaysia
+CYXQ%YXQ%Beaver Creek, Yukon Territory%Beaver Creek%Canada
+KPIA%PIA%Peoria, Illinois%Greater Peoria Regional Airport%USA
+KCRQ%CRQ%Carlsbad, California%McClellan-Palomar Airport%USA
+MYAB%MAY%Andros%Clarence Bain Airport%Bahamas
+OOTH%TTH%Thumrait%Thumrait AB%Oman
+SCAR%ARI%Arica%Chacalluta Intl%Chile
+PAVD%VDZ%Valdez, Alaska%Valdez Airport (Pioneer Field)%USA
+MGPB%PBR%Puerto Barrios%Puerto Barrios Airport%Guatemala
+UWUU%UFA%Ufa%Ufa Airport%Russia
+SKUI%UIB%Quibdo%El Carano%Colombia
+LTAY%DNZ%Denizli%Denizli Cardak Airport%Turkey
+FSSF%FRK%Fregate Island%Fregate%Seychelles
+EGHC%LEQ%St Just in Penwith%Land's End Airport%United Kingdom
+SANU%UAQ%San Juan%San Juan Airport%Argentina
+GMMN%CMN%Casablanca%Mohamed V%Morocco
+BIIS%IFJ%Isafj%Isafjorour Airport%Iceland
+SVGI%GUI%Guiria%Guiria%Venezuela
+CYHT%YHT%Haines Junction, Yukon Territory%Haines Junction%Canada
+CYQL%YQL%Lethbridge, Alberta%Lethbridge%Canada
+VVCS%VCS%Con Dao%Co Ong Airport%Vietnam
+MMLP%LAP%La Paz%Manuel Marquez de Leon Intl Airport%Mexico
+FTTK%BKR%Bokoro%Bokoro%Chad
+KTVC%TVC%Traverse City, Michigan%Cherry Capital Airport%USA
+VTUQ%NAK%Nakhon Ratchasima (Khorat)%Nakhon Ratchasima Airport%Thailand
+KYKM%YKM%Yakima, Washington%Yakima Air Terminal (McAllister Field)%USA
+KIPL%IPL%Imperial, California%Imperial County Airport%USA
+VTSN%NST%Nakhon Si Thammarat%Cha Ian Airport%Thailand
+VEVZ%VTZ%Visakhapatnam (Andhra Pradesh)%Visakhapatnam Airport%India
+DATG%INF%In Guezzam%In Guezzam Airport%Algeria
+LFCY%RYN%Royan%Royan - Medis Airport%France
+LYPG%TGD%Podgorica%Podgorica-Golubovci%Montenegro
+LFCK%DCM%Castres-Mazamet%Castres-Mazamet Airport%France
+OINZ%SRY%Sari%Dasht-E-Naz Airport%Iran
+KCRW%CRW%Charleston, West Virginia%Yeager Airport%USA
+SCHR%LGR%Cochrane%Cochrane%Chile
+VNJS%JMO%Jomsom%Jomsom%Nepal
+UIBB%BTK%Bratsk%Bratsk Airport%Russia
+FALY%LAY%Ladysmith%Ladysmith%South Africa
+LIRS%GRS%Grosseto%Grosseto Airport%Italy
+CYQD%YQD%The Pas, Manitoba%The Pas%Canada
+SLRI%RIB%Riberalta%Cap De Av Selin Zeitun Lopez%Bolivia
+CZMD%MSA%Muskrat Dam, Ontario%Muskrat Dam%Canada
+VTCH%HGN%Mae Hong Son%Mae Hong Son Airport%Thailand
+PAOT%OTZ%Kotzebue, Alaska%Ralph Wien Memorial Airport%USA
+VNPK%PKR%Pokhara%Pokhara%Nepal
+ENSR%SOJ%Sorkjosen, Nordreisa%Sorkjosen Airport%Norway
+FOOL%LBV%Libreville%Leon M'ba%Gabon
+CYVK%YVE%Vernon, British Columbia%Vernon%Canada
+KEVV%EVV%Evansville , Indiana%Evansville Regional Airport%USA
+VTCC%CNX%Chiang Mai%Chiang Mai Intl Airport%Thailand
+ZWKL%KRL%Korla%Korla Airport%China - Peoples Republic
+WMKC%KBR%Kota Bharu%Sultan Ismail Petra%Malaysia
+CYYM%YYM%Cowley, Alberta%Cowley%Canada
+CYPH%YPH%Inukjuak, Quebec%Inukjuak%Canada
+CYZU%YZU%Whitecourt, Alberta%Whitecourt%Canada
+HKNW%WIL%Nairobi%Wilson%Kenya
+MUKW%VRO%Kawama%Kawama Airport%Cuba
+LPPM%PRM%Portimao%Portimao Airport%Portugal
+MMGM%GYM%Guaymas%General Jose Maria Yanez Intl Airport%Mexico
+NZGM%GMN%Greymouth%Greymouth%New Zealand
+VYSW%AKY%Sittwe%Sittwe%Myanmar (Burma)
+SKHC%HTZ%Hato Corozal%Hato Corozal%Colombia
+VNST%IMK%Simikot%Simikot%Nepal
+VASU%STV%Surat (Gurajat)%Surat Airport%India
+YWOL%WOL%Wollongong%Wollongong Airport%Australia
+RPVK%KLO%Kalibo%Kalibo Airport%Philippines
+CYYF%YYF%Penticton, British Columbia%Penticton%Canada
+SVPT%PTM%Palmarito%Palmarito%Venezuela
+YMGD%MNG%Maningrida%Maningrida Airport%Australia
+HEAR%AAC%El Arish%El Arish Intl Airport%Egypt
+WRLS%SRI%Samarinda, East Kalimantan%Temindung Airport%Indonesia
+UMKK%KGD%Kaliningrad%Khrabrovo Airport%Russia
+BGQA%NAQ%Qaanaaq (Thule)%Qaanaaq Airport%Greenland (Denmark)
+GLBU%UCN%Buckanan%Buckanan%Liberia
+WIOO%PNK%Pontianak, West Kalimantan%Supadio Airport%Indonesia
+FAWM%WEL%Welkom%Welkom%South Africa
+KCHO%CHO%Charlottesville, Virginia%Charlottesville-Albemarle Airport%USA
+RPLB%SFS%Subic Bay%Subic Bay Intl Airport%Philippines
+HUMA%MBQ%Mbarara%Mbarara%Uganda
+ZGBH%BHY%Beihai%Beihai Airport%China - Peoples Republic
+VILD%LUH%Ludhiana (Punjab)%Sahnewal Airport%India
+MRGF%GLF%Golfito%Golfito Airport%Costa Rica
+LFBN%NIT%Niort%Souche Airport%France
+RJNO%OKI%Shimane%Oki Airport%Japan
+KPQI%PQI%Presque Isle, Maine%Northern Maine Regional Airport%USA
+OABN%BIM%Bamyan%Bamyan%Afghanistan
+PGUM%GUM%Guam%Guam Intl Airport%Guam (USA)
+DRZA%AJY%Agades%Manu Dayak%Niger
+RKNN%KAG%Kangnung%Kangnung Aero%South Korea
+GCGM%GMZ%La Gomera%La Gomera Airport%Spain
+VISR%SXR%Srinagar (Jammu & Kashmir)%Srinagar Airport (Mil./Civil)%India
+YPKU%KNX%Kununurra%Kununurra Airport%Australia
+CSH4%YLS%Lebel-Sur-Quevillon, Quebec%Lebel-Sur-Quevillon%Canada
+FALW%SDB%Langebaanweg%Langebaanweg Ab%South Africa
+CYXE%YXE%Saskatoon, Saskatchewan%Saskatoon/Diefenbaker%Canada
+ZYHE%HEK%Heihe%Heihe Airport%China - Peoples Republic
+KEAU%EAU%Eau Claire, Wisconsin%Chippewa Valley Regional Airport%USA
+LDRI%RJK%Rijeka%Rijeka Airport%Croatia
+LSGS%SIR%Sion%Sion Airport%Switzerland
+OMRK%RKT%Ras Al Khaimah%Khaimah Intl%United Arab Emirates
+HSNW%NHF%New Halfa%New Halfa%Sudan
+FALC%LMR%Lime Acres%Finsch Mine%South Africa
+EGPO%SYY%Stornoway%Stornoway Airport%United Kingdom
+LZZI%ILZ%Zilina%Zilina Airport%Slovakia
+SACO%COR%Cordoba%Ingeniero Ambrosio L.V. Taravella Intl Airport%Argentina
+SBMA%MAB%Maraba%Maraba Airport%Brazil
+VNBT%BIT%Baitadi%Baitadi%Nepal
+RPMS%SUG%Surigao%Surigao Airport%Philippines
+KFMN%FMN%Farmington, New Mexico%Four Corners Regional Airport%USA
+VOAT%AGX%Agatti (Lakshadweep)%Agatti Aerodrome%India
+FMSK%WVK%Manakara%Manakara%Madagascar
+LIPO%VBS%Brescia%Montichiari Airport%Italy
+VYPA%PAA%Hpa-An%Hpa-An%Myanmar (Burma)
+EDDG%FMO%Greven%Munster-Osnabruck%Germany
+ENZV%SVG%Stavanger%Stavanger Airport, Sola%Norway
+ELLX%LUX%Luxembourg%Luxembourg Intl Airport (Findel)%Luxembourg
+FMSC%WMD%Mandabe%Mandabe%Madagascar
+NZQN%ZQN%Queenstown%Queenstown%New Zealand
+FWSM%LMB%Salima%Salima%Malawi
+AGGH%HIR%Honiara%Honiara Intl%Solomon Islands
+FZCA%KKW%Kikwit%Kikwit%Congo, Democratic Republic of the
+EGDJ%UPV%Upavon%Upavon Airfield%United Kingdom
+CYGV%YGV%Havre St-Pierre, Quebec%Havre St-Pierre%Canada
+GOTB%BXE%Bakel%Bakel%Senegal
+SBNT%NAT%Natal%Augusto Severo Intl Airport%Brazil
+VOMY%MYQ%Mysore (Karnataka)%Mysore Airport%India
+VYBG%NYU%Bagan%Bagan%Myanmar (Burma)
+ZGNN%NNG%Nanning%Nanning Wuxu Intl Airport%China - Peoples Republic
+FYSM%SWP%Swakopmund%Swakopmund%Namibia
+YSNB%SNB%Melville Island%Snake Bay Airport%Australia
+CAB5%YBM%Bronson Creek, British Columbia%Bronson Creek%Canada
+VA1P%DIU%Diu (Daman and Diu)%Diu Airport%India
+WBGR%MYY%Miri%Miri%Malaysia
+NWWE%ILP%Des Pins Is.%Moue%New Caledonia (France)
+UHBI%GDG%Magdagachi%Magdagachi Airport%Russia
+FZFK%GMA%Gemena%Gemena%Congo, Democratic Republic of the
+EDLI%BFE%Bielefeld%Bielefeld%Germany
+CZFA%ZFA%Faro, Yukon Territory%Faro%Canada
+SCVD%ZAL%Valdivia%Pichoy%Chile
+RPLO%CYU%Cuyo%Cuyo Airport%Philippines
+VEPT%PAT%Patna (Bihar)%Jai Prakash Narayan International Airport%India
+LIPZ%VCE%Venice (Venezia)%Marco Polo Venice Airport%Italy
+FTTA%SRH%Sarh%Sarh%Chad
+OOMA%MSH%Masirah%Masirah AB%Oman
+LRSB%SBZ%Sibiu%Sibiu Intl Airport%Romania
+KTWF%TWF%Twin Falls, Idaho%Magic Valley Regional Airport (Joslin Field)%USA
+MRTR%TMU%Tambor%Tambor Airport%Costa Rica
+RJCM%MMB%Hokkaido%Memanbetsu Airport%Japan
+MMRX%REX%Reynosa%General Lucio Blanco Intl Airport%Mexico
+LFML%MRS%Marseille (Marignane)%Marseille - Provence Airport%France
+KJAC%JAC%Jackson, Wyoming%Jackson Hole Airport%USA
+CYHZ%YHZ%Halifax, Nova Scotia%Halifax Intl%Canada
+SVAC%AGV%Acarigua%Oswaldo Guevara Mujica%Venezuela
+ZSFZ%FOC%Fuzhou%Fuzhou Chengle Intl Airport%China - Peoples Republic
+VTSC%NAW%Narathiwat%Narathiwat Airport%Thailand
+FVHA%HRE%Harare%Harare Intl%Zimbabwe
+SBCG%CGR%Campo Grande%Campo Grande Intl Airport%Brazil
+MDST%STI%Santiago%Cibao Intl Airport%Dominican Republic
+LFBV%BVE%Brive-La-Gaillarde%Brive - La Roche Airport%France
+URMN%NAL%Nalchik%Nalchik Airport%Russia
+URWW%VOG%Volgograd%Gumrak Airport%Russia
+FVMV%MVZ%Masvingo%Masvingo%Zimbabwe
+VRMG%GAN%Gan Island%Gan%Maldives
+YKMP%KPS%Kempsey%Kempsey Airport%Australia
+FALA%HLA%Lanseria%Lanseria%South Africa
+BIKF%KEF%Keflavik%Keflavik Intl Airport%Iceland
+LWSK%SKP%Skopje%Skopje%Macedonia
+HTPE%PMA%Pemba%Pemba%Tanzania
+HAHU%HUE%Humera%Humera%Ethiopia
+LOWW%VIE%Wien (Vienna)%Wien - Schwechat%Austria
+TT02%ULI%Ulithi I%Ulithi%Micronesia, Federated States of
+VLAP%AOU%Attopeu%Attopeu%Laos
+KGTF%GTF%Great Falls, Montana%Great Falls Intl Airport%USA
+LIEE%CAG%Cagliari%Cagliari - Elmas Airport%Italy
+YEML%EMD%Emerald%Emerald Airport%Australia
+HANJ%NEJ%Nejjo%Nejjo%Ethiopia
+KPIB%PIB%Hattiesburg, Mississippi%Hattiesburg-Laurel Regional Airport%USA
+LFRM%LME%Le Mans%Le Mans-Arnage Airport%France
+GUNZ%NZE%N'zerekore%Konia%Guinea
+CYXL%YXL%Sioux Lookout, Ontario%Sioux Lookout%Canada
+EKYT%AAL%Aalborg%Aalborg Airport%Denmark
+OYAA%ADE%Aden%Aden Intl%Yemen
+KMAF%MAF%Midland, Texas%Midland Intl Airport%USA
+UUII%IKT%Irkutsk%Irkutsk Intl Airport%Russia
+ULDD%AMV%Amderma%Amderma Airport%Russia
+KMCW%MCW%Mason City, Iowa%Mason City Municipal Airport%USA
+EDDB%BER%Berlin%Berlin Brandenburg (Willy Brandt)%Germany
+FYNA%NNI%Namutoni%Namutoni%Namibia
+ZMBN%UGA%Bulgan%Bulgan%Mongolia
+MUPR%QPD%Pinar del Rio Norte%Pinar del R%Cuba
+LGAL%AXD%Alexandroupolis%Alexandroupolis Intl Airport (Dimokritos)%Greece
+CYBG%YBG%Bagotville, Quebec%Bagotville%Canada
+LFLC%CFE%Clermont-Ferrand%Clermont-Ferrand - Auvergne Airport%France
+FTTU%AMO%Mao%Mao%Chad
+SURV%RVY%Rivera%Rivera Intl%Uruguay
+KCDC%CDC%Cedar City, Utah%Cedar City Regional Airport%USA
+WMBI%TPG%Taiping%Taiping%Malaysia
+SKIP%IPI%Ipiales%San Luis%Colombia
+RJFS%HSG%Saga%Saga Airport%Japan
+KTLH%TLH%Tallahassee, Florida%Tallahassee Regional Airport%USA
+FQCB%FXO%Cuamba%Cuamba%Mozambique
+HAGM%GMB%Gambella%Gambella%Ethiopia
+HSNH%NUD%El Nahud%El Nahud%Sudan
+VGCM%CLA%Comilla%Comilla Airport%Bangladesh
+KBGM%BGM%Binghamton, New York%Greater Binghamton Airport (Edwin A. Link Field)%USA
+ZSPD%PVG%Shanghai%Shanghai Pudong Intl Airport%China - Peoples Republic
+LFLD%BOU%Bourges%Bourges Airport%France
+KBGR%BGR%Bangor, Maine%Bangor Intl Airport%USA
+GLTN%THC%Tchien%Tchien%Liberia
+EDDF%FRA%Frankfurt%Frankfurt am Main%Germany
+USRR%SGC%Surgut%Surgut Airport%Russia
+YDLQ%DNO%Deniliquin%Deniliquin Airport%Australia
+FMMG%WAQ%Antsalova%Antsalova%Madagascar
+FBSP%PKW%Selebi-Phikwe%Selebi-Phikwe%Botsuana
+LFKC%CLY%Calvi%Calvi - Sainte-Catherine Airport%France
+EBOS%OST%Ostend%Ostend-Bruges Intl Airport%Belgium
+GOSR%RDT%Richard Toll%Richard Toll%Senegal
+VNNG%KEP%Nepalgunj%Nepalgunj%Nepal
+PHHN%HNM%Hana, Hawaii%Hana Airport%USA
+LOWG%GRZ%Feldkirchen%Graz%Austria
+KGPI%GPI%Kalispell, Montana%Glacier Park Intl Airport%USA
+LKTB%BRQ%Brno%Brno Turany Airport%Czech Republic
+ENML%MOL%Molde%Molde Airport%Norway
+MMTO%TLC%Toluca%Lic. Adolfo Lopez Mateos Intl Airport%Mexico
+FZVR%BAN%Basongo%Basongo%Congo, Democratic Republic of the
+ESSV%VBY%Visby%Visby%Sweden
+CYOP%YOP%Rainbow Lake, Alberta%Rainbow Lake%Canada
+HSSM%MAK%Malakal%Malakal%Sudan
+WMKD%KUA%Kuantan%Kuantan%Malaysia
+SBBH%PLU%Belo Horizonte%Pampulha Domestic Airport%Brazil
+URMM%MRV%Mineralnye Vody%Mineralnye Vody Airport%Russia
+CYEG%YEG%Edmonton, Alberta%Edmonton Intl%Canada
+SVKA%KAV%Kavanayen%Bolivar%Venezuela
+CYIO%YIO%Pond Inlet, Northwest Territories%Pond Inlet%Canada
+FMMY%VAT%Vatomandry%Vatomandry%Madagascar
+ZBUL%HLH%Ulanhot%Ulanhot Airport%China - Peoples Republic
+OAHR%HEA%Herat%Herat%Afghanistan
+KBDL%BDL%Windsor Locks, Connecticut%Bradley Intl Airport%USA
+KVPS%VPS%Valparaiso, Florida%Okaloosa Regional Airport / Eglin Air Force Base%USA
+MMHO%HMO%Hermosillo%General Ignacio Pesqueira Garcia Intl Airport%Mexico
+LGKV%KVA%Kavala%Kavala Intl Airport (Megas Alexandros)%Greece
+AYWK%WWK%Wewak%Wewak Intl%Papua New Guinea
+ZGSD%ZUH%Zhuhai%Zhuhai Intl Airport%China - Peoples Republic
+SBVT%VIX%Vitoria%Goiabeiras Airport%Brazil
+GVFM%RAI%Francisco Mendes%Francisco Mendes%Cape Verde
+LFKO%PRP%Propriano%Tavaria Airport%France
+LIML%LIN%Milan%Linate Airport%Italy
+ENTC%TOS%Tromso%Tromso Airport%Norway
+KRIW%RIW%Riverton, Wyoming%Riverton Regional Airport%USA
+VTSB%URT%Surat Thani%Surat Thani Airport%Thailand
+YGTH%GFF%Griffith%Griffith Airport%Australia
+VECC%CCU%Kolkata (West Bengal)%Netaji Subhas Chandra Bose Intl Airport%India
+YSWG%WGA%Wagga Wagga%Wagga Wagga Airport%Australia
+HRZA%KME%Kamembe%Kamembe%Rwanda
+SKPQ%PAL%Palanquero%German Olano Ab%Colombia
+KGSO%GSO%Greensboro, North Carolina%Piedmont Triad Intl Airport%USA
+LPVZ%VSE%Viseu%Viseu Airport%Portugal
+HCMF%BSA%Bosaso%Bosaso%Somalia
+HAAM%AMH%Arba Minch%Arba Minch%Ethiopia
+GQPP%NDB%Nouadhibou%Nouadhibou%Mauritania
+ZGOW%SWA%Shantou%Shantou Airport%China - Peoples Republic
+CYQW%YQW%North Battleford, Saskatchewan%North Battleford%Canada
+FAKP%KOF%Komatipoort%Komatipoort%South Africa
+YPCC%CCK%Cocos (Keeling) Islands%Cocos (Keeling) Island Intl Airport%Australia
+KSJC%SJC%San Jose, California%Norman Y. Mineta San Jos%USA
+FEFZ%IMO%Zemio%Zemio%Central Africa
+OETF%TIF%Taif%Taif Regional Airport%Saudi Arabia
+EBKT%KJK%Kortrijk%Kortrijk-Wevelgem Airport%Belgium
+ZBXT%XNT%Xingtai%Xingtai Airport%China - Peoples Republic
+MGCT%CTF%Coatepeque%Coatepeque Airport%Guatemala
+HTBU%BKZ%Bukoba%Bukoba%Tanzania
+DFEG%XGG%Gorom-Gorom%Gorom-Gorom%Burkina Faso
+SETN%ESM%Tachina%General Rivadeneira%Ecuador
+TJPS%PSE%Ponce%Mercedita Airport%Puerto Rico
+SEMC%XMS%Macas%Macas%Ecuador
+KMSY%MSY%New Orleans, Louisiana%Louis Armstrong New Orleans Intl Airport%USA
+VTBS%QHI%Chonburi (Chon Buri)%Sattahip Airport%Thailand
+CYCA%YRF%Cartwright, Newfoundland%Cartwright Nws%Canada
+HESC%SKV%St Catherine%St Catherine Intl Airport%Egypt
+ZUZY%ZYI%Zunyi%Zunyi Airport%China - Peoples Republic
+SKTQ%TQS%Tres Esquinas%Tres Esquinas%Colombia
+SBFL%FLN%Florianopolis%Herc%Brazil
+EGLF%FAB%Farnborough%Farnborough Airfield%United Kingdom
+ENRY%RYG%Moss%Moss Airport, Rygge%Norway
+HTMU%MUZ%Musoma%Musoma%Tanzania
+FKKD%DLA%Douala%Douala%Cameroon
+DABC%CZL%Constantine%Constantine - Mohamed Boudiaf Airport%Algeria
+FKKL%MVR%Maroua%Salak%Cameroon
+GATB%TOM%Tombouctou%Tombouctou%Mali
+RPVV%USU%Busuanga / Coron%Busuanga Airport (Coron Airport)%Philippines
+EEKE%URE%Kuressaare%Kuressaare Airport%Estonia
+VEC1%DIB%Dibrugarh (Assam)%Chabua Airport (Dibrugarh Airport)%India
+OPSB%SBQ%Sibi%Sibi Airport%Pakistan
+YPPH%PER%Redcliffe%Perth Intl Airport%Australia
+NWWH%HLU%Houailou%Nesson%New Caledonia (France)
+OIBB%BUZ%Bushehr%Bushehr Airport%Iran
+KGRB%GRB%Green Bay, Wisconsin%Austin Straubel Intl Airport%USA
+CZMT%ZMT%Masset, British Columbia%Masset%Canada
+ZULS%LXA%Lhasa%Lhasa Gonggar Airport%China - Peoples Republic
+FXMF%MFC%Mafeteng%Mafeteng%Lesotho
+FMSL%OVA%Bekily%Bekily%Madagascar
+FCPP%PNR%Pointe Noire%A. Neto%Congo, Republic of
+LTAC%ESB%Ankara%Ankara Esenboga Intl Airport%Turkey
+TUPJ%EIS%Beef I%Beef I Intl%British Virgin Islands
+SCSB%SMB%Cerro Sombrero%Franco Bianco%Chile
+UMMM%MHP%Minsk%Minsk-1%Belarus
+RJSR%ONJ%Akita%Odate-Noshiro Airport%Japan
+EPPO%POZ%Poznan%Poznan-Lawica Airport%Poland
+KMLB%MLB%Melbourne, Florida%Melbourne Intl Airport%USA
+KLAF%LAF%Lafayette, Indiana%Purdue University Airport%USA
+RJKA%ASJ%Kagoshima%Amami Airport%Japan
+YTAM%XTO%Taroom%Taroom Airport%Australia
+UWOR%OSW%Orsk%Orsk Airport%Russia
+LJLJ%LJU%Ljubljana%Aerodrom Ljubljana%Slovenia
+FKKR%GOU%Garoua%Garoua%Cameroon
+GMTN%TTU%Tetouan%Sania Ramel%Morocco
+WIIS%SRG%Semarang, Central Java%Achmad Yani Airport%Indonesia
+KAPN%APN%Alpena, Michigan%Alpena County Regional Airport%USA
+VQPR%PBH%Paro%Paro Airport%Bhutan
+SLCA%CAM%Camiri%Camiri%Bolivia
+ESOE%ORB%Orebro%Orebro%Sweden
+GULB%LEK%Labe%Tata%Guinea
+KJHW%JHW%Jamestown, New York%Chautauqua County/Jamestown Airport%USA
+FZTK%KNM%Kaniama%Kaniama%Congo, Democratic Republic of the
+CYCR%YCR%Cross Lake, Manitoba%Sinclair Meml%Canada
+HEMA%RMF%Marsa Alam%Marsa Alam Intl Airport%Egypt
+FNBC%SSY%M'banza Congo%M'banza Congo%Angola
+UKDR%KWG%Krivoi Rog%Lozuvatka Intl Airport%Ukraine
+ENRS%RET%Rost%Rost Airport%Norway
+YSBK%BWU%Bankstown%Bankstown Airport%Australia
+LTBS%DLM%Mugla%Dalaman Airport%Turkey
+KLWS%LWS%Lewiston, Idaho%Lewiston-Nez Perce County Airport%USA
+SYAN%NAI%Annai%Annai%Guyana
+EICK%ORK%Cork%Cork Intl Airport%Ireland
+RCSS%TSA%Taipei%Taipei Songshan Airport%Taiwan, Republic of China
+EDLW%DTM%Dortmund%Dortmund Airport 21%Germany
+CYCG%YCG%Castlegar, British Columbia%Castlegar%Canada
+OPSK%SKZ%Sukkur%Sukkur Airport%Pakistan
+WBKS%SDK%Sandakan%Sandakan%Malaysia
+OIYY%AZD%Yazd%Shahid Sadooghi Airport%Iran
+VOPC%PNY%Pondicherry%Pondicherry Airport%India
+OSDZ%DEZ%Deir Zzor%Deir Zzor%Syria
+VYYE%XYE%Ye%Ye%Myanmar (Burma)
+YMDG%DGE%Mudgee%Mudgee Airport%Australia
+CYUX%YUX%Hall Beach, Northwest Territories%Hall Beach%Canada
+CYSM%YSM%Ft Smith, Northwest Territories%Ft Smith%Canada
+VEBS%BBI%Bhubaneswar (Orissa)%Biju Patnaik Airport%India
+KCHA%CHA%Chattanooga, Tennessee%Chattanooga Metropolitan Airport (Lovell Field)%USA
+CYLT%YLT%Alert, Northwest Territories%Alert%Canada
+VIKA%KNU%Kanpur (Uttar Pradesh)%Kanpur Airport%India
+EGFF%CWL%Cardiff%Cardiff Intl Airport%United Kingdom
+VVNB%HAN%Hanoi%Noi Bai Intl Airport%Vietnam
+FMSZ%WAK%Ankazoabo%Ankazoabo%Madagascar
+FYKT%KMP%Keetmanshoop%Keetmanshoop%Namibia
+ZBTL%TGO%Tongliao%Tongliao Airport%China - Peoples Republic
+FYOG%OMD%Oranjemund%Oranjemund%Namibia
+DAAT%TMR%Tamanrasset%Tamanrasset - Aguenar Airport%Algeria
+KCEC%CEC%Crescent City, California%Jack McNamara Field Airport%USA
+MHLM%SAP%San Pedro Sula%La Mesa Intl%Honduras
+WBKW%TWU%Tawau%Tawau%Malaysia
+PHOG%OGG%Kahului, Hawaii%Kahului Airport%USA
+URWA%ASF%Astrakhan%Astrakhan Airport%Russia
+DNYO%YOL%Yola%Yola%Nigeria
+WAPP%AMQ%Ambon, Maluku%Pattimura Airport%Indonesia
+VNJP%JKR%Janakpur%Janakpur%Nepal
+ZYQQ%NDG%Qiqihar%Qiqihar Airport%China - Peoples Republic
+MHLC%LCE%La Ceiba%Goloson Intl%Honduras
+CYPG%YPG%Portage La Prairie, Manitoba%Southport%Canada
+YWLU%WUN%Wiluna%Wiluna Airport%Australia
+YLHI%LDH%Lord Howe Island%Lord Howe Island Airport%Australia
+FSSB%BDI%Bird Island%Bird Island%Seychelles
+SKTM%TME%Tame%Tame%Colombia
+KFOE%FOE%Topeka, Kansas%Forbes Field%USA
+VIAR%ATQ%Amritsar (Punjab)%Sri Guru Ram Dass Jee Intl Airport%India
+UAFO%OSS%Osh%Osh%Kyrgyzstan
+BGTL%THU%Qaanaaq (Thule)%Thule Air Base%Greenland (Denmark)
+EDHI%XFW%Hamburg%Finkenwerder (Airbus)%Germany
+VYYY%RGN%Yangon%Yangon Intl%Myanmar (Burma)
+NWWM%GEA%Noumea%Magenta%New Caledonia (France)
+KPHL%PHL%Philadelphia, Pennsylvania%Philadelphia Intl Airport%USA
+FOOB%BMM%Bitam%Bitam%Gabon
+OMSJ%SHJ%Sharjah%Sharjah Intl%United Arab Emirates
+WIBB%PKU%Pekanbaru, Riau%Sultan Syarif Kasim II Airport%Indonesia
+FLSO%KIW%Kitwe%Southdowns%Zambia
+VICG%IXC%Chandigarh%Shaheed Bhagat Singh International Airport%India
+VEMR%DMU%Dimapur (Nagaland)%Dimapur Airport (Mil./Civil)%India
+SCTE%PMC%Puerto Montt%El Tepual Intl%Chile
+OAKN%KDH%Kandahar%Kandahar Intl%Afghanistan
+HKED%EDL%Eldoret%Eldoret%Kenya
+MYMM%MYG%Mayaguana%Mayaguana Airport%Bahamas
+CBX5%TNS%Tungsten, Northwest Territories%Cantung%Canada
+OPDG%DEA%Dera Ghazi Khan%Dera Ghazi Khan Airport%Pakistan
+WRLR%TRK%Tarakan, East Kalimantan%Juwata Airport%Indonesia
+FMNL%HVA%Analalava%Analalava%Madagascar
+YHBA%HVB%Hervey Bay%Hervey Bay Airport%Australia
+OYBQ%BUK%Al-Bough%Al-Bough%Yemen
+MMUN%CUN%Cancun%Cancun Intl Airport%Mexico
+ENEV%EVE%Evenes%Harstad-Narvik Airport%Norway
+OAJL%JAA%Jalalabad%Jalalabad%Afghanistan
+LYNS%QND%Novi Sad%Novi Sad Airport%Serbia
+HATP%TIE%Tippi%Tippi%Ethiopia
+HECA%CAI%Cairo%Cairo Intl Airport%Egypt
+FNXA%XGN%Xangongo%Xangongo%Angola
+ZGZJ%ZHA%Zhanjiang%Zhanjiang Airport%China - Peoples Republic
+RJEO%OIR%Hokkaido%Okushiri Airport%Japan
+ESNL%LYC%Lycksele%Lycksele%Sweden
+CYOC%YOC%Old Crow, Yukon Territory%Old Crow%Canada
+PTSA%KSA%Kosrae I%Kosrae%Micronesia, Federated States of
+CAD5%YMB%Merritt, British Columbia%Merritt%Canada
+LDDU%DBV%Dubrovnik%Dubrovnik Airport%Croatia
+BITE%TEY%Pingeyri%Pingeyri Airport%Iceland
+SVCL%CLZ%Calabozo%Calabozo%Venezuela
+HCME%HCM%Eil%Eil%Somalia
+TFFC%SFC%Saint-Francois%Saint-Francois Airport%Guadeloupe - French Antilles
+MMPA%PAZ%Poza Rica%El Tajin National Airport%Mexico
+FWCD%CEH%Chelinda%Chelinda%Malawi
+EFMI%MIK%Mikkeli%Mikkeli Airport%Finland
+KPWM%PWM%Portland, Maine%Portland Intl Jetport%USA
+MUSN%SZJ%Isla de la Juventud%Siguanea Airport%Cuba
+BGKK%KUS%Kulusuk%Kulusuk Airport%Greenland (Denmark)
+EDQM%HOQ%Hof%Hof-Plauen%Germany
+LFPC%CSF%Creil%Creil Airport%France
+KSUN%SUN%Hailey, Idaho%Friedman Memorial Airport%USA
+KPGV%PGV%Greenville, North Carolina%Pitt-Greenville Airport%USA
+CYOS%YOS%Owen Sound, Ontario%Billy Bishop Reg'l%Canada
+VYMM%MNU%Mawlamyine%Mawlamyine%Myanmar (Burma)
+NCPY%PYE%Penrhyn Island%Tongareva%Cook Islands
+LCLK%LCA%Larnaca%Larnaca Intl Airport%Cyprus
+VTUW%KOP%Nakhon Phanom%Nakhon Phanom Airport%Thailand
+KBRD%BRD%Brainerd, Minnesota%Brainerd Lakes Regional Airport%USA
+RPVG%SAA%Guiuan%Guiuan Airport%Philippines
+SCRA%CNR%Chanaral%Chanaral%Chile
+YGFN%GFN%Grafton%Grafton Airport%Australia
+WAMM%MDC%Manado, North Sulawesi%Sam Ratulangi Airport%Indonesia
+VLXK%XKH%Xieng Khouang%Xieng Khouang%Laos
+LRCL%CLJ%Cluj-Napoca%Cluj-Napoca Intl Airport%Romania
+LGKJ%KZS%Kastelorizo%Kastelorizo Island Public Airport%Greece
+HTSO%SGX%Songea%Songea%Tanzania
+FKKW%EBW%Ebolowa%Ebolowa%Cameroon
+ESGR%KVB%Skovde%Skovde%Sweden
+LESO%EAS%San Sebastian, Guipuscoa%San Sebastian Airport%Spain
+OPPI%PSI%Pasni City%Pasni Airport%Pakistan
+DIBU%BDK%Bondoukou%Soko%Ivory Coast
+SKCD%COG%Condoto%Mandinga%Colombia
+FZRQ%KOO%Kongolo%Kongolo%Congo, Democratic Republic of the
+MMGR%GUB%Guerrero Negro%Guerrero Negro Airport%Mexico
+EHGG%GRQ%Groningen-Eelde%Groningen Airport Eelde%Netherlands
+DITB%TXU%Tabou%Tabou%Ivory Coast
+RPMN%SGS%Bongao%Sanga-Sanga Airport%Philippines
+CYZS%YZS%Coral Harbour, Northwest Territories%Coral Harbour%Canada
+SBSR%SJP%Sao Jose do Rio Preto%Sao Jose do Rio Preto Airport%Brazil
+CYZF%YZF%Yellowknife, Northwest Territories%Yellowknife%Canada
+FZJH%IRP%Isiro-Matari%Isiro-Matari%Congo, Democratic Republic of the
+KCMX%CMX%Hancock, Michigan%Houghton County Memorial Airport%USA
+LFOJ%ORE%Orleans%Orleans - Bricy Airport%France
+PTRO%ROR%Babelthuap I%Babelthuap/Koror%Micronesia, Federated States of
+CYCZ%YCZ%Fairmont Hot Springs, British Columbia%Fairmont Hot Springs%Canada
+FZSA%KMN%Kamina%Kamina Base%Congo, Democratic Republic of the
+SLGY%GYA%Guayaramerin%Cap Av Emilio Beltran%Bolivia
+ENOL%OLA%Orland%Orland Main Air Station%Norway
+RPMJ%JOL%Jolo%Jolo Airport%Philippines
+CYYE%YYE%Ft Nelson, British Columbia%Ft Nelson%Canada
+VARP%RPR%Raipur (Chhattisgarh)%Swami Vivekananda Airport%India
+NZTG%TRG%Tauranga%Tauranga%New Zealand
+KFAT%FAT%Fresno, California%Fresno Yosemite Intl Airport%USA
+EDDE%ERF%Erfurt%Erfurt%Germany
+ENDI%DLD%Geilo%Geilo Airport%Norway
+KLFT%LFT%Lafayette, Louisiana%Lafayette Regional Airport%USA
+ESGP%GSE%Goteborg%Goteborg City Airport%Sweden
+ZUUU%CTU%Chengdu%Chengdu Shuangliu Intl Airport%China - Peoples Republic
+LIPQ%TRS%Ronchi dei Legionari / Trieste%Friuli Venezia Giulia Airport (Trieste Ronchi dei Legionari%Italy
+EFTU%TKU%Turku%Turku Airport%Finland
+HTNJ%JOM%Njombe%Njombe%Tanzania
+EPLL%LCJ%Lodz%Lodz Wladyslaw Reymont Airport%Poland
+UWSS%RTW%Saratov%Tsentralny Airport%Russia
+YBRW%BWQ%Brewarrina%Brewarrina Airport%Australia
+CZEM%ZEM%Eastmain River, Quebec%Eastmain River%Canada
+SPAR%ALD%Alerta%Alerta%Peru
+LYTV%TIV%Tivat%Tivat Airport%Montenegro
+VVCT%VCA%Can Tho%Tra Noc Airport%Vietnam
+HKKI%KIS%Kisumu%Kisumu%Kenya
+CJL8%YDU%Kasba Lake, Northwest Territories%Kasba Lake%Canada
+KEWN%EWN%New Bern, North Carolina%Craven County Regional Airport%USA
+YBOU%BQL%Boulia%Boulia Airport%Australia
+YPKG%KGI%Kalgoorlie%Kalgoorlie-Boulder Airport%Australia
+PTRO%ROR%Koror%Koror - Babelthuap Airport%Palau
+OIII%THR%Tehran%Mehrabad Intl Airport%Iran
+GMAT%TTA%Tan Tan%Plage Blanche%Morocco
+CYBB%YBB%Pelly Bay, Northwest Territories%Pelly Bay (Town Site)%Canada
+EFKJ%KHJ%Kauhajoki%Kauhajoki Airport%Finland
+RORT%TRA%Okinawa%Tarama Airport%Japan
+KIND%IND%Indianapolis, Indiana%Indianapolis Intl Airport%USA
+GCFV%FUE%Fuerteventura%Fuerteventura Airport%Spain
+SEGS%GPS%Baltra I Galapagos Is%Seymour%Ecuador
+OYHD%HOD%Hodeidah%Hodeidah Intl%Yemen
+MUMO%MOA%Moa%Orestes Acosta Airport%Cuba
+SPRU%TRU%Trujillo%Cap Carlos Martinez De Pinill%Peru
+KIDA%IDA%Idaho Falls, Idaho%Idaho Falls Regional Airport (Fanning Field)%USA
+CSR8%SSQ%La Sarre, Quebec%La Sarre%Canada
+ESOK%KSD%Karlstad%Karlstad%Sweden
+ZYCC%CGQ%Changchun%Changchun Longjia Intl Airport%China - Peoples Republic
+VYPY%PRU%Pyay%Pyay%Myanmar (Burma)
+LSZB%BRN%Bern%Bern - Belp%Switzerland
+ZSCN%KHN%Nanchang%Nanchang Intl Airport%China - Peoples Republic
+SLET%SRZ%Santa Cruz%El Trompillo%Bolivia
+OYRN%RIY%Mukalla%Riyan%Yemen
+RPMW%TDG%Tandag%Tandag Airport%Philippines
+LEPP%PNA%Pamplona%Pamplona Airport%Spain
+OETR%TUI%Turaif%Turaif Domestic Airport%Saudi Arabia
+WBKL%LBU%Labuan I%Labuan I%Malaysia
+HKES%EYS%Eliye Springs%Eliye Springs%Kenya
+EDVE%BWE%Braunschweig%Flughafen Braunschweig-Wolfsburg%Germany
+RKJJ%KWJ%Kwangju%Kwangju Aero%South Korea
+NZTU%TIU%Timaru%Timaru%New Zealand
+CZJN%ZJN%Swan River, Manitoba%Swan River%Canada
+RJNF%FKJ%Fukui%Fukui Airport%Japan
+SPBR%IBP%Iberia%Iberia%Peru
+UUOO%VOZ%Voronezh%Chertovitskoye Airport%Russia
+FWDW%DWA%Dwangwa%Dwangwa%Malawi
+LIRL%QLT%Latina%Latina Airport%Italy
+VGSY%ZYL%Sylhet%Osmani Intl Airport%Bangladesh
+SARF%FMA%Formosa%Formosa Intl Airport%Argentina
+EGGW%LTN%London%London Luton Airport%United Kingdom
+UUYY%SCW%Syktyvkar%Syktyvkar Airport%Russia
+GVAC%SID%Sal%Amilcar Cabral%Cape Verde
+SLRQ%RBQ%Rurrenabaque%Rurrenabaque%Bolivia
+EGFH%SWS%Swansea%Swansea Airport%United Kingdom
+YGPT%GPN%Melville Island%Garden Point Airport%Australia
+KTUS%TUS%Tucson, Arizona%Tucson Intl Airport%USA
+OEBH%BHH%Bisha%Bisha Domestic Airport%Saudi Arabia
+HLLB%BEN%Benina-Benghazi%Benina International Airport%Libya
+NZWU%WAG%Wanganui%Wanganui%New Zealand
+LXGB%GIB%Gibraltar%Gibraltar%Gibraltar (UK)
+EDWY%NRD%Norderney%Norderney%Germany
+EDDK%CGN%Koln (Cologne)%Koln - Bonn (Konrad Adenauer)%Germany
+YMHB%HBA%Cambridge%Hobart Intl Airport%Australia
+RJOA%HIJ%Hiroshima%Hiroshima Airport%Japan
+BIBL%BLO%Blonduos%Blonduos Airport%Iceland
+RJFG%TNE%Kagoshima%Tanegashima Airport%Japan
+KALB%ALB%Albany, New York%Albany Intl Airport%USA
+VETZ%TEZ%Tezpur (Assam)%Tezpur Airport (Mil./Civil)%India
+VVPB%HUI%Hue%Phu Bai Airport%Vietnam
+CYCS%YCS%Chesterfield Inlet, Northwest Territorie%Chesterfield Inlet%Canada
+ZSAQ%AQG%Anqing%Anqing Airport%China - Peoples Republic
+NFNR%RTA%Rotuma%Rotuma%Fiji
+VEGK%GOP%Gorakhpur (Uttar Pradesh)%Gorakhpur Airport (Mil./Civil)%India
+NZKK%KKE%Kerikeri%Kerikeri%New Zealand
+VAAK%AKD%Akola (Maharashtra)%Akola Airport%India
+EFSO%SOT%Sodankyl%Sodankyla Airport%Finland
+YWGT%WGT%Wangaratta%Wangaratta Airport%Australia
+YECH%ECH%Echuca%Echuca Airport%Australia
+VOCI%COK%Kochi (Kerala)%Cochin International Airport%India
+CCH4%YHG%Charlottetown, Newfoundland%Charlottetown%Canada
+FEFB%MKI%Obo%M'boki%Central Africa
+LFSD%DIJ%Dijon%Dijon-Bourgogne Airport%France
+YSCN%CDU%Camden%Camden Airport%Australia
+RPVP%PPS%Puerto Princesa%Puerto Princesa Airport%Philippines
+CYHF%YHF%Hearst, Ontario%Hearst Mun%Canada
+ZSZS%HSN%Zhoushan%Zhoushan Airport%China - Peoples Republic
+EDGS%SGE%Burbach%Siegerlandflughafen%Germany
+LPBR%BGZ%Braga%Braga Airport%Portugal
+ZYYJ%YNJ%Yanji%Yanji Airport%China - Peoples Republic
+GGOV%OXB%Bissau%Osvaldo Vieira%Guinea Bissau
+UGGG%TBS%Tbilisi%Lochini%Georgia
+GCRR%ACE%Arrecife, Lanzarote%Lanzarote Airport (Arrecife Airport)%Spain
+KDFW%DFW%Dallas-Fort Worth, Texas%Dallas-Fort Worth Intl Airport%USA
+VTSH%SGZ%Songkhla%Songkhla Airport%Thailand
+FZAB%NLO%Kinshasa%N'dolo%Congo, Democratic Republic of the
+RORK%KTD%Okinawa%Kita-Daito Airport%Japan
+KFLL%FLL%Fort Lauderdale, Florida%Fort Lauderdale-Hollywood Intl Airport%USA
+LGHI%JKH%Chios%Chios Island National Airport%Greece
+CYSU%YSU%Summerside, Prince Edward Island%Summerside%Canada
+UUEE%SVO%Moscow%Sheremetyevo Intl Airport%Russia
+OPTU%TUK%Turbat%Turbat Airport%Pakistan
+SKBO%BOG%Santafe De Bogota%Eldorado Intl%Colombia
+SBCT%CWB%Curitiba%Afonso Pena Intl Airport%Brazil
+GCLA%SPC%La Palma%La Palma Airport%Spain
+EPKK%KRK%Krakow%John Paul II Intl Airport Krakow-Balice%Poland
+CYQU%YQU%Grande Prairie, Alberta%Grande Prairie%Canada
+YFRT%FOS%Forrest%Forrest Airport%Australia
+ESMX%VXO%Vaxjo%Kronoberg%Sweden
+KROC%ROC%Rochester, New York%Greater Rochester Intl Airport%USA
+RJFK%KOJ%Kagoshima%Kagoshima Airport%Japan
+KTUL%TUL%Tulsa, Oklahoma%Tulsa Intl Airport%USA
+CZBM%ZBM%Bromont, Quebec%Bromont%Canada
+YHPN%HTU%Hopetoun%Hopetoun Airport%Australia
+EDDH%HAM%Hamburg%Hamburg-Fuhlsbuttel%Germany
+CYHB%YHB%Hudson Bay, Saskatchewan%Hudson Bay%Canada
+ENHA%HMR%Hamar%Hamar Airport%Norway
+CYRS%YRS%Red Sucker Lake, Manitoba%Red Sucker Lake%Canada
+LEAL%ALC%Alicante%Alicante Airport%Spain
+GMFO%OUD%Oujda%Angads%Morocco
+VVNS%SQH%Son La%Na San Airport%Vietnam
+VTSK%PAN%Pattani%Pattani Airport%Thailand
+RPUH%SJI%San Jose%McGuire Field (San Jose Airport)%Philippines
+CYVO%YVO%Val-D'or, Quebec%Val-D'or%Canada
+MRTM%TNO%Tamarindo%Tamarindo Airport%Costa Rica
+CZPO%ZPO%Pinehouse Lake, Saskatchewan%Pinehouse Lake%Canada
+FQCH%VPY%Chimoio%Chimoio%Mozambique
+LPGR%GRW%Graciosa Island%Graciosa Airport%Portugal
+GQPA%ATR%Atar%Atar%Mauritania
+NZDN%DUD%Dunedin%Dunedin%New Zealand
+EFVR%VRK%Varkaus%Varkaus Airport%Finland
+FCOE%EWO%Ewo%Ewo%Congo, Republic of
+DNSO%SKO%Sokoto%Siddiq Abubakar Iii Intl%Nigeria
+VYPU%PKK%Pakhokku%Pakhokku%Myanmar (Burma)
+HSSW%WHF%Wadi Halfa%Wadi Halfa%Sudan
+LFOV%LVA%Laval%Laval - Entrammes Airport%France
+KFNT%FNT%Flint, Michigan%Bishop Intl Airport%USA
+MGTK%FRS%Flores%Mundo Maya Intl Airport%Guatemala
+RPVF%CRM%Catarman%Catarman National Airport%Philippines
+CYEV%YEV%Inuvik, Northwest Territories%Zubko%Canada
+CYGW%YGW%Kuujjuarapik, Quebec%Kuujjuarapik%Canada
+KCYS%CYS%Cheyenne, Wyoming%Cheyenne Regional Airport (Jerry Olson Field)%USA
+KMSO%MSO%Missoula, Montana%Missoula Intl Airport%USA
+KRSW%RSW%Fort Myers, Florida%Southwest Florida Intl Airport%USA
+NZWN%WLG%Wellington%Wellington Intl%New Zealand
+LBWN%VAR%Varna%Varna Intl Airport%Bulgaria
+BITH%THO%Sauoanes%Sauoanes Airport%Iceland
+EFKT%KTT%Kittila%Kittila Airport%Finland
+CYQR%YQR%Regina, Saskatchewan%Regina%Canada
+KGCN%GCN%Tusayan, Arizona%Grand Canyon National Park Airport%USA
+FYLZ%LUD%Luderitz%Luderitz%Namibia
+YWLM%NTL%Newcastle%Newcastle - Williamtown Airport%Australia
+FMNX%WMA%Mandritsara%Mandritsara%Madagascar
+GASK%KSS%Sikasso%Sikasso%Mali
+VLSK%ZVK%Savannakhet%Savannakhet%Laos
+MMML%MXL%Mexicali%General Rodolfo S%Mexico
+GVBA%BVC%Rabil%Rabil%Cape Verde
+SVCO%VCR%Carora%Carora%Venezuela
+LFHM%MVV%Megeve%Megeve Airport%France
+FQTT%TET%Tete%Chingozi%Mozambique
+LPPI%PIX%Pico Island%Pico Airport%Portugal
+ZGSZ%SZX%Shenzhen%Shenzhen Bao'an Intl Airport%China - Peoples Republic
+ZWTN%HTN%Hotan%Hotan Airport%China - Peoples Republic
+SKTU%TRB%Turbo%Gonzalo Mejia%Colombia
+KXNA%XNA%Fayetteville, Arkansas%Northwest Arkansas Regional Airport%USA
+EDMO%OBI%Wessling%Sonderflughafen Oberpfaffenhofen%Germany
+BGFH%JFR%Paamiut (Frederikshab)%Frederikshab Airport%Greenland (Denmark)
+LIRF%FCO%Rome%Fiumicino (Leonardo Da Vinci Intl Airport)%Italy
+FGSL%SSG%Malabo%Malabo Airport%Equatorial Guinea
+LIEA%AHO%Alghero%Alghero Airport%Italy
+UMMS%MSQ%Minsk%Minsk-2%Belarus
+LIRJ%EBA%Marina di Campo, Elba%Aeroporto Marina di Campo%Italy
+FCBB%BZV%Brazzaville%Maya-Maya%Congo, Republic of
+CYYG%YYG%Charlottetown, Prince Edward Island%Charlottetown%Canada
+EHTW%ENS%Enschede%Enschede Airport Twente%Netherlands
+LFMD%CEQ%Cannes%Cannes - Mandelieu Airport%France
+DIBI%BXI%Boundiali%Boundiali%Ivory Coast
+SVCB%CBL%Ciudad Bolivar%Ciudad Bolivar%Venezuela
+BGEM%JEG%Aasiaat (Egedesminde)%Auisiait Airport%Greenland (Denmark)
+FCBY%NKY%N'kayi%Yokangassi%Congo, Republic of
+CYDL%YDL%Dease Lake, British Columbia%Dease Lake%Canada
+UBBB%BAK%Baku%Bina%Azerbaijan
+CEB3%YCK%Colville Lake, Northwest Territories%Colville Lake%Canada
+CZMN%PIW%Pikwitonei, Manitoba%Pikwitonei%Canada
+CEM3%YLE%Lac La Martre, Northwest Territories%Wha Ti%Canada
+CYPW%YPW%Powell River, British Columbia%Powell River%Canada
+LIPB%BZO%Bolzano%Bolzano Dolomiti Airport%Italy
+VISM%SLV%Shimla (Himachal Pradesh)%Shimla Airport%India
+CYSR%YSR%Nanisivik, Northwest Territories%Nanisivik%Canada
+KABY%ABY%Albany, Georgia%Southwest Georgia Regional Airport%USA
+SBIL%IOS%Ilheus%Jorge Amado Airport%Brazil
+FPPR%PCP%Principe%Principe%Sao Tome and Principe
+KALW%ALW%Walla Walla, Washington%Walla Walla Regional Airport%USA
+LFRF%GFR%Granville%Granville - Mont Saint Michel Airport%France
+LPPD%PDL%Sao Miguel Island (Ponta Delgada)%Joao Paulo II Airport%Portugal
+PAOM%OME%Nome, Alaska%Nome Airport%USA
+FXMM%MSU%Maseru%Moshoeshoe I Intl%Lesotho
+FYRU%NDU%Rundu%Rundu%Namibia
+OYSN%SAH%Sanaa%Sanaa Intl%Yemen
+HTMT%MYW%Mtwara%Mtwara%Tanzania
+VAUD%UDR%Udaipur (Rajasthan)%Udaipur Airport%India
+MMMZ%MZT%Mazatl%General Rafael Buelna Intl Airport%Mexico
+YSTW%TMW%Tamworth%Tamworth Airport%Australia
+EGCN%DSA%South Yorkshire%Robin Hood Airport Doncaster Sheffield%United Kingdom
+FZIC%FKI%Kisangani%Bangoka Intl%Congo, Democratic Republic of the
+FTTB%OGR%Bongor%Bongor%Chad
+FZVS%PFR%Ilebo%Ilebo%Congo, Democratic Republic of the
+LFOB%BVA%Beauvais%Beauvais - Tille Airport%France
+HAGR%GOR%Gore%Gore%Ethiopia
+RJEC%AKJ%Hokkaido%Asahikawa Airport%Japan
+FWCL%BLZ%Blantyre%Chileka%Malawi
+WMKA%AOR%Alor Setar%Sultan Abdul Halim%Malaysia
+DGAA%ACC%Accra%Kotoka Intl Airport%Ghana
+CYHH%YNS%Nemiscau, Quebec%Nemiscau%Canada
+ETMN%FCN%Nordholz%Flughafen Cuxhaven - Nordholz (Sea - Airport)%Germany
+DABS%TEE%Tebessa%Tebessa - Cheikh Larbi Tebessi Airport%Algeria
+YMER%MIM%Merimbula%Merimbula Airport%Australia
+MMLO%BJX%Leon%Del Bajio Intl Airport%Mexico
+CYPQ%YPQ%Peterborough, Ontario%Peterborough%Canada
+OOMS%MCT%Muscat%Seeb Intl%Oman
+EGSY%SZE%Sheffield%Sheffield City Airport%United Kingdom
+KACY%ACY%Atlantic City, New Jersey%Atlantic City Intl Airport%USA
+VYNS%NMS%Namsang%Namsang%Myanmar (Burma)
+SBIZ%IMP%Imperatriz%Prefeito Renato Moreira Airport%Brazil
+OIMT%TCX%Tabas%Tabas Airport%Iran
+FWMY%MYZ%Monkey Bay%Monkey Bay%Malawi
+LLIB%RPN%Rosh-Pina%Rosh Pina Airport (Ben Ya'aqov Airport)%Israel
+EPGD%GDN%Gdansk%Gdansk Lech Walesa Airport%Poland
+USKK%KVX%Kirov%Kirov Airport%Russia
+CYIK%YIK%Ivujivik, Quebec%Ivujivik%Canada
+WIPP%PLM%Palembang, South Sumatra%Sultan Mahmud Badaruddin II Airport%Indonesia
+OPPS%PEW%Peshawar%Peshawar Intl Airport%Pakistan
+YKII%KNS%King Island (Currie)%King Island Airport%Australia
+FCBZ%ANJ%Zanaga%Zanaga%Congo, Republic of
+UWPP%PEZ%Penza%Penza Airport%Russia
+FNWK%CEO%Wako Kungo%Wako Kungo%Angola
+SUVO%VCH%Vichadero%Vichadero%Uruguay
+KPBI%PBI%West Palm Beach, Florida%Palm Beach Intl Airport%USA
+SBRJ%SDU%Rio de Janeiro%Santos Dumont Regional Airport%Brazil
+CYZG%YZG%Salluit, Quebec%Salluit%Canada
+CZST%ZST%Stewart, British Columbia%Stewart%Canada
+KMKT%MKT%Mankato, Minnesota%Mankato Regional Airport%USA
+FZVI%LBO%Lusambo%Lusambo%Congo, Democratic Republic of the
+WIIH%HLP%Jakarta%Halim Perdanakusuma Intl Airport%Indonesia
+SPBL%BLP%Bellavista%Huallaga%Peru
+SMJP%PBM%Zandery%J.A. Pengel Intl%Suriname
+KMBS%MBS%Saginaw, Michigan%MBS Intl Airport%USA
+CYPR%YPR%Prince Rupert, British Columbia%Prince Rupert%Canada
+KBED%BED%Bedford, Massachusetts%Laurence G. Hanscom Field / Hanscom AFB%USA
+LFRE%LBY%Labaule-Escoublac%Labaule-Escoublac Airport%France
+EGHL%QLA%Basingstoke%Lasham Airfield%United Kingdom
+CYAY%YAY%St Anthony, Newfoundland%St Anthony%Canada
+OJAM%ADJ%Amman%Marka Intl%Jordan
+YHLC%HCQ%Halls Creek%Halls Creek Airport%Australia
+ZBCZ%CIH%Changzhi%Changzhi Airport%China - Peoples Republic
+MROC%SJO%San Jose%Juan Santamaria Intl Airport%Costa Rica
+GOGK%KDA%Kolda%Kolda%Senegal
+ESUD%SQO%Storuman%Storuman%Sweden
+MTPP%PAP%Port-Au-Prince%Port-Au-Prince Intl%Haiti
+LTCK%MSR%Mus%Mus Airport%Turkey
+SKPE%PEI%Pereira%Matecana%Colombia
+KOXR%OXR%Oxnard, California%Oxnard Airport%USA
+YBUD%BDB%Bundaberg%Bundaberg Airport%Australia
+OPDB%DBA%Dalbandin%Dalbandin Airport%Pakistan
+RPVM%CEB%Cebu / Lapu-Lapu City%Mactan-Cebu Intl Airport%Philippines
+HTLM%LKY%Lake Manyara%Lake Manyara%Tanzania
+CZFD%ZFD%Fond-Du-Lac, Saskatchewan%Fond-Du-Lac%Canada
+VYKT%KAW%Kawthoung%Kawthoung%Myanmar (Burma)
+LGZA%ZTH%Zakynthos (Zakinthos)%Zakynthos Intl Airport (Dionysios Solomos)%Greece
+YGLB%GUL%Goulburn%Goulburn Airport%Australia
+MBGT%GDT%Grand Turk I.%Grand Turk Intl%Turks & Caicos
+YBRK%ROK%Rockhampton%Rockhampton Airport%Australia
+SKPV%PVA%Isla Providencia%Providencia%Colombia
+CNS7%YKD%Kincardine, Ontario%Kincardine%Canada
+FMMZ%WAM%Ambatondrazaka%Ambatondrazaka%Madagascar
+CZRJ%ZRJ%Round Lake, Ontario%Weagamow Lake%Canada
+OJAI%AMM%Amman%Queen Alia Intl%Jordan
+ESUP%PJA%Pajala%Pajala%Sweden
+SLJV%SJV%San Javier%San Javier%Bolivia
+WMKI%IPH%Ipoh%Sultan Azlan Shah%Malaysia
+EBAW%ANR%Antwerp%Deurne Airport%Belgium
+KCLL%CLL%College Station, Texas%Easterwood Airport%USA
+GQNE%BGH%Bogue%Bogue%Mauritania
+LFMH%EBU%St Etienne%Saint-Etienne - Boutheon Airport%France
+KAOO%AOO%Altoona, Pennsylvania%Altoona-Blair County Airport%USA
+DRRT%THZ%Tahoua%Tahoua%Niger
+LFGA%CMR%Colmar%Colmar - Houssen Airport%France
+LRCK%CND%Constanta%Constanta (Mihail Kogalniceanu) Intl Airport%Romania
+WRRA%AMI%Mataram, West Nusa Tenggara%Selaparang Airport%Indonesia
+SCEL%SCL%Santiago%Arturo Merino Benitez Intl%Chile
+ENTO%TRF%Sandefjord%Sandefjord Airport%Norway
+VVCR%CXR%Nha Trang%Cam Ranh Airport%Vietnam
+MMPS%PXM%Puerto Escondido%Puerto Escondido Intl Airport%Mexico
+KMFR%MFR%Medford, Oregon%Rogue Valley Intl-Medford Airport%USA
+KSNA%SNA%Santa Ana, California%John Wayne Airport%USA
+SPHI%CIX%Chiclayo%Jose Abelardo Quinones Gonzale%Peru
+UGEE%EVN%Yerevan%Zvartnots%Armenia
+CZFG%XPK%Pukatawagan, Manitoba%Pukatawagan%Canada
+CYAS%YKG%Kangirsuk, Quebec%Kangirsuk%Canada
+MUGT%GAO%Guantanamo%Mariana Grajales Airport%Cuba
+LZIB%BTS%Bratislava%M.R. Stefanik Airport Bratislava%Slovakia
+CZAM%YSN%Salmon Arm, British Columbia%Salmon Arm%Canada
+LTCE%ERZ%Erzurum%Erzurum Airport%Turkey
+FMSI%IHO%Ihosy%Ihosy%Madagascar
+VYMS%MOG%Mong-Hsat%Mong-Hsat%Myanmar (Burma)
+LTAF%ADA%Adana%Adana Airport%Turkey
+VABM%IXG%Belgaum (Karnataka)%Belgaum Airport%India
+HKNI%NYE%Nyeri%Nyeri%Kenya
+LGSY%SKU%Skyros (Skiros)%Skyros Island National Airport%Greece
+MWCB%CYB%Cayman Brac%Gerrard-Smith Intl%Cayman Islands
+KPVC%PVC%Provincetown, Massachusetts%Provincetown Municipal Airport%USA
+SKUC%AUC%Arauca%Santiago Perez%Colombia
+LLSD%SDV%Tel Aviv%Sde Dov Airport (Dov Hoz Airport)%Israel
+CYXS%YXS%Prince George, British Columbia%Prince George%Canada
+FOGI%MGX%Moabi%Moabi%Gabon
+LIRQ%FLR%Florence (Firenze)%A. Vespucci Florence Airport%Italy
+CYPL%YPL%Pickle Lake, Ontario%Pickle Lake%Canada
+RKTY%YEC%Yechon%Yechon Aero%South Korea
+OMAA%AUH%Abu Dhabi%Abu Dhabi Intl%United Arab Emirates
+ZSOF%HFE%Hefei%Hefei Luogang Intl Airport%China - Peoples Republic
+CYCO%YCO%Kugluktuk, Northwest Territories%Kugluktuk%Canada
+VTCR%N/A%Chiang Rai%Chiang Rai Airport%Thailand
+OEWD%EWD%Wadi al-Dawasir%Wadi al-Dawasir Domestic Airport%Saudi Arabia
+SPTU%PEM%Puerto Maldonado%Padre Aldamiz%Peru
+CYLA%YPJ%Aupaluk, Quebec%Aupaluk%Canada
+MUBA%BCA%Baracoa%Gustavo Rizo Airport%Cuba
+VELP%AJL%Aizawl (Mizoram)%Lengpui Airport%India
+HKNY%NYK%Nanyuki%Nanyuki%Kenya
+ZHCC%CGO%Zhengzhou%Zhengzhou Xinzheng Intl Airport%China - Peoples Republic
+KATL%ATL%Atlanta, Georgia%Hartsfield-Jackson Atlanta Intl Airport%USA
+UAAH%BXH%Balkhash%Balkhash%Kazakhstan
+LEZG%ZAZ%Zaragoza%Zaragoza Airport%Spain
+ZLYL%UYN%Yulin%Yulin Airport%China - Peoples Republic
+CYIF%YIF%St-Augustin, Quebec%St-Augustin%Canada
+CYMW%YMW%Maniwaki, Quebec%Maniwaki%Canada
+FZKA%BUX%Bunia%Bunia%Congo, Democratic Republic of the
+FNME%SPP%Menongue%Menongue%Angola
+LFDN%RCO%Rochefort%Rochefort - St Agnant Airport%France
+VOMM%MAA%Chennai (Tamil Nadu)%Chennai Intl Airport%India
+RJFM%KMI%Miyazaki%Miyazaki Airport%Japan
+KHXD%HXD%Hilton Head Island, South Carolina%Hilton Head Airport%USA
+CYFS%YFS%Ft Simpson, Northwest Territories%Ft Simpson%Canada
+FOOS%ZKM%Sette-Cama%Sette-Cama%Gabon
+VGRJ%RJH%Rajshahi%Rajshahi Airport%Bangladesh
+LTCP%ADF%Adiyaman%Adiyaman Airport%Turkey
+CKL3%WNN%Wunnumin Lake, Ontario%Wunnumin Lake%Canada
+SKOT%OTU%Remedios%Otu%Colombia
+DAUK%TGR%Touggourt%Touggourt - Sidi Mahdi Airport%Algeria
+ESUT%HMV%Hemavan%Hemavan%Sweden
+VTUL%LOE%Loei%Loei Airport%Thailand
+VEPG%IXT%Pasighat (Passighat)%Pasighat Airport%India
+CYSL%YSL%St-Leonard, New Brunswick%St-Leonard%Canada
+GMTT%TNG%Tanger%Ibn Batouta%Morocco
+MYGF%FPO%Freeport%Grand Bahama Intl Airport (Freeport Intl)%Bahamas
+LICR%REG%Reggio Calabria%Reggio Calabria Airport%Italy
+EDBC%CSO%Magdeburg%Magdeburg%Germany
+MMTG%TGZ%Tuxtla Gutierrez%Llano San Juan Airport%Mexico
+YCBP%CPD%Coober Pedy%Coober Pedy Airport%Australia
+LFOE%EVX%Evreux%Evreux - Fauville Airport%France
+MPDA%DAV%David%Enrique Malek Intl%Panama
+FKKO%BTA%Bertoua%Bertoua%Cameroon
+OYMK%UKR%Mukeiras%Mukeiras%Yemen
+SBKP%VCP%Campinas%Viracopos Intl Airport%Brazil
+YHML%HLT%Hamilton%Hamilton Airport%Australia
+SAZS%BRC%Bariloche%San Carlos de Bariloche Intl Airport%Argentina
+KGTR%GTR%Columbus, Mississippi%Golden Triangle Regional Airport%USA
+VMMC%MFM%Macau%Macau Intl Airport%China - Peoples Republic
+WIIJ%JOG%Yogyakarta%Adisucipto Intl Airport%Indonesia
+FEFT%BBT%Berberati%Berberati%Central Africa
+FZGN%BNB%Boende%Boende%Congo, Democratic Republic of the
+KLAS%LAS%Las Vegas, Nevada%McCarran Intl Airport%USA
+FOOG%POG%Port Gentil%Port Gentil%Gabon
+NWWL%LIF%Lifou%Ouanaham%New Caledonia (France)
+CYWG%YWG%Winnipeg, Manitoba%Winnipeg Intl%Canada
+VA1A%HBX%Hubli (Karnataka)%Hubli Airport (Mil./Civil)%India
+EGBE%CVT%Coventry%Coventry Airport%United Kingdom
+KJAN%JAN%Jackson, Mississippi%Jackson-Evers Intl Airport%USA
+FZFD%BDT%Gbadolite%Gbadolite%Congo, Democratic Republic of the
+FAUP%UTN%Upington%Upington%South Africa
+SKLG%LQM%Puerto Leguizamo%Caucaya%Colombia
+MRLC%LSL%Los Chiles%Los Chiles Airport%Costa Rica
+SAME%MDZ%Mendoza%El Plumerillo Intl Airport%Argentina
+OASN%SGA%Sheghnan%Sheghnan%Afghanistan
+HAFN%FNH%Fincha%Fincha%Ethiopia
+NZGT%GTN%Glentanner%Glentanner%New Zealand
+EDDC%DRS%Dresden%Flughafen Dresden%Germany
+SCPC%ZPC%Pucon%Pucon%Chile
+CYRI%YRI%Riviere-Du-Loup, Quebec%Riviere-Du-Loup%Canada
+FLMA%MNS%Mansa%Mansa%Zambia
+CYKY%YKY%Kindersley, Saskatchewan%Kindersley%Canada
+SBSN%STM%Santarem%Santarem Airport%Brazil
+ZSBB%BFU%Bengbu%Bengbu Airport%China - Peoples Republic
+NFTV%VAV%Vava'u%Vava'u%Tonga
+RKNC%QUN%Chunchon%A-306%South Korea
+GFBN%BTE%Bonthe%Bonthe%Sierra Leone
+KSAW%SAW%Marquette, Michigan%Sawyer Intl Airport%USA
+FMMU%WTA%Tambohorano%Tambohorano%Madagascar
+FZVA%LJA%Lodja%Lodja%Congo, Democratic Republic of the
+RKPK%PUS%Pusan%Kimhae Intl%South Korea
+LTBU%TEQ%Tekirdag%Corlu Airport%Turkey
+KMYR%MYR%Myrtle Beach, South Carolina%Myrtle Beach Intl Airport%USA
+CYLJ%YLJ%Meadow Lake, Saskatchewan%Meadow Lake%Canada
+SKAC%ACR%Araracuara%Araracuara%Colombia
+LDSP%SPU%Split (Trogir)%Airport Split-Kastela%Croatia
+TJSJ%SJU%San Juan%Luis Munoz Marin Intl Airport%Puerto Rico
+YHOT%MHU%Bright%Mount Hotham Airport%Australia
+CYEM%YEM%Manitowaning, Ontario%Manitoulin East Muni.%Canada
+HASD%SXU%Soddo%Soddo%Ethiopia
+OYTZ%TAI%Taiz%Ganed%Yemen
+WBGB%BTU%Bintulu%Bintulu%Malaysia
+SKTD%TDA%Trinidad%Trinidad%Colombia
+MMEP%TPQ%Tepic%Amado Nervo National Airport%Mexico
+FWLK%LIX%Likoma%Likoma%Malawi
+TGPY%GND%St. George's, Grenada%Point Salines Intl Airport%Grenada
+FOOY%MYB%Mayumba%Mayumba%Gabon
+LFRN%RNS%Rennes%Rennes - Saint-Jacques Airport%France
+HTSN%SEU%Seronera%Seronera%Tanzania
+FARI%RVO%Reivilo%Reivilo%South Africa
+LGSR%JTR%Santorini (Thira)%Santorini (Thira) National Airport%Greece
+SYKT%KTO%Kato%Kato%Guyana
+KTTN%TTN%Trenton, New Jersey%Trenton-Mercer Airport%USA
+LPPS%PXO%Porto Santo Island%Porto Santo Airport%Portugal
+LIPD%UDN%Campoformido / Udine%Campoformido Airport%Italy
+KELM%ELM%Elmira, New York%Elmira/Corning Regional Airport%USA
+FNZE%ARZ%N'zeto%N'zeto%Angola
+RKSM%SSN%Seoul%Seoul Ab%South Korea
+YPDN%DRW%Darwin%Darwin Intl Airport%Australia
+LTBH%CKZ%Canakkale%Canakkale Airport%Turkey
+CYGR%YGR%Iles-De-La-Madeleine, Quebec%Iles-De-La-Madeleine%Canada
+GMMZ%OZZ%Ouarzazate%Ouarzazate%Morocco
+FALO%LCD%Louis Trichardt%Louis Trichardt%South Africa
+EFKI%KAJ%Kajaani%Kajaani Airport%Finland
+FMNO%DWB%Soalala%Soalala%Madagascar
+HALA%AWA%Awasa%Awasa%Ethiopia
+KVGT%VGT%Las Vegas, Nevada%North Las Vegas Airport%USA
+WMKK%KUL%Kuala Lumpur%Kuala Lumpur Intl - Sepang%Malaysia
+EFTP%TMP%Tampere%Tampere-Pirkkala Airport%Finland
+NZAA%AKL%Auckland%Auckland Intl Airport%New Zealand
+KINL%INL%Intl Falls, Minnesota%Falls Intl Airport%USA
+CYXZ%YXZ%Wawa, Ontario%Wawa%Canada
+DAUU%OGX%Ouargla%Ouargla Airport%Algeria
+EGSC%CBG%Cambridge%Cambridge City Airport%United Kingdom
+LFBU%ANG%Angouleme%Angouleme - Brie Champniers Airport%France
+EKOD%ODE%Odense%Odense Airport%Denmark
+LFBE%EGC%Bergerac%Bergerac - Roumaniere Airport%France
+YPKA%KTA%Karratha%Karratha Airport%Australia
+RPME%BXU%Butuan%Bancasi Airport%Philippines
+WBSB%BWN%Bandar Seri Begawan%Brunei Intl Airport%Brunei Darussalam
+LFQD%QRV%Arras%Arras - Roclincourt Airport%France
+LFRB%BES%Brest (Guipavas)%Brest Bretagne Airport%France
+SANE%SDE%Santiago del Estero%Vicecomodoro Aragonez Airport%Argentina
+FSIA%SEZ%Seychelles%Seychelles Intl%Seychelles
+HSOB%EBD%El Obeid%El Obeid%Sudan
+CYHK%YHK%Gjoa Haven, Northwest Territories%Gjoa Haven%Canada
+SEMA%MRR%Macara%J M Velasco Ibarra%Ecuador
+KEAT%EAT%Wenatchee, Washington%Pangborn Memorial Airport%USA
+FSPP%PRI%Praslin%Praslin%Seychelles
+OYGD%AAY%Al-Ghaidah%Al-Ghaidah%Yemen
+FBSK%GBE%Gaborone%Sir Seretse Khama Intl%Botsuana
+DFCC%OUG%Ouahigouya%Ouahigouya%Burkina Faso
+SKAS%PUU%Puerto Asis%Tres De Mayo%Colombia
+LFVP%FSP%St. Pierre%St. Pierre Airport%Saint-Pierre and Miquelon
+UNEE%KEJ%Kemerovo%Kemorovo Airport%Russia
+OOSA%SLL%Salalah%Salalah%Oman
+RJFC%KUM%Kagoshima%Yakushima Airport%Japan
+FAVY%VYD%Vryheid%Vryheid%South Africa
+HTSU%SUT%Sumbawanga%Sumbawanga%Tanzania
+RJOT%TAK%Kagawa%Takamatsu Airport%Japan
+NWWU%TOU%Touho%Touho%New Caledonia (France)
+CYXX%YXX%Abbotsford, British Columbia%Abbotsford%Canada
+CJS3%XCL%Cluff Lake, Saskatchewan%Cluff Lake%Canada
+HTMA%MFA%Mafia%Mafia%Tanzania
+CYCH%YCH%Miramichi, New Brunswick%Miramichi%Canada
+FASS%SIS%Sishen%Sishen%South Africa
+LPFR%FAO%Faro%Faro Airport%Portugal
+FAMD%AAM%Malamala%Malamala%South Africa
+VTSG%KBV%Krabi%Krabi Airport%Thailand
+NZCH%CHC%Christchurch%Christchurch Intl%New Zealand
+WMKE%KTE%Kerteh%Kerteh%Malaysia
+FMSY%AMP%Ampanihy%Ampanihy%Madagascar
+MPEJ%ONX%Colon%Enrique Adolfo Jimenez%Panama
+YBRN%BZD%Balranald%Balranald Airport%Australia
+FAPA%AFD%Port Alfred%Port Alfred%South Africa
+LLMR%MIP%Mitzpe Ramon%Mitzpe Ramon Airfield%Israel
+LEVT%VIT%Vitoria-Gasteiz%Vitoria Airport%Spain
+NWWD%KNQ%Kone%Kone%New Caledonia (France)
+FCOS%SOE%Souanke%Souanke%Congo, Republic of
+ZUYB%YBP%Yibin%Yibin Airport%China - Peoples Republic
+EGNL%BWF%Barrow-in-Furness%Barrow/Walney Island Airport%United Kingdom
+YCCA%CCL%Chinchilla%Chinchilla Airport%Australia
+FAPH%PHW%Phalaborwa%Hendrik Van Eck%South Africa
+RJFE%FUJ%Nagasaki%Goto-Fukue Airport%Japan
+ZLJQ%CHW%Jiuquan%Jiuquan Airport%China - Peoples Republic
+SPLN%RIM%Rodriguez De Mendoza%San Nicolas%Peru
+RPUY%CYZ%Cauayan%Cauayan Airport%Philippines
+LFRH%LRT%Lorient%Lorient-Bretagne Sud Airport%France
+YBAS%ASP%Alice Springs%Alice Springs Airport%Australia
+NCAI%AIT%Aitutaki%Avarua%Cook Islands
+KBRO%BRO%Brownsville, Texas%Brownsville/South Padre Island Intl Airport%USA
+NZOU%OAM%Oamaru%Oamaru%New Zealand
+SELA%LGQ%Nueva Loja%Lago Agrio%Ecuador
+RJOC%IZO%Shimane%Izumo Airport%Japan
+RPMX%LLY%Liloy%Liloy Airport%Philippines
+FZMA%BKY%Bukavu%Kavumu%Congo, Democratic Republic of the
+OEYN%YNB%Yanbu%Yanbu Domestic Airport%Saudi Arabia
+HABC%BCO%Baco%Baco%Ethiopia
+CYYB%YYB%North Bay, Ontario%North Bay%Canada
+VIGR%GWL%Gwalior (Madhya Pradesh)%Gwalior Airport (Mil./Civil)%India
+LEVC%VLC%Valencia%Valencia Airport%Spain
+MYCA%ATC%Arthurs Town%Arthurs Town Airport%Bahamas
+KVLD%VLD%Valdosta, Georgia%Valdosta Regional Airport%USA
+ZPLX%YUM%Luxi%Luxi Mangshi Airport%China - Peoples Republic
+SKOC%OCV%Ocana%Aguas Claras%Colombia
+ZSLG%LYG%Lianyungang%Lianyungang Airport%China - Peoples Republic
+N55%UIT%Jabor Jaluit Atoll%Jaluit%Marshall Islands
+RJCC%CTS%Hokkaido%New Chitose Airport%Japan
+HETB%TCP%Taba%Taba Intl Airport%Egypt
+SCTI%ULC%Santiago%Los Cerrillos%Chile
+MMVR%VER%Veracruz%General Heriberto Jara Intl Airport%Mexico
+SBBR%BSB%Brasilia%Presidente Juscelino Kubitschek Intl Airport%Brazil
+SBEG%MAO%Manaus%Eduardo Gomes Intl Airport%Brazil
+NZNP%NPL%New Plymouth%New Plymouth%New Zealand
+FAEM%EMG%Empangeni%Empangeni%South Africa
+YGLA%GLT%Gladstone%Gladstone Airport%Australia
+OIKR%RJN%Rafsanjan%Rafsanjan Airport%Iran
+RPLC%CRK%Angeles City%Diosdado Macapagal Intl Airport (Clark Intl Airport)%Philippines
+UTDD%DYU%Dushanbe%Dushanbe%Tajikistan
+RJFO%OIT%Oita%Oita Airport%Japan
+LIMZ%CUF%Cuneo%Cuneo Levaldigi Airport%Italy
+EDVK%KSF%Calden%Kassel-Calden%Germany
+VTST%TST%Trang%Trang Airport%Thailand
+YGLI%GLI%Glen Innes%Glen Innes Airport%Australia
+GMME%RBA%Rabat%Sale%Morocco
+CYUY%YUY%Rouyn, Quebec%Rouyn-Noranda%Canada
+SLSU%SRE%Sucre%Juana Azurduy De Padilla%Bolivia
+GCLP%LPA%Las Palmas, Gran Canaria%Gran Canaria Intl Airport%Spain
+KBNA%BNA%Nashville, Tennessee%Nashville Intl Airport (Berry Field)%USA
+CYMM%YMM%Ft Mc Murray, Alberta%Ft Mc Murray%Canada
+FOOR%LTL%Lastourville%Lastourville%Gabon
+CCP4%YHA%Port Hope Simpson, Newfoundland%Port Hope Simpson%Canada
+KDTW%DTW%Detroit, Michigan%Detroit Metropolitan Wayne County Airport%USA
+UHBB%BQS%Blagoveschensk%Ignatyevo Airport%Russia
+YLRD%LHG%Lightning Ridge%Lightning Ridge Airport%Australia
+EFVA%VAA%Vaasa%Vaasa Airport%Finland
+NZWB%BHE%Blenheim%Woodbourne (Military)%New Zealand
+HSSJ%JUB%Juba%Juba%Sudan
+HBBE%GID%Gitega%Gitega%Burundi
+EGPU%TRE%Balemartine%Tiree Airport%United Kingdom
+FNPA%PBN%Porto Amboim%Porto Amboim%Angola
+WABB%BIK%Biak, Papua%Frans Kaisiepo Airport%Indonesia
+SLYA%BYC%Yacuiba%Yacuiba%Bolivia
+OTBD%DOH%Doha%Doha Intl Airport%Qatar
+SKPS%PSO%Pasto%Antonio Narino%Colombia
+SKPZ%PZA%Paz De Ariporo%Paz De Ariporo%Colombia
+DTTJ%DJE%Djerba%Zarzis%Tunesia
+KBTV%BTV%Burlington, Vermont%Burlington Intl Airport%USA
+KUNV%UNV%State College, Pennsylvania%University Park Airport%USA
+NCMK%MUK%Mauke%Akatoka Manava%Cook Islands
+ESMO%OSK%Oskarshamn%Oskarshamn%Sweden
+ZSGZ%KOW%Ganzhou%Ganzhou Airport%China - Peoples Republic
+CYAM%YAM%Sault Ste Marie, Ontario%Sault Ste Marie%Canada
+KSTC%STC%St. Cloud, Minnesota%St. Cloud Regional Airport%USA
+LICC%CTA%Catania%Catania-Fontanarossa Airport (Catania Intl Airport)%Italy
+YCMT%CMQ%Clermont%Clermont Airport%Australia
+SKSJ%SJE%San Jose Del Guaviare%Jorge E Gonzalez%Colombia
+HCMM%MGQ%Mogadishu%Mogadishu%Somalia
+ZYTN%TNH%Tonghua%Tonghua Liuhe Airport%China - Peoples Republic
+GLNA%NIA%Grassfield%Nimba-Lamco%Liberia
+LPAZ%SMA%Santa Maria Island%Santa Maria Airport%Portugal
+KBTR%BTR%Baton Rouge, Louisiana%Baton Rouge Metropolitan Airport (Ryan Field)%USA
+SPZO%CUZ%Cuzco%Velazco Astete%Peru
+FGBT%BSG%Bata%Bata Airport%Equatorial Guinea
+FOOM%MZC%Mitzic%Mitzic%Gabon
+CYZW%YZW%Teslin, Yukon Territory%Teslin%Canada
+DAUZ%IAM%Zarzaitine%Zarzaitine - In Amenas Airport%Algeria
+UACC%TSE%Astana%Astana%Kazakhstan
+SAOC%RCU%Rio Cuarto%Las Higueras Airport%Argentina
+LFBA%AGF%Agen%Agen - La Garenne Airport%France
+KSPI%SPI%Springfield, Illinois%Abraham Lincoln Capital Airport%USA
+YTEM%TEM%Temora%Temora Airport%Australia
+TIST%STT%St Thomas I/Charlotte Amalie%King%US Virgin Islands
+KMTJ%MTJ%Montrose, Colorado%Montrose Regional Airport%USA
+HSGG%DNX%Dinder%Galegu%Sudan
+EDDM%MUC%Munchen (Munich)%Munchen (Franz Josef Strauss)%Germany
+YCBA%CAZ%Cobar%Cobar Airport%Australia
+FMSJ%MJA%Manja%Manja%Madagascar
+FCOI%ION%Impfondo%Impfondo%Congo, Republic of
+SVSE%SNV%Santa Elena De Uairen%Santa Elena De Uairen%Venezuela
+YPBO%PBO%Paraburdoo%Paraburdoo Airport%Australia
+CYSH%YSH%Smiths Falls, Ontario%Montague%Canada
+SECO%OCC%Coca%Francisco De Orellana%Ecuador
+EGNT%NCL%Newcastle upon Tyne%Newcastle Airport%United Kingdom
+KSAT%SAT%San Antonio, Texas%San Antonio Intl Airport%USA
+KPDX%PDX%Portland, Oregon%Portland Intl Airport%USA
+ULOO%PKV%Pskov%Pskov Airport%Russia
+SCBA%BBA%Balmaceda%Balmaceda%Chile
+ZUCK%CKG%Chongqing%Chongqing Jiangbei Intl Airport%China - Peoples Republic
+MUOC%CCC%Cayo Coco%Cayo Coco Airport%Cuba
+HAAX%AXU%Axum%Axum%Ethiopia
+KMOT%MOT%Minot, North Dakota%Minot Intl Airport%USA
+ZMAT%LTI%Altai%Altai%Mongolia
+KLRD%LRD%Laredo, Texas%Laredo Intl Airport%USA
+KCRP%CRP%Corpus Christi, Texas%Corpus Christi Intl Airport%USA
+EFJY%JYV%Jyvaskylan%Jyvaskyla Airport%Finland
+CEB5%ZFW%Fairview, Alberta%Fairview%Canada
+DNMN%MXJ%Minna%Minna%Nigeria
+CZJG%ZJG%Jenpeg, Manitoba%Jenpeg%Canada
+CAH3%YCA%Courtenay, British Columbia%Courtenay%Canada
+CCA6%YWM%Williams Harbour, Newfoundland%Williams Harbour%Canada
+KHSV%HSV%Huntsville, Alabama%Huntsville Intl Airport (Carl T. Jones Field)%USA
+EGMD%LYX%Lydd%London Ashford Airport%United Kingdom
+VERC%IXR%Ranchi (Jharkhand)%Birsa Munda Airport%India
+CCB4%YDI%Davis Inlet, Newfoundland%Davis Inlet%Canada
+LRTM%TGM%Targu-Mures%Targu Mures Intl Airport%Romania
+WAAU%KDI%Kendari, South East Sulawesi%Wolter Monginsidi Airport%Indonesia
+FZNP%BNC%Beni%Beni%Congo, Democratic Republic of the
+HAGH%GNN%Ghinnir%Ghinnir%Ethiopia
+RJOR%TTJ%Tottori%Tottori Airport%Japan
+NZWF%WKA%Wanaka%Wanaka%New Zealand
+LIBN%LCC%Lecce%Lecce Airport%Italy
+FZAL%LZI%Luozi%Luozi%Congo, Democratic Republic of the
+SEST%SCY%San Cristobal%San Cristobal%Ecuador
+NFTL%HPA%Ha'apai-Lifuka Island%Ha'apai-Lifuka%Tonga
+CZBD%ILF%Ilford, Manitoba%Ilford%Canada
+OSDI%DAM%Damascus%Damascus Intl%Syria
+LCEN%ECN%Nicosia%Ercan Intl Airport%Cyprus
+GMTA%AHU%Al Hoceima%Cherif Al Idrissi%Morocco
+MYAT%TCB%Treasure Cay (Abaco)%Treasure Cay Airport%Bahamas
+YPKS%PKE%Parkes%Parkes Airport%Australia
+FMNN%NOS%Nosy-Be%Fascene%Madagascar
+SLRA%SRD%San Ramon%San Ramon%Bolivia
+LTAT%MLX%Malatya%Malatya Erhac Airport%Turkey
+CZML%ZMH%108 Mile Ranch, British Columbia%108 Mile%Canada
+KDUJ%DUJ%DuBois, Pennsylvania%DuBois-Jefferson County Airport%USA
+FANC%NCS%Newcastle%Newcastle%South Africa
+EGAA%BFS%Belfast%Belfast Intl Airport%United Kingdom
+ULPB%PES%Petrozavodsk%Besovets Airport%Russia
+LJPZ%POW%Portoroz, Piran%Portoroz Airport%Slovenia
+DXNG%LRL%Niamtougou%Niamtougou%Togo
+KBJI%BJI%Bemidji, Minnesota%Bemidji Regional Airport%USA
+LRBC%BCM%Bacau%Bacau Intl Airport%Romania
+KDRO%DRO%Durango, Colorado%Durango-La Plata County Airport%USA
+SLRY%REY%Reyes%Reyes%Bolivia
+LIPE%BLQ%Bologna%Aeroporto G. Marconi di Bologna%Italy
+SKMD%EOH%Medellin%Olaya Herrera%Colombia
+EFKU%KUO%Kuopio (Toivala)%Kuopio Airport%Finland
+VECO%COH%Cooch Behar (West Bengal)%Cooch Behar Airport%India
+LELL%QSA%Sabadell%Sabadell Airport%Spain
+ENSO%SRP%Leirvik%Stord Airport, Sorstokken%Norway
+FZBI%NIO%Nioki%Nioki%Congo, Democratic Republic of the
+SPME%TBP%Tumbes%Pedro Canga%Peru
+ROYN%OGN%Okinawa%Yonaguni Airport%Japan
+VIGG%DHM%Kangra (Himachal Pradesh)%Gaggal Airport (Kangra Airport)%India
+KGPT%GPT%Gulfport, Mississippi%Gulfport-Biloxi Intl Airport%USA
+ESKM%MXX%Mora%Siljan%Sweden
+LFJR%ANE%Angers%Angers Loire Aeroport Airport%France
+YPKT%PKT%Port Keats%Port Keats Airport%Australia
+ZHHH%WUH%Wuhan%Wuhan Tianhe Airport%China - Peoples Republic
+LRTC%TCE%Tulcea%Tulcea Airport%Romania
+SKCN%RAV%Cravo Norte%Cravo Norte%Colombia
+KCID%CID%Cedar Rapids, Iowa%The Eastern Iowa Airport%USA
+RKSI%ICN%Incheon%Incheon Intl%South Korea
+GAGM%GUD%Goundam%Goundam%Mali
+VTSM%USM%Kho Samui (Ko Samui)%Samui Airport%Thailand
+LFSB%MLH%Basel-Mulhouse%EuroAirport Basel-Mulhouse%France
+CYND%YND%Gatineau, Quebec%Ottawa/Gatineau%Canada
+FYAR%ADI%Arandis%Arandis%Namibia
+FKKV%BPC%Bamenda%Bamenda%Cameroon
+VVDB%DIN%Dien Bien Phu%Dien Bien Phu Airport%Vietnam
+EHLE%LEY%Lelystad%Lelystad Airport%Netherlands
+SPNC%HUU%Huanuco%Alferez David Figueroa Fernan%Peru
+CFC4%XMP%Macmillan Pass, Yukon Territory%Macmillan Pass%Canada
+KSDF%SDF%Louisville, Kentucky%Louisville Intl Airport (Standiford Field)%USA
+KOAJ%OAJ%Jacksonville, North Carolina%Albert J. Ellis Airport%USA
+MHLE%LEZ%La Esperanza%La Esperanza%Honduras
+RPMP%PAG%Pagadian%Pagadian Airport%Philippines
+KIAD%IAD%Chantilly (Washington, D.C.), Virginia%Washington Dulles Intl Airport%USA
+OIAA%ABD%Abadan%Abadan Airport%Iran
+VNLD%LDN%Lamidada%Lamidada%Nepal
+OPRN%ISB%Islamabad%Islamabad Intl Airport (Mil./Civil)%Pakistan
+ZMBU%UUN%Baruun-Urt%Baruun-Urt%Mongolia
+YAYE%AYQ%Yulara%Ayers Rock Airport%Australia
+MMPR%PVR%Puerto Vallarta%Lic. Gustavo Diaz Ordaz Intl Airport%Mexico
+VAKE%IXY%Kandla (Gujarat)%Kandla Airport%India
+MTCH%CAP%Cap Haitien%Cap Haitien Intl%Haiti
+FZRM%KBO%Kabalo%Kabalo%Congo, Democratic Republic of the
+SAZG%GPO%General Pico%General Pico Airport%Argentina
+RJGG%NGO%Aichi%Chubu Intl Airport (Centrair)%Japan
+TNCE%EUX%Sint Eustatius%F.D. Roosevelt Airport%Netherlands Antilles
+CNT3%YOG%Ogoki Post, Ontario%Ogoki Post%Canada
+YPXM%XCH%Christmas Island%Christmas Island Airport%Australia
+ENOV%HOV%Orsta / Volda%Orsta-Volda Airport%Norway
+KDCA%DCA%Arlington (Washington, D.C.), Virginia%Ronald Reagan Washington National Airport%USA
+DFEF%FNG%Fada N'Gourma%Fada N'Gourma%Burkina Faso
+FLMG%MNR%Mongu%Mongu%Zambia
+CZKE%ZKE%Kashechewan, Ontario%Kashechewan%Canada
+OENG%EAM%Najran%Najran Domestic Airport%Saudi Arabia
+EBLG%LGG%Liege%Liege Airport%Belgium
+SKGO%CRC%Cartago%Santa Ana%Colombia
+MTPX%PAX%Port De Paix%Port De Paix%Haiti
+HCMG%GSR%Gardo%Gardo%Somalia
+GQNH%TMD%Timbedra%Timbedra%Mauritania
+EFKS%KAO%Kuusamo%Kuusamo Airport%Finland
+YARA%ARY%Ararat%Ararat Airport%Australia
+HANK%NEK%Nekemte%Nekemte%Ethiopia
+SBRB%RBR%Rio Branco%Presidente Medici Airport%Brazil
+LLOV%VDA%Negev%Ovda Intl Airport%Israel
+NFTF%TBU%Nuku'alofa%Fua'amotu Intl%Tonga
+CYXH%YXH%Medicine Hat, Alberta%Medicine Hat%Canada
+SVMG%PMV%Margarita%Del Caribe Intl Gen Santiago Marino%Venezuela
+MMMY%MTY%Monterrey%General Mariano Escobedo Intl Airport%Mexico
+UKBB%KBP%Kiev%Boryspil Intl Airport%Ukraine
+SKVP%VUP%Valledupar%Alfonso Lopez%Colombia
+OYBN%BHN%Beihan%Beihan%Yemen
+RPMQ%MXI%Mati%Imelda R. Marcos Airport (Mati National Airport)%Philippines
+CYBR%YBR%Brandon, Manitoba%Brandon Muni%Canada
+LLKS%KSW%Qiryat Shemona%Qiryat Shemona Airport%Israel
+VTCP%PRH%Phrae%Phrae Airport%Thailand
+OYAT%AXK%Ataq%Ataq%Yemen
+LFLW%AUR%Aurillac%Aurillac Airport%France
+EGSH%NWI%Norwich%Norwich Intl Airport%United Kingdom
+TNCB%BON%Bonaire%Flamingo Intl Airport%Netherlands Antilles
+EGBN%NQT%Nottingham%Nottingham Airport%United Kingdom
+GFKE%KEN%Kenema%Kenema%Sierra Leone
+SANL%IRJ%La Rioja%Capit%Argentina
+YBNS%BSJ%Bairnsdale%Bairnsdale Airport%Australia
+DFOO%BOY%Bobo-Dioulasso%Bobo-Dioulasso%Burkina Faso
+LFLY%LYN%Lyon%Lyon - Bron Airport%France
+EGTK%OXF%Oxford%Oxford Airport%United Kingdom
+ZSJN%TNA%Jinan%Jinan Yaoqiang Airport%China - Peoples Republic
+EDMA%AGB%Augsburg%Augsburg%Germany
+YIVL%IVR%Inverell%Inverell Airport%Australia
+ESKK%KSK%Karlskoga%Karlskoga%Sweden
+KCWA%CWA%Mosinee, Wisconsin%Central Wisconsin Airport%USA
+FBKE%BBK%Kasane%Kasane%Botsuana
+ESND%EVG%Sveg%Sveg%Sweden
+ENMH%MEH%Mehamn%Mehamn Airport%Norway
+VEBD%IXB%Bagdogra (West Bengal)%Bagdogra Airport (Mil./Civil)%India
+KHOU%HOU%Houston, Texas%William P. Hobby Airport%USA
+LTCJ%BAL%Batman%Batman Airport%Turkey
+FAOH%OUH%Oudtshoorn%Oudtshoorn%South Africa
+UESO%CKH%Chokurdakh%Chokurdakh Airport%Russia
+CYKX%YKX%Kirkland Lake, Ontario%Kirkland Lake%Canada
+YPPD%PHE%Port Hedland%Port Hedland Intl Airport%Australia
+VTPT%TKT%Tak%Tak Airport%Thailand
+VLOS%ODY%Oudomsay%Oudomsay%Laos
+ULAA%ARH%Arkhangelsk%Talagi Airport%Russia
+RPUW%MRQ%Gasan%Marinduque Airport%Philippines
+ENBL%FDE%Forde%F%Norway
+SUSO%STY%Salto%Salto Nueva Hesperides Intl%Uruguay
+HSAT%ATB%Atbara%Atbara%Sudan
+KSMX%SMX%Santa Maria, California%Santa Maria Public Airport (Capt G. Allan Hancock Field)%USA
+OPSN%SYW%Sehwan Sharif%Sehwan Sharif Airport%Pakistan
+PABE%BET%Bethel, Alaska%Bethel Airport%USA
+FZOD%KLY%Kalima%Kalima%Congo, Democratic Republic of the
+ZBSH%SHP%Qinhuangdao%Qinhuangdao Shanhaiguan Airport%China - Peoples Republic
+FNAM%AZZ%Ambriz%Ambriz%Angola
+GQNK%KED%Kaedi%Kaedi%Mauritania
+DIYO%ASK%Yamoussoukro%Yamoussoukro%Ivory Coast
+ZSYT%YNT%Yantai%Yantai Laishan Airport%China - Peoples Republic
+RPUT%TUG%Tuguegarao%Tuguegarao Airport%Philippines
+EGTE%EXT%Exeter%Exeter Intl Airport%United Kingdom
+SVBC%BLA%Barcelona%Gen. Jose Antonio Anzoategui%Venezuela
+FZNA%GOM%Goma%Goma Intl%Congo, Democratic Republic of the
+FBGZ%GNZ%Ghanzi%Ghanzi%Botsuana
+SKPR%PBE%Puerto Berrio%Puerto Berrio%Colombia
+URMT%STW%Stavropol%Shpakovskoye Airport%Russia
+TFFJ%SBH%Saint-Barthelemy%Saint-Barthelemy Airport%Guadeloupe - French Antilles
+LFBH%LRH%La Rochelle%La Rochelle - Ile de Re Airport%France
+VVVH%VII%Vinh%Vinh Airport%Vietnam
+OIMB%XBJ%Birjand%Birjand Airport%Iran
+FYWE%ERS%Windhoek%Eros%Namibia
+EGTO%RCS%Rochester%Rochester Airport, England%United Kingdom
+OBBI%BAH%Bahrain%Bahrain Intl Airport%Bahrain
+CZWL%ZWL%Wollaston Lake, Saskatchewan%Wollaston Lake%Canada
+CYEL%YEL%Elliot Lake, Ontario%Elliot Lake Mun%Canada
+EGPT%PSL%Perth%Perth Airport (Scotland)%United Kingdom
+SYKR%KRM%Karanambo%Karanambo%Guyana
+OIGG%RAS%Rasht%Rasht Airport%Iran
+RJOM%MYJ%Ehime%Matsuyama Airport%Japan
+UTNU%UGC%Urgench%Urgench%Uzbekistan
+KMRY%MRY%Monterey, California%Monterey Peninsula Airport%USA
+GUCY%CKY%Conakry%Gbessia%Guinea
+KBFL%BFL%Bakersfield, California%Meadows Field Airport%USA
+SETU%TUA%Tulcan%El Rosal-Tcrnel Mantilla%Ecuador
+VE46%JGB%Jagdalpur (Chhattisgarh)%Jagdalpur Airport%India
+DAAG%ALG%Algiers%Algiers - Houari Boumediene Airport%Algeria
+KSGU%SGU%St. George, Utah%St. George Municipal Airport%USA
+LFCR%RDZ%Rodez%Rodez - Marcillac Airport%France
+GMFF%FEZ%Fes%Saiss%Morocco
+URMO%OGZ%Vladikavkaz%Beslan Airport%Russia
+SVEZ%EOZ%Elorza%Elorza%Venezuela
+WMKN%TGG%Kuala Terengganu%Sultan Mahmud%Malaysia
+PAPG%PSG%Petersburg, Alaska%Petersburg James A. Johnson Airport%USA
+VOTR%TRZ%Tiruchirapalli (Tamil Nadu)%Tiruchirapalli (Trichy) Intl Airport%India
+KEGE%EGE%Eagle, Colorado%Eagle County Regional Airport%USA
+FCPA%KMK%Makabana%Makabana%Congo, Republic of
+YCRG%CYG%Corryong%Corryong Airport%Australia
+YTWB%TWB%Toowoomba%Toowoomba Airport%Australia
+CYQV%YQV%Yorkton, Saskatchewan%Yorkton%Canada
+LIMF%TRN%Turin (Torino)%Torino Caselle Airport (Turin Intl Airport)%Italy
+LPCR%CVU%Corvo Island%Corvo Airport%Portugal
+DFET%TEG%Tenkodogo%Tenkodogo%Burkina Faso
+TNCA%AUA%Aruba%Queen Beatrix Intl Airport%Aruba (Netherlands)
+FOGO%OYE%Oyem%Oyem%Gabon
+FAVR%VRE%Vredendal%Vredendal%South Africa
+YCOM%OOM%Cooma%Cooma - Snowy Mountains Airport%Australia
+MMJA%JAL%Jalapa (Xalapa)%El Lencero Airport%Mexico
+YCTM%CMD%Cootamundra%Cootamundra Airport%Australia
+WAAA%UPG%Makassar, South Sulawesi%Hasanuddin Airport%Indonesia
+EGYP%MPN%Mount Pleasant%Mount Pleasant Airport%Falkland Islands (UK)
+RPVB%BCD%Bacolod%Bacolod City Domestic Airport%Philippines
+ZHLY%LYA%Luoyang%Luoyang Airport%China - Peoples Republic
+VARK%RAJ%Rajkot (Gujarat)%Rajkot Airport%India
+OPSU%SUL%Sui%Sui Airport%Pakistan
+CZHP%ZHP%High Prairie, Alberta%High Prairie%Canada
+SLVR%VVI%Santa Cruz%Viru Viru Intl%Bolivia
+LFSN%ENC%Nancy%Nancy - Essey Airport%France
+ZLHZ%HZG%Hanzhong%Hanzhong Airport%China - Peoples Republic
+CYAC%YAC%Cat Lake, Ontario%Cat Lake%Canada
+VYHL%HOX%Hommalin%Hommalin%Myanmar (Burma)
+RPVA%TAC%Tacloban%Daniel Z. Romualdez Airport%Philippines
+GVMA%MMO%Maio%Maio%Cape Verde
+GAKA%KNZ%Kenieba%Kenieba%Mali
+FMMS%SMS%Sainte-Marie%Sainte-Marie%Madagascar
+NGTA%TRW%Tarawa I%Bonriki Intl%Kiribati
+EKRK%RKE%Copenhagen%Copenhagen Roskilde Airport%Denmark
+FXSH%SHK%Sehonghong%Sehonghong%Lesotho
+RJSK%AXT%Akita%Akita Airport%Japan
+RJKN%TKN%Kagoshima%Tokunoshima Airport%Japan
+KSYR%SYR%Syracuse, New York%Syracuse Hancock Intl Airport%USA
+OIKY%SYJ%Sirjan%Sirjan Airport%Iran
+ENRA%MQN%Mo i Rana%Mo i Rana Airport%Norway
+RKPU%USN%Ulsan%Ulsan%South Korea
+RPVT%TAG%Tagbilaran%Tagbilaran Airport%Philippines
+HEAT%ATZ%Asyut%Asyut Intl Airport%Egypt
+VEJS%IXW%Jamshedpur (Jharkhand)%Sonari Airport%India
+ULAM%NNM%Naryan-Mar%Naryan-Mar Airport%Russia
+WRSJ%SUB%Surabaya, East Java%Juanda Airport%Indonesia
+CYLH%YLH%Lansdowne House, Ontario%Lansdowne House%Canada
+VTCL%LPT%Lampang%Lampang Airport%Thailand
+FMSN%TDV%Tanandava%Samangoky%Madagascar
+CYLD%YLD%Chapleau, Ontario%Chapleau%Canada
+ETNL%RLG%Laage%Rostock-Laage (Mil./Civil)%Germany
+SKBC%ELB%El Banco%El Banco Apt.%Colombia
+VGHS%DAC%Dhaka%Hazrat Shahjalal International Airport%Bangladesh
+EGGD%BRS%Bristol%Bristol Intl Airport%United Kingdom
+KAUS%AUS%Austin, Texas%Austin-Bergstrom Intl Airport%USA
+UTSB%BHK%Bukhara%Bukhara%Uzbekistan
+RORH%HTR%Okinawa%Hateruma Airport%Japan
+EDFH%HHN%Hahn%Frankfurt-Hahn%Germany
+UHMM%GDX%Magadan%Sokol Airport%Russia
+VTBD%BKK%Bangkok%Bangkok Intl Airport%Thailand
+NZNR%NPE%Napier%Napier%New Zealand
+CYSP%YSP%Marathon, Ontario%Marathon%Canada
+FCOO%FTX%Owando%Owando%Congo, Republic of
+TFFB%BBR%Basse-Terre%Baillif Airport%Guadeloupe - French Antilles
+SVIC%ICA%Icabaru%Icabaru%Venezuela
+SPJR%CJA%Cajamarca%Gen Armando Revoredo Iglesias%Peru
+SCTO%ZIC%Victoria%Victoria%Chile
+SKSV%SVI%San Vicente Del Caguan%San Vicente Del Caguan%Colombia
+UHPP%PKC%Petropavlovsk - Kamchatsky%Yelizovo Airport%Russia
+HAJM%JIM%Jimma%Aba Segud%Ethiopia
+CYTS%YTS%Timmins, Ontario%Timmins%Canada
+CYDQ%YDQ%Dawson Creek, British Columbia%Dawson Creek%Canada
+EETN%TLL%Tallinn%Tallinn Airport%Estonia
+YSSY%SYD%Mascot%Sydney (Kingsford Smith) Intl Airport%Australia
+SCTN%WCH%Chaiten%Chaiten%Chile
+VTPH%HHQ%Hua Hin / Prachuap Khiri Khan%Hua Hin Airport%Thailand
+LEAS%OVD%Asturias%Asturias Airport%Spain
+HAGB%GOB%Goba%Robe%Ethiopia
+SKCO%TCO%Tumaco%La Florida%Colombia
+MDPO%EPS%Samana%El Portillo Airport%Dominican Republic
+YSPT%SHQ%Southport%Southport Airport%Australia
+CYDM%XRR%Ross River, Yukon Territory%Ross River%Canada
+PAMR%MRI%Anchorage, Alaska%Merrill Field%USA
+LICT%TPS%Trapani%Vincenzo Florio Airport (Birgi Airport)%Italy
+MDCZ%COZ%Constanza%Constanza Airport%Dominican Republic
+CFJ2%YFJ%Wekweti, Northwest Territories%Wekweti%Canada
+LGSA%CHQ%Chania, Crete%Chania Intl Airport (Ioannis Daskalogiannis)%Greece
+KBTM%BTM%Butte, Montana%Bert Mooney Airport%USA
+DIKO%HGO%Korhogo%Korhogo%Ivory Coast
+EDFM%MHG%Mannheim%Mannheim - City%Germany
+OEWJ%EJH%Wedjh%Wedjh Domestic Airport%Saudi Arabia
+LEAM%LEI%Almeria%Almeria Intl Airport%Spain
+RJBB%KIX%Osaka%Kansai Intl Airport%Japan
+LIMG%ALL%Albenga%Villanova d'Albenga Intl Airport (C. Panero Airport)%Italy
+VLSV%VNA%Saravane%Saravane%Laos
+ESMQ%KLR%Kalmar%Kalmar%Sweden
+EFKK%KOK%Kokkola%Kruunupyy Airport%Finland
+UERR%MJZ%Mirny (Mirnyj)%Mirny Airport%Russia
+SESM%PTZ%Shell Mera%Rio Amazonas%Ecuador
+SVGD%GDO%Guasdualito%Guasdualito%Venezuela
+YPMQ%PQQ%Port Macquarie%Port Macquarie Airport%Australia
+FMNQ%BPY%Besalampy%Besalampy%Madagascar
+CYXC%YXC%Cranbrook, British Columbia%Cranbrook%Canada
+EGPB%LSI%Shetland Islands%Sumburgh Airport%United Kingdom
+KTYS%TYS%Knoxville, Tennessee%McGhee Tyson Airport%USA
+YBLA%BLN%Benalla%Benalla Airport%Australia
+VOTP%TIR%Tirupati (Andhra Pradesh)%Tirupati Airport%India
+ZLXY%XIY%Xi'an%Xi'an Xianyang Intl Airport%China - Peoples Republic
+MMMT%MTT%Minatitlan%Minatitlan/Coatzacoalcos National Airport%Mexico
+LIQS%SAY%Siena%Siena Airport%Italy
+FEFY%AIG%Yalinga%Yalinga%Central Africa
+SPYL%TYL%Talara%Capitan Montes%Peru
+YWYY%BWT%Burnie%Burnie Airport%Australia
+OEDW%DWD%Dawadmi%Dawadmi Domestic Airport%Saudi Arabia
+LGRX%GPA%Araxos%Araxos National Airport%Greece
+YRED%RCL%Redcliffe%Redcliffe Airport%Australia
+USSS%SVX%Yekaterinburg (Sverdlovsk)%Koltsovo Intl Airport%Russia
+EGBJ%GLO%Staverton%Gloucestershire Airport%United Kingdom
+RPLU%LBX%Lubang%Lubang Airport%Philippines
+SKHA%CPL%Chaparral%Gen Navas Pardo%Colombia
+RPLI%LAO%Laoag%Laoag Intl Airport%Philippines
+CYFB%YFB%Iqaluit, Northwest Territories%Iqaluit%Canada
+LEIB%IBZ%Ibiza%Ibiza Airport%Spain
+CYMH%YMH%Marys Harbour, Newfoundland%Marys Harbour%Canada
+MMSP%SLP%San Luis Potosi%Ponciano Arriaga Intl Airport%Mexico
+KGRR%GRR%Grand Rapids, Michigan%Gerald R. Ford Intl Airport%USA
+LFMU%BZR%Beziers%Beziers - Vias Airport%France
+CAM3%DUQ%Duncan, British Columbia%Duncan%Canada
+KFWA%FWA%Fort Wayne, Indiana%Fort Wayne Intl Airport%USA
+VTSP%HKT%Phuket%Phuket Intl Airport%Thailand
+SKIB%IBE%Ibague%Perales%Colombia
+EFPO%POR%Pori%Pori Airport%Finland
+LGKC%KIT%Kythira (Kithira)%Kithira Island National Airport%Greece
+WRKK%KOE%Kupang, East Nusa Tenggara%El Tari Airport%Indonesia
+HKGA%GAS%Garissa%Garissa%Kenya
+ESSP%NRK%Norrkoping%Kungsangen%Sweden
+EPZG%IEG%Zielona Gora%Zielona Gora Intl Airport%Poland
+CYBT%YBT%Brochet, Manitoba%Brochet%Canada
+ZSFY%FUG%Fuyang%Fuyang Airport%China - Peoples Republic
+FLND%NLA%Ndola%Ndola%Zambia
+LFCC%ZAO%Cahors%Cahors - Lalbenque Airport%France
+CYQX%YQX%Gander, Newfoundland%Gander Intl%Canada
+SETR%TPC%Tarapoa%Tarapoa%Ecuador
+OICC%KSH%Kermanshah%Shahid Ashrafi Esfahani Airport%Iran
+LGKF%EFL%Kefalonia%Kefalonia Island Intl Airport%Greece
+KTXK%TXK%Texarkana, Arkansas%Texarkana Regional Airport (Webb Field)%USA
+CNL3%XBR%Brockville, Ontario%Brockville%Canada
+BIAR%AEY%Akureyri%Akureyri Airport%Iceland
+CYMO%YMO%Moosonee, Ontario%Moosonee%Canada
+CYVB%YVB%Bonaventure, Quebec%Bonaventure%Canada
+VCCT%TRR%Trincomalee%China Bay AB%Sri Lanka
+MRLB%LIR%Liberia%Daniel Oduber Intl Airport%Costa Rica
+LIRN%NAP%Naples%Naples Intl Airport (Capodichino Airport)%Italy
+LFLX%CHR%Chateauroux%Chateauroux-Deols-Marcel Dassault Airport%France
+KLAW%LAW%Lawton , Oklahoma%Lawton-Fort Sill Regional Airport%USA
+HTLI%LDI%Lindi%Lindi%Tanzania
+RJSN%KIJ%Niigata%Niigata Airport%Japan
+RPMZ%ZAM%Zamboanga%Zamboanga Intl Airport%Philippines
+EPSC%SZZ%Szczecin%Szczecin-Goleniow Solidarnosc Airport%Poland
+ZYHB%HRB%Harbin%Harbin Taiping Intl Airport%China - Peoples Republic
+EISG%SXL%Strandhill%Sligo Airport%Ireland
+ESGG%GOT%Goteborg%Landvetter%Sweden
+ZKPY%FNJ%Pyongyang%Sunan%North Korea
+MMCN%CEN%Ciudad Obregon%Ciudad Obregon Intl Airport%Mexico
+VOBZ%VGA%Vijayawada (Andhra Pradesh)%Vijayawada Airport%India
+FZQM%KWZ%Kolwezi%Kolwezi%Congo, Democratic Republic of the
+SVPA%PYH%Puerto Ayacucho%Puerto Ayacucho%Venezuela
+YBNA%BNK%Ballina%Ballina-Byron Gateway Airport%Australia
+CYBQ%XTL%Tadoule Lake, Manitoba%Tadoule Lake%Canada
+EICM%GWY%Carnmore%Galway Airport%Ireland
+VLLN%LXG%Luang Namtha%Luang Namtha%Laos
+PABR%BRW%Barrow, Alaska%Wiley Post-Will Rogers Memorial Airport%USA
+FBTL%TLD%Tuli Lodge%Tuli Block%Botsuana
+VLVT%VTE%Vientiane%Wattay Intl%Laos
+KALO%ALO%Waterloo, Iowa%Waterloo Regional Airport%USA
+MGCB%CBV%Coban%Coban Airport%Guatemala
+SBLO%LDB%Londrina%Londrina Airport%Brazil
+HCMU%ERA%Erigavo%Erigavo%Somalia
+KHLN%HLN%Helena, Montana%Helena Regional Airport%USA
+FQNC%MNC%Nacala%Nacala%Mozambique
+YSCH%CFS%Coffs Harbour%Coffs Harbour Airport%Australia
+FZFA%LIE%Libenge%Libenge%Congo, Democratic Republic of the
+OIHH%HDM%Hamadan%Hamadan Airport%Iran
+LTCO%AJI%Agri%Agri Airport%Turkey
+ESNH%HUV%Hudiksvall%Hudiksvall%Sweden
+OPPC%PAJ%Parachinar%Parachinar Airport%Pakistan
+LPCV%COV%Covilha%Covilha Airport%Portugal
+CYYJ%YYJ%Victoria, British Columbia%Victoria Intl%Canada
+RJOO%ITM%Hyogo%Osaka Intl Airport (Itami)%Japan
+ESOH%HFS%Hagfors%Hagfors%Sweden
+EGPK%PIK%Glasgow%Glasgow Prestwick Intl Airport%United Kingdom
+DISP%SPY%San Pedro%San Pedro%Ivory Coast
+KOTH%OTH%North Bend, Oregon%Southwest Oregon Regional Airport (was North Bend Municipal)%USA
+KHVN%HVN%New Haven, Connecticut%Tweed-New Haven Airport%USA
+VOPB%IXZ%Port Blair (Andaman and Nicobar Islands)%Port Blair Airport%India
+FYWH%WDH%Windhoek%Hosea Kutako Intl%Namibia
+VCCB%BTC%Batticaloa%Batticaloa AB%Sri Lanka
+VNRK%RUK%Rukumkot%Rukumkot%Nepal
+CYFO%YFO%Flin Flon, Manitoba%Flin Flon%Canada
+OSAP%ALP%Aleppo%Aleppo Intl%Syria
+EDDS%STR%Stuttgart%Stuttgart%Germany
+FZGA%LIQ%Lisala%Lisala%Congo, Democratic Republic of the
+KLGB%LGB%Long Beach, California%Long Beach Municipal Airport (Daugherty Field)%USA
+SBGR%GRU%Sao Paulo%Guarulhos Intl Airport%Brazil
+MMCU%CUU%Chihuahua%General Roberto Fierro Villalobos Intl Airport%Mexico
+LGML%MLO%Milos%Milos Island National Airport%Greece
+EGLL%LHR%London%London Heathrow Airport%United Kingdom
+KTYR%TYR%Tyler, Texas%Tyler Pounds Regional Airport%USA
+CZFM%ZFM%Ft Mc Pherson, Northwest Territories%Ft Mc Pherson%Canada
+FLZB%BBZ%Zambezi%Zambezi%Zambia
+HCMC%CXN%Candala%Candala%Somalia
+RJTO%OIM%Tokyo%Oshima Airport%Japan
+SKMU%MVP%Mitu%Fabio A Leon Bentley%Colombia
+LFCI%LBI%Albi%Albi - Le Sequestre Airport%France
+SPST%TPP%Tarapoto%Cdte.Guillermo D Castillo Par.%Peru
+RPMF%BPH%Bislig%Bislig Airport%Philippines
+SOCA%CAY%Cayenne%Cayenne - Rochambeau%French Guiana
+LFHO%OBS%Aubenas%Aubenas Ardeche meridionale Airport%France
+HAKD%ABK%Kebri Dehar%Kebri Dehar%Ethiopia
+VAND%NDC%Nanded (Maharashtra)%Shri Guru Gobind Singh Ji Airport%India
+MRCR%RIK%Carrillo%Carrillo Airport%Costa Rica
+SKYP%EYP%El Yopal%El Yopal%Colombia
+UKWW%VIN%Vinnytsia%Vinnytsia Airport%Ukraine
+OPTA%TLB%Tarbela Dam%Tarbela Dam Airport%Pakistan
+MGQC%AQB%Quiche%Quiche Airport%Guatemala
+RPNS%SIA%Siargao%Siargao Airport%Philippines
+FNGI%NGV%N'giva%N'giva%Angola
+LQSA%SJJ%Sarajevo%Sarajevo Intl Airport%Bosnia-Hercegovina
+FZAA%FIH%Kinshasa%N'djili Intl%Congo, Democratic Republic of the
+SKBQ%BAQ%Barranquilla%Ernesto Cortissoz%Colombia
+CYYD%YYD%Smithers, British Columbia%Smithers%Canada
+LTAN%KYA%Konya%Konya Airport%Turkey
+HKMO%MBA%Mombasa%Moi%Kenya
+ZYJM%JMU%Jiamusi%Jiamusi Airport%China - Peoples Republic
+FMNJ%IVA%Ambanja%Ampapamena%Madagascar
+DNMM%LOS%Lagos%Murtala Muhammed%Nigeria
+OIBS%SXI%Sirri Island%Sirri Island Airport%Iran
+MMCM%CTM%Chetumal%Chetumal Intl Airport%Mexico
+LPCH%CHV%Chaves%Chaves Airport%Portugal
+LIBF%FOG%Foggia%Gino Lisa Airport%Italy
+RPLL%MNL%Manila%Ninoy Aquino Intl Airport%Philippines
+SAVR%ARR%Alto Rio Senguer%Alto Rio Senguer Airport%Argentina
+EDLN%MGL%Monchengladbach%Monchengladbach%Germany
+CYTQ%YTQ%Tasiujaq, Quebec%Tasiujaq%Canada
+WRSQ%SOC%Surakarta (Solo), Central Java%Adisumarmo Intl Airport%Indonesia
+RJSI%HNA%Iwate%Hanamaki Airport%Japan
+UAAA%ALA%Almaty%Almaty%Kazakhstan
+YDYS%DYA%Dysart%Dysart Airport%Australia
+SPMS%YMS%Yurimaguas%Moises Benzaquen Rengifo%Peru
+KCHS%CHS%Charleston, South Carolina%Charleston Intl Airport (Civil/Mil.)%USA
+WBKK%BKI%Kota Kinabalu%Kota Kinabalu%Malaysia
+KCOU%COU%Columbia, Missouri%Columbia Regional Airport%USA
+SKMR%MTR%Monteria%Los Garzones%Colombia
+ZJHK%HAK%Haikou%Haikou Meilan Intl Airport%China - Peoples Republic
+DISS%ZSS%Sassandra%Sassandra%Ivory Coast
+NZKO%KKO%Kaikohe%Kaikohe%New Zealand
+WITT%BTJ%Banda Aceh, Aceh%Sultan Iskandarmuda Airport%Indonesia
+LFHP%LPY%Le Puy%Le Puy-en-Velay - Loudes Airport%France
+GAKO%KTX%Koutiala%Koutiala%Mali
+OEGN%GIZ%Gizan%Gizan Regional Airport%Saudi Arabia
+KIYK%IYK%Inyokern, California%Inyokern Airport%USA
+SPGM%TGI%Tingo Maria%Tingo Maria%Peru
+CZUC%ZUC%Ignace, Ontario%Ignace Mun%Canada
+WADD%DPS%Denpasar, Bali%Bali Intl Airport%Indonesia
+ZWSH%KHG%Kashgar (Kashi)%Kashgar Airport (Kashi Airport)%China - Peoples Republic
+CZPC%WPC%Pincher Creek, Alberta%Pincher Creek%Canada
+NZGB%GBZ%Great Barrier%Great Barrier%New Zealand
+KRDU%RDU%Raleigh, North Carolina%Raleigh-Durham Intl Airport%USA
+FKYS%NSI%Yaounde%Nsimalen%Cameroon
+MRPV%SYQ%San Jose%Tobias Bolanos Intl Airport%Costa Rica
+CYYC%YYC%Calgary, Alberta%Calgary Intl%Canada
+CYRT%YRT%Rankin Inlet, Northwest Territories%Rankin Inlet%Canada
+LCPH%PFO%Paphos%Paphos Intl Airport%Cyprus
+LIMJ%GOA%Genoa (Genova)%Genoa Cristoforo Colombo Airport%Italy
+VYPT%PBU%Putao%Putao%Myanmar (Burma)
+OONR%OMM%Marmul%Marmul%Oman
+VLSB%ZBY%Sayaboury%Sayaboury%Laos
+CYQB%YQB%Quebec, Quebec%Quebec - Jean Lesage Intl Airport%Canada
+MYER%RSD%Rock Sound%Rock Sound Intl Airport%Bahamas
+OPKC%KHI%Karachi%Jinnah Intl Airport%Pakistan
+LOWI%INN%Innsbruck%Innsbruck%Austria
+MUMZ%MZO%Manzanillo%Sierra Maestra Airport%Cuba
+ROKR%KJP%Okinawa%Kerama Airport%Japan
+SEMT%MEC%Manta%Eloy Alfaro Intl%Ecuador
+LGMT%MJT%Mytilene (Mitilini), Lesbos%Mytilene Intl Airport (Odysseas Elytis)%Greece
+EGPL%BEB%Benbecula%Benbecula Airport%United Kingdom
+SKMG%MGN%Magangue%Baracoa%Colombia
+KCOS%COS%Colorado Springs, Colorado%City of Colorado Springs Municipal Airport%USA
+YCOR%CWW%Corowa%Corowa Airport%Australia
+CCK4%YFX%St Lewis, Newfoundland%Fox Harbour%Canada
+DFOB%BNR%Banfora%Banfora%Burkina Faso
+KFSM%FSM%Fort Smith, Arkansas%Fort Smith Regional Airport%USA
+FAJS%JNB%Johannesburg%Johannesburg Intl%South Africa
+FLSN%SXG%Senanga%Senanga%Zambia
+LFOQ%XBQ%Blois (Villefrancoeur)%Blois - Le Breuil Airport%France
+RJSC%GAJ%Yamagata%Yamagata Airport%Japan
+PACV%CDV%Cordova, Alaska%Merle K. Mudhole Smith Airport%USA
+VAJM%JGA%Jamnagar (Gujarat)%Jamnagar Airport (Mil./Civil)%India
+ZUGY%KWE%Guiyang%Guiyang Longdongbao Airport%China - Peoples Republic
+FEGZ%BOZ%Bozoum%Bozoum%Central Africa
+LLEY%EIY%Ein Yahav%Ein Yahav Airfield%Israel
+EGNH%BLK%Blackpool%Blackpool Intl Airport%United Kingdom
+SARE%RES%Resistencia%Resistencia Intl Airport%Argentina
+FACT%CPT%Cape Town%Cape Town Intl%South Africa
+HEAX%ALY%Alexandria%Alexandria Intl Airport%Egypt
+KDBQ%DBQ%Dubuque, Iowa%Dubuque Regional Airport%USA
+EGLK%BBS%Camberley%Blackbushe Airport%United Kingdom
+DIGN%BBV%Grand Bereby%Nero-Mer%Ivory Coast
+TJMZ%MAZ%Mayaguez%Eugenio Mar%Puerto Rico
+HTKJ%JRO%Kilimanjaro%Kilimanjaro Intl%Tanzania
+SVMI%CCS%Maiquetia%Simon Bolivar Intl%Venezuela
+LYPA%QBG%Pancevo%Pancevo Airport%Serbia
+RORY%RNJ%Kagoshima%Yoron Airport%Japan
+SPUR%PIU%Piura%Capt Guillermo Concha Iberico%Peru
+CYSB%YSB%Sudbury, Ontario%Sudbury%Canada
+CZSN%XSI%South Indian Lake, Manitoba%South Indian Lake%Canada
+YHID%HID%Horn Island%Horn Island Airport%Australia
+BIST%SYK%Stykkisholmur%Stykkisholmur Airport%Iceland
+OSPR%PMS%Palmyra%Palmyra%Syria
+HAMN%NDM%Mendi%Mendi%Ethiopia
+ZHYC%YIH%Yichang%Yichang Airport%China - Peoples Republic
+OETB%TUU%Tabuk%Tabuk Regional Airport%Saudi Arabia
+BGSC%OBY%Ittoqqortoormiit (Scoresbysund)%Scoresbysund Airport%Greenland (Denmark)
+LGIK%JIK%Ikaria%Ikaria Island National Airport%Greece
+MMPG%PDS%Piedras Negras%Piedras Negras Intl Airport%Mexico
+HRYG%GYI%Gisenyi%Gisenyi%Rwanda
+KSUX%SUX%Sioux City, Iowa%Sioux Gateway Airport (Col. Bud Day Field)%USA
+GQNJ%AJJ%Akjoujt%Akjoujt%Mauritania
+HKLY%LOY%Loyangalani%Loyangalani%Kenya
+LTCC%DIY%Diyarbakir%Diyarbakir Airport%Turkey
+FLMF%MFU%Mfuwe%Mfuwe%Zambia
+MMLM%LMM%Los Mochis%Federal del Valle del Fuerte Intl Airport%Mexico
+EFIV%IVL%Ivalo%Ivalo Airport%Finland
+DIBK%BYK%Bouake%Bouake%Ivory Coast
+KMOB%MOB%Mobile, Alabama%Mobile Regional Airport%USA
+KCLE%CLE%Cleveland, Ohio%Cleveland-Hopkins Intl Airport%USA
+UIUU%UUD%Ulan-Ude%Mukhino Airport%Russia
+UTSS%SKD%Samarkand%Samarkand%Uzbekistan
+SCTT%TTC%Taltal%Las Breas%Chile
+RJCB%OBO%Hokkaido%Obihiro Airport (Tokachi-Obihiro)%Japan
+FMML%BMD%Belo%Tsiribihina%Madagascar
+SKIG%IGO%Chigorodo%Chigorodo%Colombia
+EDDR%SCN%Saarbrucken%Saarbrucken%Germany
+ETSI%IGS%Manching%Ingolstadt-Manching%Germany
+LERS%REU%Reus, Tarragona%Reus Airport%Spain
+RPUB%BAG%Baguio%Loakan Airport%Philippines
+PHTO%ITO%Hilo, Hawaii%Hilo Intl Airport%USA
+SEQU%UIO%Quito%Mariscal Sucre Intl%Ecuador
+RKSO%OSN%Osan%Osan Ab%South Korea
+LGSM%SMI%Samos%Samos Intl Airport (Aristarchos)%Greece
+GFGK%GBK%Gbangbatoke%Gbangbatoke%Sierra Leone
+MMVA%VSA%Villahermosa%Carlos Rovirosa Perez Intl Airport%Mexico
+VAPO%PNQ%Pune (Maharashtra)%Pune Airport (Mil./Civil)%India
+ESNO%OER%Ornskoldsvik%Ornskoldsvik%Sweden
+VYGG%GAW%Gantgaw%Gantgaw%Myanmar (Burma)
+RPVO%OMC%Ormoc%Ormoc Airport%Philippines
+ENNK%NVK%Narvik%Narvik Airport%Norway
+ENBO%BOO%Bodo%Bodo Airport%Norway
+YLEO%LNO%Leonora%Leonora Airport%Australia
+CJL2%YDJ%Hatchet Lake, Saskatchewan%Hatchet Lake%Canada
+EGFE%HAW%Haverfordwest%Haverfordwest Aerodrome%United Kingdom
+PAJN%JNU%Juneau, Alaska%Juneau Intl Airport%USA
+OIMC%CKT%Sarakhs%Sarakhs Airport%Iran
+KATW%ATW%Appleton, Wisconsin%Outagamie County Regional Airport%USA
+GQNL%MOM%Moudjeria%Letfotar%Mauritania
+ZLJN%JNG%Jining%Jining Airport%China - Peoples Republic
+GMMC%CAS%Casablanca%Anfa%Morocco
+FKKI%OUR%Batouri%Batouri%Cameroon
+ENNO%NTB%Notodden%Notodden Airport%Norway
+MNMG%MGA%Managua%Augusto Cesar Sandino%Nicaragua
+ESNU%UME%Umea%Umea%Sweden
+WMKP%PEN%Penang I%Penang Intl%Malaysia
+CYQF%YQF%Red Deer, Alberta%Red Deer Industrial%Canada
+DAOB%TID%Tiaret%Tiaret - Bou Chekif Airport%Algeria
+KAMA%AMA%Amarillo, Texas%Rick Husband Amarillo Intl Airport%USA
+VYMK%MYT%Myitkyina%Pamti%Myanmar (Burma)
+EGGP%LPL%Liverpool%Liverpool John Lennon Airport%United Kingdom
+VTPU%UTR%Uttaradit%Uttaradit Airport%Thailand
+LEXJ%SDR%Santander%Santander Airport%Spain
+PASC%SCC%Deadhorse, Alaska%Deadhorse Airport%USA
+FASC%ZEC%Secunda%Secunda%South Africa
+VGEG%CGP%Chittagong%Shah Amanat Intl Airport (M.A. Hannan Int'l)%Bangladesh
+UKKK%IEV%Kiev%Zhuliany Intl Airport%Ukraine
+VDBG%BBM%Battambang Combodia%Battambang%Cambodia
+YAPH%ABH%Alpha%Alpha Airport%Australia
+CYAG%YAG%Ft Frances, Ontario%Ft Frances Mun%Canada
+KACK%ACK%Nantucket, Massachusetts%Nantucket Memorial Airport%USA
+MMZH%ZIH%Ixtapa-Zihuatanejo%Ixtapa-Zihuatanejo Intl Airport%Mexico
+RJFT%KMJ%Kumamoto%Kumamoto Airport%Japan
+LPMA%FNC%Funchal%Madeira Airport%Portugal
+CYMT%YMT%Chibougamau, Quebec%Chapais%Canada
+EGPH%EDI%Edinburgh%Edinburgh Airport%United Kingdom
+FVWN%HWN%Hwange%Hwange National Park%Zimbabwe
+EGPA%KOI%Kirkwall%Kirkwall Airport%United Kingdom
+PANI%ANI%Aniak, Alaska%Aniak Airport%USA
+YHSM%HSM%Horsham%Horsham Airport%Australia
+NWWK%KOC%Koumac%Koumac%New Caledonia (France)
+FYGF%GFY%Grootfontein%Grootfontein%Namibia
+FEFN%NDL%N'dele%N'dele%Central Africa
+CYPO%YPO%Peawanuck, Ontario%Peawanuck%Canada
+GMMX%RAK%Marrakech%Menara%Morocco
+ESSD%BLE%Borlange%Borlange%Sweden
+SBCF%CNF%Belo Horizonte%Tancredo Neves Intl Airport%Brazil
+RPUZ%BGN%Bagabag%Bagabag Airport%Philippines
+SPJI%JJI%Juanjui%Juanjui%Peru
+SKAO%MCJ%Maicao%San Jose De Maicao%Colombia
+OIIE%IKA%Tehran%Imam Khomeini Intl Airport%Iran
+SLBJ%BJO%Bermejo%Bermejo%Bolivia
+CYQH%YQH%Watson Lake, Yukon Territory%Watson Lake%Canada
+KTPA%TPA%Tampa, Florida%Tampa Intl Airport%USA
+DFFD%OUA%Ouagadougou%Ouagadougou%Burkina Faso
+FCOK%KEE%Kelle%Kelle%Congo, Republic of
+SCCH%YAI%Chillan%Gen. Bernardo O'higgins%Chile
+SBBE%BEL%Belem%Val de C%Brazil
+YBCG%OOL%Coolangatta%Gold Coast Airport%Australia
+MUVT%VTU%Las Tunas%Hermanos Ameijeiras Airport%Cuba
+VIPT%PGH%Pantnagar (Uttrakhand)%Pantnagar Airport%India
+PHKO%KOA%Kailua / Kona, Hawaii%Kona Intl Airport at Keahole%USA
+EGCC%MAN%Manchester%Manchester Intl Airport%United Kingdom
+LQMO%OMO%Mostar%Mostar Intl Airport%Bosnia-Hercegovina
+OPJI%JIW%Jiwani%Jiwani Airport%Pakistan
+ZYDD%DDG%Dandong%Dandong Airport%China - Peoples Republic
+EGTG%FZO%Filton%Filton Aerodrome%United Kingdom
+MUCU%SCU%Santiago%Antonio Maceo Intl Airport%Cuba
+CYPD%YPS%Port Hawkesbury, Nova Scotia%Port Hawkesbury%Canada
+CKB6%YAX%Angling Lake, Ontario%Wapakeka%Canada
+HKMB%RBT%Marsabit%Marsabit%Kenya
+VCCJ%JAF%Jaffna%Kankesanturai AB%Sri Lanka
+UMMG%GNA%Grodno%Grodno%Belarus
+MTJE%JEE%Jeremie%Jeremie%Haiti
+DFON%XNU%Nouna%Nouna%Burkina Faso
+MYEM%GHB%Governor's Harbour%Governor's Harbour Airport%Bahamas
+ESNX%AJR%Arvidsjaur%Arvidsjaur%Sweden
+YMAY%ABX%Albury%Albury Airport%Australia
+EDSB%FKB%Rheinmuenster%Karlsruhe/Baden-Baden%Germany
+CYKG%YWB%Kangiqsujuaq, Quebec%Kangiqsujuaq Wakeham Bay%Canada
+LTAZ%NAV%Nevsehir%Nevsehir Kapadokya Airport%Turkey
+RKJM%MPK%Mokpo%Mokpo%South Korea
+NZMS%MRO%Masterton%Masterton%New Zealand
+CYQG%YQG%Windsor, Ontario%Windsor%Canada
+AGGM%MUA%Munda New Georgia Island%Munda%Solomon Islands
+FVWT%WKI%Hwange%Hwange Town%Zimbabwe
+VOMD%IXM%Madurai (Tamil Nadu)%Madurai Airport%India
+UTAA%ASB%Ashgabat%Ashgabat%Turkmenistan
+ENLI%FAN%Farsund%Farsund Airport%Norway
+LDOS%OSI%Osijek%Osijek Airport%Croatia
+YTGM%XTG%Thargomindah%Thargomindah Airport%Australia
+DTMB%MIR%Monastir%Habib Bourguiba%Tunesia
+HALL%LLI%Lalibella%Lalibella%Ethiopia
+ENSH%SVJ%Svolvaer%Svolvae Airport%Norway
+VIJP%JAI%Jaipur (Rajasthan)%Jaipur Intl Airport%India
+KAPF%APF%Naples, Florida%Naples Municipal Airport%USA
+OEBA%ABT%al-Baha%al-Baha Domestic Airport%Saudi Arabia
+LFNA%GAT%Gap%Tallard Airport%France
+LFRK%CFR%Caen%Caen - Carpiquet Airport%France
+SEMH%MCH%Machala%General Serrano%Ecuador
+ULMM%MMK%Murmansk%Murmansk Airport%Russia
+EPBY%BZG%Bydgoszcz%Bydgoszcz Ignacy Jan Paderewski Airport%Poland
+MRBC%BCL%Barra del Colorado%Barra del Colorado Airport%Costa Rica
+ESGL%LDK%Lidkoping%Lidkoping%Sweden
+FAMN%LLE%Malelane%Malelane%South Africa
+ZGHA%CSX%Changsha%Changsha Huanghua Intl Airport%China - Peoples Republic
+SVVA%VLN%Valencia%Arturo Michelena Intl%Venezuela
+FZCV%MSM%Masi-Manimba%Masi-Manimba%Congo, Democratic Republic of the
+OEDF%DMM%Dammam%King Fahd Intl Airport%Saudi Arabia
+LSZH%ZRH%Zurich%Zurich Airport%Switzerland
+DAUT%TMX%Timimoun%Timimoun Airport%Algeria
+DIAP%ABJ%Abidjan%Felix Houphouet-Boigny%Ivory Coast
+FNUG%UGO%Uige%Uige%Angola
+VVCI%HPH%Hai Phong%Cat Bi Airport%Vietnam
+VYGW%GWA%Gwa%Gwa%Myanmar (Burma)
+MRNS%NOM%Nosara Beach%Nosara Airport%Costa Rica
+KSHV%SHV%Shreveport, Louisiana%Shreveport Regional Airport%USA
+KVCV%VCV%Victorville, California%Southern California Logistics Airport%USA
+CYIV%YIV%Island Lake, Manitoba%Island Lake%Canada
+ZBAA%PEK%Beijing%Beijing Capital Intl Airport%China - Peoples Republic
+MYBG%GHC%Great Harbour Cay%Great Harbour Cay Airport%Bahamas
+ENBR%BGO%Bergen%Bergen Airport, Flesland%Norway
+MMIO%SLW%Saltillo%Plan de Guadalupe Intl Airport%Mexico
+YCKI%CKI%Croker Island%Croker Island Airport%Australia
+LFKX%MFX%Meribel%Meribel Airport%France
+ZMCD%COQ%Choibalsan%Choibalsan%Mongolia
+EGHI%SOU%Southampton%Southampton Airport%United Kingdom
+MMMV%LOV%Monclova%Venustiano Carranza Intl Airport%Mexico
+OEMA%MED%Medina%Prince Mohammad Bin Abdulaziz Airport%Saudi Arabia
+LFRU%MXN%Morlaix%Morlaix - Ploujean Airport%France
+LSZR%ACH%St Gallen%St Gallen - Altenrhein%Switzerland
+ZGGG%CAN%Guangzhou%Guangzhou Baiyun Intl Airport%China - Peoples Republic
+GABS%BKO%Bamako%Senou%Mali
+FZGV%IKL%Ikela%Ikela%Congo, Democratic Republic of the
+TDPD%DOM%Marigot%Melville Hall Airport%Dominica
+EIDL%CFN%Carrickfin%Donegal Airport%Ireland
+AYGA%GKA%Goroka%Goroka%Papua New Guinea
+LTBR%YEI%Bursa%Bursa Yenisehir Airport%Turkey
+DGTK%TKD%Takoradi%Takoradi%Ghana
+KGRK%GRK%Killeen, Texas%Killeen-Fort Hood Regional Airport (R. Gray Army Airfield)%USA
+UWKS%CSY%Cheboksary%Cheboksary Airport%Russia
+KTUP%TUP%Tupelo, Mississippi%Tupelo Regional Airport (C.D. Lemons Field)%USA
+KGUC%GUC%Gunnison, Colorado%Gunnison-Crested Butte Regional Airport%USA
+MYEN%NMC%Norman's Cay%Norman's Cay Airport%Bahamas
+RKJY%RSU%Yeosu%Yeosu%South Korea
+SCCC%CCH%Chile Chico%Chile Chico%Chile
+CYMU%YUD%Umiujaq, Quebec%Umiujaq%Canada
+LFKJ%AJA%Ajaccio%Campo Dell Oro Airport%France
+RJOW%IWJ%Shimane%Iwami Airport%Japan
+CYPN%YPN%Port Menier, Quebec%Port Menier%Canada
+RPUO%BSO%Basco%Basco Airport%Philippines
+LESA%SLM%Salamanca%Salamanca Airport (Mil./Civil)%Spain
+LGKL%KLX%Kalamata%Kalamata Intl Airport%Greece
+FTTL%OTC%Bol%Berim%Chad
+OPOR%ORW%Ormara%Ormara Airport%Pakistan
+SPQT%IQT%Iquitos%Col Francisco Secada Vignetta%Peru
+YSRN%SRN%Strahan%Strahan Airport%Australia
+SULS%PDP%Maldonado%Capitan Curbelo Intl%Uruguay
+FZFP%KLI%Kotakoli%Kotakoli%Congo, Democratic Republic of the
+YFBS%FRB%Forbes%Forbes Airport%Australia
+VVPK%PXU%Pleiku%Pleiku Airport%Vietnam
+HAMK%MQX%Mekele%Alula Aba Nega%Ethiopia
+VEMH%LDA%Malda - English Bazar (West Bengal)%Malda Airport%India
+KJFK%JFK%New York, New York%John F. Kennedy Intl Airport%USA
+SKPC%PCR%Puerto Carreno%Puerto Carreno%Colombia
+VLHS%OUI%Ban Houeisay%Ban Houeisay%Laos
+VGSD%SPD%Saidpur%Saidpur Airport%Bangladesh
+WBGG%KCH%Kuching%Kuching Intl%Malaysia
+MMPB%PBC%Puebla%Hermanos Serdan Intl Airport%Mexico
+YBWP%WEI%Weipa%Weipa Airport%Australia
+KSFO%SFO%San Francisco, California%San Francisco Intl Airport%USA
+VRMH%HAQ%Hanimaadhoo Island%Hanimaadhoo%Maldives
+ENBV%BVG%Berlevag%Berlevag Airport%Norway
+LPFL%FLW%Flores Island%Flores Airport%Portugal
+CYPY%YPY%Ft Chipewyan, Alberta%Ft Chipewyan%Canada
+VOTV%TRV%Thiruvananthapuram (Kerala)%Trivandrum Intl Airport%India
+YBMA%ISA%Mount Isa%Mount Isa Airport%Australia
+EHBK%MST%Maastricht%Maastricht Aachen Airport%Netherlands
+YBIE%BEU%Bedourie%Bedourie Airport%Australia
+OIKB%BND%Bandar Abbass%Bandar Abbass Intl Airport%Iran
+CYID%YDG%Digby, Nova Scotia%Digby%Canada
+ESPA%LLA%Lulea%Kallax%Sweden
+MUCA%AVI%Ciego de Avila%Maximo Gomez Intl Airport%Cuba
+CEQ5%YGC%Grande Cache, Alberta%Grande Cache%Canada
+LTCG%TZX%Trabzon%Trabzon Airport%Turkey
+LIPT%VIC%Vicenza%Vicenza Trissino Airport%Italy
+ENBS%BJF%Batsfjord%Batsfjord Airport%Norway
+EGEW%WRY%Aikerness%Westray Airport%United Kingdom
+OPRT%RAZ%Rawalakot%Rawalakot Airport%Pakistan
+PHNL%HNL%Honolulu, Hawaii%Honolulu Intl Airport (Civil/Mil.)%USA
+CYKQ%YKQ%Waskaganish, Quebec%Waskaganish%Canada
+FYOA%OND%Ondangwa%Ondangwa%Namibia
+OPSD%KDU%Skardu%Skardu Airport%Pakistan
+USCC%CEK%Chelyabinsk%Balandino Airport%Russia
+FOOT%TCH%Tchibanga%Tchibanga%Gabon
+FZVM%MEW%Mweka%Mweka%Congo, Democratic Republic of the
+CYCB%YCB%Cambridge Bay, Northwest Territories%Cambridge Bay%Canada
+CYVM%YVM%Qikiqtarjuaq, Northwest Territories%Qikiqtarjuaq%Canada
+SCFA%ANF%Antofagasta%Cerro Moreno Intl%Chile
+MYSM%ZSA%Cockburn Town%San Salvador Airport (Cockburn Town Airport)%Bahamas
+FXQN%UNE%Qacha's Nek%Qacha's Nek%Lesotho
+BGDU%DUN%Dundas%Dundas Airport%Greenland (Denmark)
+RPVI%ILO%Iloilo%Mandurriao Airport%Philippines
+VOCL%CCJ%Kozhikode (Kerala)%Calicut Intl Airport%India
+VYKG%KET%Kengtung%Kengtung%Myanmar (Burma)
+DAUG%GHA%Ghardaia%Ghardaia - Noumerat-Moufdi Zakaria Airport%Algeria
+FKKM%FOM%Foumban%Nkounja%Cameroon
+KACT%ACT%Waco, Texas%Waco Regional Airport%USA
+ZWAT%AAT%Altay%Altay Airport%China - Peoples Republic
+CYDO%YDO%Dolbeau-St-Methode, Quebec%Dolbeau-St-Methode%Canada
+FAHT%HDS%Hoedspruit%Hoedspruit%South Africa
+OISS%SYZ%Shiraz%Shiraz Intl Airport%Iran
+KMSN%MSN%Madison, Wisconsin%Dane County Regional Airport (Truax Field)%USA
+GFYE%WYE%Yengema%Yengema%Sierra Leone
+LSGG%GVA%Geneva%Geneva - Cointrin%Switzerland
+FYWB%WVB%Walvis Bay%Walvis Bay%Namibia
+LWOH%OHD%Ohrid%Ohrid Airport%Macedonia
+FAMG%MGH%Margate%Margate%South Africa
+KSAN%SAN%San Diego, California%San Diego Intl Airport%USA
+SVVG%VIG%El Vigia%Juan Pablo Perez Alfonzo%Venezuela
+CYDN%YDN%Dauphin, Manitoba%Barker%Canada
+LIDB%BLX%Belluno%Belluno Airport%Italy
+YSWL%SWC%Stawell%Stawell Airport%Australia
+CYTE%YTE%Cape Dorset, Northwest Territories%Cape Dorset%Canada
+KJLN%JLN%Joplin, Missouri%Joplin Regional Airport%USA
+OEGS%ELQ%Gassim%Gassim Regional Airport%Saudi Arabia
+FMNM%MJN%Mahajanga%Amborovy%Madagascar
+ZMBH%BYN%Bayankhongor%Bayankhongor%Mongolia
+FZKJ%BZU%Buta-Zega%Buta-Zega%Congo, Democratic Republic of the
+HCMK%KMU%Kisimayu%Kisimayu%Somalia
+ZSLQ%HYN%Huangyan%Huangyan Luqiao Airport%China - Peoples Republic
+HEBL%ABS%Abu Simbel%Abu Simbel Airport%Egypt
+FLCP%CIP%Chipata%Chipata%Zambia
+TBPB%BGI%Brigetown%Grantley Adams Intl%Barbados
+SCFT%FFU%Futaleufu%Futaleufu%Chile
+OPQT%UET%Quetta%Quetta Intl Airport%Pakistan
+KITH%ITH%Ithaca, New York%Ithaca Tompkins Regional Airport%USA
+CYVV%YVV%Wiarton, Ontario%Wiarton%Canada
+OPMJ%MJD%Mohenjo-daro%Moenjodaro Airport%Pakistan
+FKKB%KBI%Kribi%Kribi%Cameroon
+KAZO%AZO%Kalamazoo, Michigan%Kalamazoo/Battle Creek Intl Airport%USA
+SANT%TUC%Tucuman%Benjamin Matienzo Intl Airport%Argentina
+EDWR%BMK%Borkum%Borkum%Germany
+DAAV%GJL%Jijel%Jijel - Ferhat Abbas Airport%Algeria
+OPFA%LYP%Faisalabad%Faisalabad Intl Airport%Pakistan
+UKON%NLV%Mykolaiv%Mykolaiv Airport%Ukraine
+EHRD%RTM%Rotterdam%Rotterdam Airport%Netherlands
+SVED%EOR%El Dorado%El Dorado%Venezuela
+YMTG%MGB%Mount Gambier%Mount Gambier Airport%Australia
+EDAH%HDF%Zirchow%Heringsdorf%Germany
+CYTA%YTA%Pembroke, Ontario%Pembroke%Canada
+EDDB%SXF%Berlin%Berlin Schonefeld%Germany
+SPJL%JUL%Juliaca%Inca Manco Capac%Peru
+CCD4%YSO%Postville, Newfoundland%Postville%Canada
+LEMG%AGP%Malaga%Malaga Airport%Spain
+LKKU%UHE%Uherske Hradiste%Kunovice Airport%Czech Republic
+AYRB%RAB%Rabaul%Rabaul%Papua New Guinea
+NZKI%KBZ%Kaikoura%Kaikoura%New Zealand
+CYFC%YFC%Fredericton, New Brunswick%Fredericton%Canada
+RJBD%SHM%Wakayama%Nanki-Shirahama Airport%Japan
+OYAB%EAB%Abbs%Abbs%Yemen
+KTOL%TOL%Toledo, Ohio%Toledo Express Airport%USA
+LGSO%JSY%Syros (Siros)%Syros Island National Airport%Greece
+FZRB%BDV%Moba%Moba%Congo, Democratic Republic of the
+KFSD%FSD%Sioux Falls, South Dakota%Sioux Falls Regional Airport (Joe Foss Field)%USA
+CYYW%YYW%Armstrong, Ontario%Armstrong%Canada
+DNPO%PHC%Port Harcourt%Port Harcourt%Nigeria
+MUNG%GER%Nueva Gerona%Rafael Cabrera Airport%Cuba
+YBCS%CNS%Cairns%Cairns Intl Airport%Australia
+VEAT%IXA%Agartala (Tripura)%Agartala Airport%India
+LEGR%GRX%Granada%Federico Garcia Lorca Granada-Jaen Airport%Spain
+LQTZ%TZL%Tuzla%Tuzla Intl Airport%Bosnia-Hercegovina
+DAUA%AZR%Adrar%Adrar - Touat-Ch Sidi Mohamed Belkebir Airport%Algeria
+CJY3%YTT%Tisdale, Saskatchewan%Tisdale%Canada
+KPIH%PIH%Pocatello, Idaho%Pocatello Regional Airport%USA
+EKAH%AAR%Aarhus%Aarhus Airport%Denmark
+HADR%DIR%Dire Dawa%A.T.D. Yilma Intl%Ethiopia
+FNNG%GXG%Negage%Negage%Angola
+ESNK%KRF%Kramfors%Kramfors%Sweden
+CYRO%YRO%Ottawa, Ontario%Rockcliffe%Canada
+OICK%KHD%Khoram Abad%Khoram Abad Airport%Iran
+CYQK%YQK%Kenora, Ontario%Kenora%Canada
+ENSS%VAW%Vardo%Vardo Airport%Norway
+VCCG%GOY%Gal Oya%Amparai%Sri Lanka
+FEFM%BBY%Bambari%Bambari%Central Africa
+KSBY%SBY%Salisbury, Maryland%Salisbury-Ocean City Wicomico Regional Airport%USA
+HUAR%RUA%Arua%Arua%Uganda
+OIBI%YEH%Asalouyeh%Asalouyeh Airport%Iran
+ANAU%INU%Nauru Island%Nauru Intl Airport%Nauru
+EDWI%WVN%Mariensiel%Wilhelmshaven-Mariensiel%Germany
+WIPT%PDG%Ketaping / Padang, West Sumatra%Minangkabau Intl Airport%Indonesia
+FNUB%SDD%Lubango%Lubango%Angola
+EDDW%BRE%Bremen%Airport Bremen%Germany
+KGJT%GJT%Grand Junction, Colorado%Walker Field Airport%USA
+ENGM%OSL%Oslo - Gardermoen%Oslo Gardermoen Airport%Norway
+SKPP%PPN%Popayan%Guillermo Leon Valencia%Colombia
+OERK%RUH%Riyadh%King Khalid Intl Airport%Saudi Arabia
+SBMO%MCZ%Maceio%Zumbi dos Palmares Airport%Brazil
+VVDN%DAD%Da Nang%Da Nang Intl Airport%Vietnam
+FWLI%LLW%Lilongwe%Lilongwe Intl%Malawi
+LTCR%MQM%Mardin%Mardin Airport%Turkey
+OAKS%KHT%Khost%Khost%Afghanistan
+BIEG%EGS%Egilsstaair%Egilsstaoir Airport%Iceland
+DIAU%OGO%Abengourou%Abengourou%Ivory Coast
+ZSJJ%JIU%Jiujiang%Jiujiang Lushan Airport%China - Peoples Republic
+SVGU%GUQ%Guanare%Guanare%Venezuela
+LIMP%PMF%Parma%Parma Airport (G. Verdi Airport)%Italy
+HSFS%ELF%El Fasher%El Fasher%Sudan
+RJBE%UKB%Hyogo%Kobe Airport%Japan
+SBMG%MGF%Maringa%Maringa Domestic Airport%Brazil
+SAEZ%EZE%Ezeiza%Ezeiza Intl Airport%Argentina
+HESH%SSH%Sharm El Sheikh%Sharm El Sheikh Intl Airport%Egypt
+CYMG%YMG%Manitouwadge, Ontario%Manitouwadge%Canada
+BIPA%PFJ%Patreksfjorour%Patreksfjorour Airport%Iceland
+MDPP%POP%Puerto Plata%Gregorio Luperon Intl Airport%Dominican Republic
+HUPA%PAF%Pakuba%Pakuba%Uganda
+VVDL%DLI%Da Lat%Lien Khuong Airport%Vietnam
+DIOF%OFI%Ouango Fitini%Ouango Fitini%Ivory Coast
+VNMG%MEY%Meghauli%Meghauli%Nepal
+SBFZ%FOR%Fortaleza%Pinto Martins Intl Airport%Brazil
+VAGO%GOI%Dabolim (Goa)%Dabolim Airport (Goa Airport) (Mil./Civil)%India
+NZWK%WHK%Whakatane%Whakatane%New Zealand
+CYQN%YQN%Nakina, Ontario%Nakina%Canada
+VYPN%BSX%Pathein%Pathein%Myanmar (Burma)
+EDLE%ESS%Essen%Flughafen Essen - Mulheim%Germany
+SKTB%TIB%Tibu%Tibu%Colombia
+CYCD%YCD%Nanaimo, British Columbia%Nanaimo%Canada
+OIKM%BXR%Bam%Bam Airport%Iran
+RJSD%SDS%Niigata%Sado Airport%Japan
+CYHM%YHM%Hamilton, Ontario%Hamilton%Canada
+EDHK%KEL%Kiel%Kiel-Holtenau%Germany
+KGGG%GGG%Longview, Texas%East Texas Regional Airport%USA
+ZGWZ%WUZ%Wuzhou%Wuzhou Changzhoudao Airport%China - Peoples Republic
+MWCR%GCM%Grand Cayman%Roberts Intl%Cayman Islands
+YLEC%LGH%Leigh Creek%Leigh Creek Airport%Australia
+NZNS%NSN%Nelson%Nelson%New Zealand
+LIBD%BRI%Bari%Palese Macchie Airport%Italy
+HLLS%SEB%Sebha%Sebha%Libya
+HKAM%ASV%Amboseli%Amboseli%Kenya
+ULLI%LED%Saint Petersburg%Pulkovo Airport%Russia
+HTIR%IRI%Iringa%Iringa%Tanzania
+KMSP%MSP%Minneapolis, Minnesota%Minneapolis-St. Paul Intl Airport%USA
+NZWS%WSZ%Westport%Westport%New Zealand
+OPKD%HDD%Hyderabad%Hyderabad Airport%Pakistan
+VCCC%RML%Colombo%Ratmalana%Sri Lanka
+YSCB%CBR%Canberra%Canberra Intl Airport%Australia
+KERI%ERI%Erie, Pennsylvania%Erie Intl Airport (Tom Ridge Field)%USA
+FCPL%DIS%Dolisie%Dolisie%Congo, Republic of
+YWTN%WIN%Winton%Winton Airport%Australia
+VVTH%TBB%Tuy Hoa%Dong Tac Airport%Vietnam
+EFYL%YLI%Ylivieska%Ylivieska Airport%Finland
+RJNT%TOY%Toyama%Toyama Airport%Japan
+OEPA%EPA%Qaisumah%Qaisumah Domestic Airport%Saudi Arabia
+LFBZ%BIQ%Biarritz%Biarritz-Anglet-Bayonne Airport%France
+DAUO%ELU%El Oued%El Oued - Guemar Airport%Algeria
+LFLL%LYS%Lyon%Lyon Saint Exupery Airport%France
+MMIA%CLQ%Colima%Lic. Miguel de la Madrid Airport%Mexico
+ZWFY%FYN%Fuyun%Fuyun Airport%China - Peoples Republic
+KMGW%MGW%Morgantown, West Virginia%Morgantown Municipal Airport (Walter L. Bill Hart Field)%USA
+FMSB%WBO%Beroroha%Antsoa%Madagascar
+FAPN%NTY%Pilanesberg%Pilanesberg%South Africa
+SPRN%SMG%Santa Maria De Fatima%Santa Maria De Fatima%Peru
+ENSK%SKN%Stokmarknes%Stokmarknes Airport%Norway
+FWMG%MAI%Mangochi%Mangochi%Malawi
+RPUR%BQA%Baler%Baler Airport%Philippines
+YBPN%PPP%Proserpine%Proserpine-Whitsunday Coast Airport%Australia
+OPRK%RYK%Rahimyar Khan%Shaikh Zayed Intl Airport%Pakistan
+YCUE%CUY%Cue%Cue Airport%Australia
+LHMC%MCQ%Miskolc%Miskolc Airport%Hungary
+ZWKM%KRY%Karamay%Karamay Airport%China - Peoples Republic
+YDBI%DRN%Dirranbandi%Dirranbandi Airport%Australia
+UTDL%LBD%Khudzhand%Khudzhand%Tajikistan
+CYLL%YLL%Lloydminster, Alberta%Lloydminster%Canada
+AYPY%POM%Port Moresby%Port Moresby Jacksons Intl%Papua New Guinea
+YYNG%NGA%Young%Young Airport%Australia
+ZKPY%FNJ%Pyongyang%Sunan%South Korea
+SCIE%CCP%Concepcion%Carriel Sur Intl%Chile
+CZAC%ZAC%York Landing, Manitoba%York Landing%Canada
+HKKR%KEY%Kericho%Kericho%Kenya
+KRIC%RIC%Richmond, Virginia%Richmond Intl Airport%USA
+KPNS%PNS%Pensacola, Florida%Pensacola Regional Airport%USA
+FVKB%KAB%Kariba%Kariba%Zimbabwe
+CYKD%LAK%Aklavik, Northwest Territories%Aklavik%Canada
+ZUXC%XIC%Xichang%Xichang Qingshan Airport%China - Peoples Republic
+CYSD%YSD%Suffield, Alberta%Suffield%Canada
+ENHK%HAA%Hasvik%Hasvik Airport%Norway
+VRMT%KDO%Kaadedhdhoo Island%Kaadedhdhoo%Maldives
+SAAP%PRA%Parana%General Urquiza Airport%Argentina
+VABP%BHO%Bhopal (Madhya Pradesh)%Raja Bhoj Airport%India
+VDPP%PNH%Phnom Penh%Pochentong Intl%Cambodia
+LDSB%BWK%Brac%Airport Brac%Croatia
+EVLA%LPX%Liepaja%Liepaja Intl Airport%Latvia
+ZPLJ%LJG%Lijiang%Lijiang Airport%China - Peoples Republic
+LYPR%PRN%Pristina%Pristina Intl Airport%Serbia
+LDZD%ZAD%Zadar%Zadar Airport%Croatia
+LQBK%BNX%Banja Luka%Banja Luka Intl Airport%Bosnia-Hercegovina
+CYWJ%YWJ%Deline, Northwest Territories%Deline%Canada
+RCKH%KHH%Kaohsiung City%Kaohsiung Intl Airport%Taiwan, Republic of China
+FYKM%MPA%Katima Mulilo%Katima Mulilo%Namibia
+RORE%IEJ%Okinawa%Iejima Airport%Japan
+LFMK%CCF%Carcassonne%Carcassonne en Pays Cathare Airport%France
+CZLQ%YTD%Thicket Portage, Manitoba%Thicket Portage%Canada
+MUNB%QSN%San Nicolas de Bari%San Nicolas de Bari Airport%Cuba
+FXMK%MKH%Mokhotlong%Mokhotlong%Lesotho
+LFXC%VTL%Vittel%Vittel - Auzainvilliers Airport%France
+LTBY%AOE%Eskisehir%Eskisehir Anadolu Airport%Turkey
+WBGW%LWY%Lawas%Lawas%Malaysia
+NZWO%WIR%Wairoa%Wairoa%New Zealand
+CYZH%YZH%Slave Lake, Alberta%Slave Lake%Canada
+WMKL%LGK%Langkawi I.%Langkawi Intl%Malaysia
+OPCH%CJL%Chitral%Chitral Airport%Pakistan
+UKLI%IFO%Ivano-Frankivsk%Ivano-Frankivsk Airport%Ukraine
+GVSN%SNE%Preguica%Preguica%Cape Verde
+CYWL%YWL%Williams Lake, British Columbia%Williams Lake%Canada
+UARR%URA%Uralsk%Uralsk%Kazakhstan
+RPMH%CGM%Mambajao%Camiguin Airport%Philippines
+PHNY%LNY%Lanai City, Hawaii%Lanai Airport%USA
+CYQT%YQT%Thunder Bay, Ontario%Thunder Bay%Canada
+MKJP%KIN%Kingston%Norman Manley Intl%Jamaica
+UHSS%UUS%Yuzhno-Sakhalinsk%Yuzhno-Sakhalinsk Airport%Russia
+MMMM%MLM%Morelia%General Francisco J. Mujica Intl Airport%Mexico
+OPMP%MPD%Sindhri Tharparkar%Sindhri Airport%Pakistan
+FYTM%TSB%Tsumeb%Tsumeb%Namibia
+FMST%TLE%Toliara%Toliara%Madagascar
+SECU%CUE%Cuenca%Mariscal Lamar%Ecuador
+LFBD%BOD%Bordeaux%Bordeaux Airport Airport%France
+ZLYA%ENY%Yan'an%Yan'an Airport%China - Peoples Republic
+EFSA%SVL%Savonlinna%Savonlinna Airport%Finland
+SPTN%TCQ%Tacna%Col Carlos Ciriani Santa Rosa%Peru
+MMCL%CUL%Culiacan%Federal de Bachigualato Intl Airport%Mexico
+GQNT%THT%Tamchakett%Tamchakett%Mauritania
+UKHH%HRK%Kharkiv%Osnova Airport%Ukraine
+CCZ2%YRG%Rigolet, Newfoundland%Rigolet%Canada
+WMKB%BWH%Butterworth%Butterworth%Malaysia
+WIIT%TKG%Bandar Lampung, Lampung%Radin Inten II Airport%Indonesia
+DNIB%IBA%Ibadan%New Ibadan%Nigeria
+ENSD%SDN%Sandane%Sandane Airport%Norway
+YTIB%TYB%Tibooburra%Tibooburra Airport%Australia
+EFIT%KTQ%Kitee%Kitee Airport%Finland
+KCPR%CPR%Casper, Wyoming%Natrona County Intl Airport%USA
+ZHSS%SHS%Shashi%Shashi Airport%China - Peoples Republic
+KELP%ELP%El Paso, Texas%El Paso Intl Airport%USA
+UMBB%BQT%Brest%Brest%Belarus
+WRBP%PKY%Palangkaraya, Central Kalimantan%Tjilik Riwut Airport%Indonesia
+CYYU%YYU%Kapuskasing, Ontario%Kapuskasing%Canada
+EDJA%FMM%Memmingen%Allgau Airport / Memmingen%Germany
+CYXP%YXP%Pangnirtung, Northwest Territories%Pangnirtung%Canada
+LFMT%MPL%Montpellier%Montpellier-Mediterranee Airport%France
+KHYA%HYA%Hyannis, Massachusetts%Barnstable Municipal Airport (Boardman/Polando Field)%USA
+KACV%ACV%Arcata/Eureka, California%Arcata Airport%USA
+SBUL%UDI%Uberlandia%Uberlandia Airport%Brazil
+SPHO%AYP%Ayacucho%Col Alfredo Mendivil Duarte%Peru
+KPHX%PHX%Phoenix, Arizona%Phoenix Sky Harbor Intl Airport%USA
+KSJT%SJT%San Angelo, Texas%San Angelo Regional Airport (Mathis Field)%USA
+CYKJ%YKJ%Key Lake, Saskatchewan%Key Lake%Canada
+LLHA%HFA%Haifa%Haifa Airport (U. Michaeli Airport)%Israel
+YBTH%BHS%Bathurst%Bathurst Airport%Australia
+FZEN%BSU%Basankusu%Basankusu%Congo, Democratic Republic of the
+ZSXZ%XUZ%Xuzhou%Xuzhou Airport%China - Peoples Republic
+VNRC%RHP%Ramechhap%Ramechhap%Nepal
+FANS%NLP%Nelspruit%Nelspruit%South Africa
+LGRP%RHO%Rhodes (Rhodos, Rodos)%Rhodes Intl Airport (Diagoras)%Greece
+MYBS%BIM%South Bimini%South Bimini Airport%Bahamas
+EGJA%ACI%Alderney%Alderney Airport%United Kingdom
+EIWF%WAT%Waterford%Waterford Airport%Ireland
+GOSM%MAX%Matam%Ouro Sogui%Senegal
+CYXN%YXN%Whale Cove, Northwest Territories%Whale Cove%Canada
+FTTP%PLF%Pala%Pala%Chad
+RJCK%KUH%Hokkaido%Kushiro Airport%Japan
+TDCF%DCF%Roseau%Canefield Airport%Dominica
+KTRI%TRI%Tri-Cities, Tennessee%Tri-Cities Regional Airport%USA
+ESSK%GVX%Gavle-Sandviken%Gavle-Sandviken%Sweden
+CYQI%YQI%Yarmouth, Nova Scotia%Yarmouth%Canada
+VAJB%JLR%Jabalpur (Madhya Pradesh)%Jabalpur Airport%India
+LFOT%TUF%Tours%Tours - Val-de-Loire Airport%France
+OSKL%KAC%Kamishly%Kamishly%Syria
+CYGO%YGO%Gods Lake Narrows, Manitoba%Gods Lake Narrows%Canada
+UKDD%DNK%Dnipropetrovsk%Dnipropetrovsk Airport%Ukraine
+SKLP%LPD%La Pedrera%La Pedrera%Colombia
+LEBZ%BJZ%Badajoz%Badajoz Airport%Spain
+KSAV%SAV%Savannah, Georgia%Savannah/Hilton Head Intl Airport%USA
+KORF%ORF%Norfolk, Virginia%Norfolk Intl Airport%USA
+VIBR%KUU%Bhuntar (Himachal Pradesh)%Kullu Manali Airport%India
+KMWA%MWA%Marion, Illinois%Williamson County Regional Airport%USA
+CYST%YST%St Theresa Point, Manitoba%St Theresa Point%Canada
+PLCH%CXI%Christmas I%Cassidy Intl%Kiribati
+LFKB%BIA%Bastia%Bastia-Poretta Airport%France
+NZKT%KAT%Kaitaia%Kaitaia%New Zealand
+CER3%YDC%Drayton Valley, Alberta%Industrial%Canada
+EKVJ%STA%Stauning%Stauning Airport%Denmark
+VYLK%LIW%Loikaw%Loikaw%Myanmar (Burma)
+LECO%LCG%A Coruna%A Coruna Airport%Spain
+DNZA%ZAR%Zaria%Zaria%Nigeria
+YESP%EPR%Esperance%Esperance Airport%Australia
+KMIA%MIA%Miami, Florida%Miami Intl Airport%USA
+FOGF%FOU%Fougamou%Fougamou%Gabon
+CYLU%XGR%Kangiqsualujjuaq, Quebec%Kangiqsualujjuaq Georges River%Canada
+SATR%RCQ%Reconquista%Daniel Jurkic Airport%Argentina
+CYVG%YVG%Vermilion, Alberta%Vermilion%Canada
+KBMI%BMI%Bloomington, Illinois%Central Illinois Regional Airport%USA
+FNLU%LAD%Luanda%Luanda - 4th Of February%Angola
+ZSAM%XMN%Xiamen%Xiamen Gaoqi Intl Airport%China - Peoples Republic
+ZPBS%BSD%Baoshan%Baoshan Airport%China - Peoples Republic
+LIME%BGY%Bergamo%Orio al Serio Intl Airport%Italy
+LFMP%PGF%Perpignan%Perpignan - Rivesaltes Airport%France
+FOGR%LBQ%Lambarene%Lambarene%Gabon
+FOGV%MVX%Minvoul%Minvoul%Gabon
+ENAN%ANX%Andenes%Andoya Airport%Norway
+LLMZ%MTZ%Masada%Masada Airfield (I. Bar-Yehuda Airfield)%Israel
+SKRH%RCH%Riohacha%Almirante Padilla%Colombia
+MMCV%CVM%Ciudad Victoria%General Pedro J. Mendez National Airport%Mexico
+ENHF%HFT%Hammerfest%Hammerfest Airport%Norway
+SKUL%ULQ%Tulua%Farfan%Colombia
+YWLG%WGE%Walgett%Walgett Airport%Australia
+EFRO%RVN%Rovaniemen%Rovaniemi Airport%Finland
+MMCP%CPE%Campeche%Ing. Alberto Acuna Ongay Intl Airport%Mexico
+KSAF%SAF%Santa Fe, New Mexico%Santa Fe Municipal Airport%USA
+LBSF%SOF%Sofia%Sofia Airport%Bulgaria
+CYXK%YXK%Rimouski, Quebec%Rimouski%Canada
+MRPJ%PJM%Puerto Jimenez%Puerto Jimenez Airport%Costa Rica
+SBPV%PVH%Porto Velho%Governador Jorge Teixeira de Oliveira Intl Airport%Brazil
+TFFM%GBJ%Grand-Bourg%Marie Galante Airport%Guadeloupe - French Antilles
+CYYL%YYL%Lynn Lake, Manitoba%Lynn Lake%Canada
+MNBL%BEF%Bluefields%Bluefields%Nicaragua
+HAGN%GDQ%Gonder%Azezo%Ethiopia
+GOOK%KLC%Kaolack%Kaolack%Senegal
+YNRM%QRM%Narromine%Narromine Airport%Australia
+UKLR%RWN%Rivne%Rivne Airport%Ukraine
+LFLS%GNB%Grenoble%Grenoble - Isere Airport%France
+SVCR%CZE%Coro%Jose L Chirinos Intl%Venezuela
+NZCI%CHT%Chatham Is%Chatham Is/Tuuta%New Zealand
+UNKY%KYZ%Kyzyl%Kyzyl Airport%Russia
+VTCT%CEI%Chiang Rai%Chiang Rai Intl Airport%Thailand
+FEFR%BIV%Bria%Bria%Central Africa
+SPHY%ANS%Andahuaylas%Andahuaylas%Peru
+FZFU%BMB%Bumba%Bumba%Congo, Democratic Republic of the
+FZEA%MDK%Mbandaka%Mbandaka%Congo, Democratic Republic of the
+DAON%TLM%Tlemcen%Tlemcen - Zenata - Messali El Hadj Airport%Algeria
+SCTC%ZCO%Temuco%Maquehue%Chile
+ZWWW%URC%Urumqi%Diwopu Airport%China - Peoples Republic
+UGSS%SUI%Sukhimi%Babushara Airport%Georgia
+MGHT%HUG%Huehuetenango%Huehuetenango Airport%Guatemala
+KPGA%PGA%Page, Arizona%Page Municipal Airport%USA
+LIBP%PSR%Pescara%Abruzzo Intl Airport%Italy
+LTAR%VAS%Sivas%Sivas Airport%Turkey
+BGJN%JAV%Ilulissat (Jakobshavn)%Jakobshavn Airport%Greenland (Denmark)
+DIBN%BQO%Bouna%Tehini%Ivory Coast
+MUCM%CMW%Camaguey%Ignacio Agramonte Intl Airport%Cuba
+TJCP%CPX%Isla de Culebra%Benjamin Rivera Noriega Airport%Puerto Rico
+ZSCG%CZX%Changzhou%Changzhou Airport%China - Peoples Republic
+VOHY%HYD%Hyderabad (Andhra Pradesh)%Rajiv Gandhi Intl Airport%India
+FKKY%YAO%Yaounde/Ville%Yaounde/Ville%Cameroon
